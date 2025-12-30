@@ -1,26 +1,35 @@
-name: Update M3U List
+name: Listeyi Guncelle
+
 on:
   schedule:
-    - cron: '0 */3 * * *' # Her 3 saatte bir çalışır
-  workflow_dispatch: # Manuel başlatma butonu ekler
+    - cron: '0 */6 * * *'
+  workflow_dispatch:
 
 jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v3
-      - name: Python Kurulumu
+      - name: Depoyu kopyala
+        uses: actions/checkout@v3
+
+      - name: Python Kur
         uses: actions/setup-python@v4
         with:
-          python-version: '3.9'
-      - name: Gerekli Araclari Kur
+          python-version: '3.x'
+
+      - name: Gerekli kutuphaneleri yukle
         run: pip install -r requirements.txt
-      - name: Listeyi Guncelle
+
+      - name: YouTube Listesini Hazirla
         run: python main.py
+
+      - name: Seyir Sandigi Arsivini Hazirla
+        run: python archive.py
+
       - name: Degisiklikleri Kaydet
         run: |
-          git config --local user.email "action@github.com"
-          git config --local user.name "GitHub Action"
-          git add live.m3u
-          git commit -m "Liste Güncellendi" || exit 0
+          git config --global user.name "GitHub Action"
+          git config --global user.email "action@github.com"
+          git add live.m3u seyir_sandigi.m3u
+          git commit -m "Listeler guncellendi" || exit 0
           git push
