@@ -4,11 +4,11 @@ import re
 # Seyir Sandığı Arşiv Adresi
 ARCHIVE_URL = "http://85.11.144.8/archive/"
 
-# Kanal ID'lerini ve Görünecek İsimlerini Tanımla
+# Kanal Bilgileri ve Logoları (Senin istediğin grup isimleri)
 KANAL_AYARLARI = {
-    "2": {"isim": "BTV ARŞİV", "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/BTV_logo_2013.svg/200px-BTV_logo_2013.svg.png"},
-    "3": {"isim": "NOVA TV ARŞİV", "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Nova_TV_Logo_2011.png/200px-Nova_TV_Logo_2011.png"},
-    "1932": {"isim": "BNT 1 ARŞİV", "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/BNT_1_logo_2018.svg/200px-BNT_1_logo_2018.svg.png"}
+    "2": {"isim": "BTV", "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/BTV_logo_2013.svg/200px-BTV_logo_2013.svg.png"},
+    "3": {"isim": "NOVA TV", "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Nova_TV_Logo_2011.png/200px-Nova_TV_Logo_2011.png"},
+    "1932": {"isim": "BNT 1", "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/BNT_1_logo_2018.svg/200px-BNT_1_logo_2018.svg.png"}
 }
 
 def get_links(url):
@@ -29,28 +29,28 @@ with open("seyir_sandigi.m3u", "w", encoding="utf-8") as f:
         folder_url = f"{ARCHIVE_URL}{k_id}/"
         files = get_links(folder_url)
         
-        # Sadece .mpg uzantılı video dosyalarını al ve tarihe göre ters sırala (en yeni en üstte)
+        # MPG dosyalarını bul ve tarihe göre ters sırala (En yeni en üstte)
         video_files = sorted([f for f in files if f.endswith('.mpg')], reverse=True)
         
-        # Her kanaldan son 24 saati (24 dosyayı) listeye ekle
-        for video_file in video_files[:24]:
+        # Her kanaldan son 48 saatlik kaydı alalım
+        for video_file in video_files[:48]:
             video_url = folder_url + video_file
             
             try:
-                # Örnek dosya: 20251230-22.mpg
+                # 20251230-23.mpg -> Parçalara ayır
                 parcalar = video_file.split(".")[0].split("-")
-                tarih = parcalar[0]
+                tarih_ham = parcalar[0]
                 saat = parcalar[1]
                 
-                gun = tarih[6:8]
-                ay = AYLAR.get(tarih[4:6], tarih[4:6])
+                gun = tarih_ham[6:8]
+                ay_adi = AYLAR.get(tarih_ham[4:6], tarih_ham[4:6])
                 
-                ekran_ismi = f"{gun} {ay} - Saat {saat}:00"
+                # Senin istediğin format: "30 Aralık - Saat 23:00"
+                kanal_gorunumu = f"{gun} {ay_adi} - Saat {saat}:00"
             except:
-                ekran_ismi = video_file
+                kanal_gorunumu = video_file
 
-            # tvg-logo: Kanalın resmi görünür
-            # group-title: Klasörleme yapar (BTV ARŞİV gibi)
-            f.write(f'#EXTINF:-1 tvg-logo="{k_bilgi["logo"]}" group-title="{k_bilgi["isim"]}", {k_bilgi["isim"]} - {ekran_ismi}\n{video_url}\n')
+            # M3U satırını senin örneğine tam uyacak şekilde yazıyoruz
+            f.write(f'#EXTINF:-1 tvg-logo="{k_bilgi["logo"]}" group-title="{k_bilgi["isim"]}",{kanal_gorunumu}\n{video_url}\n')
 
-print("Grup bazlı liste oluşturuldu!")
+print("Liste senin örneğine göre düzenlendi!")
