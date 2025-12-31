@@ -1,9 +1,10 @@
-name: Listeyi Guncelle
+name: Saatlik Guncelleme
 
 on:
   schedule:
-    - cron: '0 */6 * * *'
-  workflow_dispatch:
+    # Her saat başı (0. dakikada) çalışması için:
+    - cron: '0 * * * *'
+  workflow_dispatch: # Bu satır, istediğinde senin de manuel çalıştırmanı sağlar.
 
 jobs:
   build:
@@ -12,24 +13,23 @@ jobs:
       - name: Depoyu kopyala
         uses: actions/checkout@v3
 
-      - name: Python Kur
+      - name: Python Kurulumu
         uses: actions/setup-python@v4
         with:
-          python-version: '3.x'
+          python-version: '3.9'
 
-      - name: Gerekli kutuphaneleri yukle
-        run: pip install -r requirements.txt
-
-      - name: YouTube Listesini Hazirla
-        run: python main.py
-
-      - name: Seyir Sandigi Arsivini Hazirla
-        run: python archive.py
-
-      - name: Degisiklikleri Kaydet
+      - name: Gerekli kütüphaneleri yükle
         run: |
-          git config --global user.name "GitHub Action"
-          git config --global user.email "action@github.com"
-          git add live.m3u seyir_sandigi.m3u
-          git commit -m "Listeler guncellendi" || exit 0
+          pip install requests
+
+      - name: Scripti Calistir
+        run: |
+          python archive.py
+
+      - name: Degisiklikleri Kaydet ve Paylas
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add seyir_sandigi.m3u
+          git commit -m "Saatlik otomatik guncelleme" || exit 0
           git push
