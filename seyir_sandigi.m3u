@@ -1,289 +1,633 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="BTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/BTV_Bulgaria_logo.svg/512px-BTV_Bulgaria_logo.svg.png" group-title="BTV",31 Aralık - Saat 14:00
+#EXTINF:-1, Channel  - 1670/
+http://85.11.144.8/archive//1670/
+#EXTINF:-1, Channel  - 1721/
+http://85.11.144.8/archive//1721/
+#EXTINF:-1, Channel  - 1752/
+http://85.11.144.8/archive//1752/
+#EXTINF:-1, Channel  - 1931/
+http://85.11.144.8/archive//1931/
+#EXTINF:-1, Channel  - 1932/
+http://85.11.144.8/archive//1932/
+#EXTINF:-1, bTV - 20251231-14.mpg
 http://85.11.144.8/archive/2/20251231-14.mpg
-#EXTINF:-1 tvg-name="BTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/BTV_Bulgaria_logo.svg/512px-BTV_Bulgaria_logo.svg.png" group-title="BTV",31 Aralık - Saat 13:00
-http://85.11.144.8/archive/2/20251231-13.mpg
-#EXTINF:-1 tvg-name="BTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/BTV_Bulgaria_logo.svg/512px-BTV_Bulgaria_logo.svg.png" group-title="BTV",31 Aralık - Saat 12:00
-http://85.11.144.8/archive/2/20251231-12.mpg
-#EXTINF:-1 tvg-name="BTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/BTV_Bulgaria_logo.svg/512px-BTV_Bulgaria_logo.svg.png" group-title="BTV",31 Aralık - Saat 11:00
-http://85.11.144.8/archive/2/20251231-11.mpg
-#EXTINF:-1 tvg-name="BTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/BTV_Bulgaria_logo.svg/512px-BTV_Bulgaria_logo.svg.png" group-title="BTV",31 Aralık - Saat 10:00
-http://85.11.144.8/archive/2/20251231-10.mpg
-#EXTINF:-1 tvg-name="BTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/BTV_Bulgaria_logo.svg/512px-BTV_Bulgaria_logo.svg.png" group-title="BTV",31 Aralık - Saat 09:00
-http://85.11.144.8/archive/2/20251231-09.mpg
-#EXTINF:-1 tvg-name="BTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/BTV_Bulgaria_logo.svg/512px-BTV_Bulgaria_logo.svg.png" group-title="BTV",31 Aralık - Saat 08:00
-http://85.11.144.8/archive/2/20251231-08.mpg
-#EXTINF:-1 tvg-name="BTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/BTV_Bulgaria_logo.svg/512px-BTV_Bulgaria_logo.svg.png" group-title="BTV",31 Aralık - Saat 07:00
-http://85.11.144.8/archive/2/20251231-07.mpg
-#EXTINF:-1 tvg-name="BTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/BTV_Bulgaria_logo.svg/512px-BTV_Bulgaria_logo.svg.png" group-title="BTV",31 Aralık - Saat 06:00
-http://85.11.144.8/archive/2/20251231-06.mpg
-#EXTINF:-1 tvg-name="BTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/BTV_Bulgaria_logo.svg/512px-BTV_Bulgaria_logo.svg.png" group-title="BTV",31 Aralık - Saat 05:00
-http://85.11.144.8/archive/2/20251231-05.mpg
-#EXTINF:-1 tvg-name="BTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/BTV_Bulgaria_logo.svg/512px-BTV_Bulgaria_logo.svg.png" group-title="BTV",31 Aralık - Saat 04:00
-http://85.11.144.8/archive/2/20251231-04.mpg
-#EXTINF:-1 tvg-name="BTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/BTV_Bulgaria_logo.svg/512px-BTV_Bulgaria_logo.svg.png" group-title="BTV",31 Aralık - Saat 03:00
-http://85.11.144.8/archive/2/20251231-03.mpg
-#EXTINF:-1 tvg-name="BTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/BTV_Bulgaria_logo.svg/512px-BTV_Bulgaria_logo.svg.png" group-title="BTV",31 Aralık - Saat 02:00
-http://85.11.144.8/archive/2/20251231-02.mpg
-#EXTINF:-1 tvg-name="BTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/BTV_Bulgaria_logo.svg/512px-BTV_Bulgaria_logo.svg.png" group-title="BTV",31 Aralık - Saat 01:00
-http://85.11.144.8/archive/2/20251231-01.mpg
-#EXTINF:-1 tvg-name="BTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/BTV_Bulgaria_logo.svg/512px-BTV_Bulgaria_logo.svg.png" group-title="BTV",31 Aralık - Saat 00:00
-http://85.11.144.8/archive/2/20251231-00.mpg
-#EXTINF:-1 tvg-name="BTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/BTV_Bulgaria_logo.svg/512px-BTV_Bulgaria_logo.svg.png" group-title="BTV",30 Aralık - Saat 23:00
-http://85.11.144.8/archive/2/20251230-23.mpg
-#EXTINF:-1 tvg-name="BTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/BTV_Bulgaria_logo.svg/512px-BTV_Bulgaria_logo.svg.png" group-title="BTV",30 Aralık - Saat 22:00
-http://85.11.144.8/archive/2/20251230-22.mpg
-#EXTINF:-1 tvg-name="BTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/BTV_Bulgaria_logo.svg/512px-BTV_Bulgaria_logo.svg.png" group-title="BTV",30 Aralık - Saat 21:00
-http://85.11.144.8/archive/2/20251230-21.mpg
-#EXTINF:-1 tvg-name="BTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/BTV_Bulgaria_logo.svg/512px-BTV_Bulgaria_logo.svg.png" group-title="BTV",30 Aralık - Saat 20:00
-http://85.11.144.8/archive/2/20251230-20.mpg
-#EXTINF:-1 tvg-name="BTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/BTV_Bulgaria_logo.svg/512px-BTV_Bulgaria_logo.svg.png" group-title="BTV",30 Aralık - Saat 19:00
-http://85.11.144.8/archive/2/20251230-19.mpg
-#EXTINF:-1 tvg-name="BTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/BTV_Bulgaria_logo.svg/512px-BTV_Bulgaria_logo.svg.png" group-title="BTV",30 Aralık - Saat 18:00
-http://85.11.144.8/archive/2/20251230-18.mpg
-#EXTINF:-1 tvg-name="BTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/BTV_Bulgaria_logo.svg/512px-BTV_Bulgaria_logo.svg.png" group-title="BTV",30 Aralık - Saat 17:00
-http://85.11.144.8/archive/2/20251230-17.mpg
-#EXTINF:-1 tvg-name="BTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/BTV_Bulgaria_logo.svg/512px-BTV_Bulgaria_logo.svg.png" group-title="BTV",30 Aralık - Saat 16:00
-http://85.11.144.8/archive/2/20251230-16.mpg
-#EXTINF:-1 tvg-name="BTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/BTV_Bulgaria_logo.svg/512px-BTV_Bulgaria_logo.svg.png" group-title="BTV",30 Aralık - Saat 15:00
-http://85.11.144.8/archive/2/20251230-15.mpg
-#EXTINF:-1 tvg-name="BTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/BTV_Bulgaria_logo.svg/512px-BTV_Bulgaria_logo.svg.png" group-title="BTV",30 Aralık - Saat 14:00
-http://85.11.144.8/archive/2/20251230-14.mpg
-#EXTINF:-1 tvg-name="BTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/BTV_Bulgaria_logo.svg/512px-BTV_Bulgaria_logo.svg.png" group-title="BTV",30 Aralık - Saat 13:00
-http://85.11.144.8/archive/2/20251230-13.mpg
-#EXTINF:-1 tvg-name="BTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/BTV_Bulgaria_logo.svg/512px-BTV_Bulgaria_logo.svg.png" group-title="BTV",30 Aralık - Saat 12:00
-http://85.11.144.8/archive/2/20251230-12.mpg
-#EXTINF:-1 tvg-name="BTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/BTV_Bulgaria_logo.svg/512px-BTV_Bulgaria_logo.svg.png" group-title="BTV",30 Aralık - Saat 11:00
-http://85.11.144.8/archive/2/20251230-11.mpg
-#EXTINF:-1 tvg-name="BTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/BTV_Bulgaria_logo.svg/512px-BTV_Bulgaria_logo.svg.png" group-title="BTV",30 Aralık - Saat 10:00
-http://85.11.144.8/archive/2/20251230-10.mpg
-#EXTINF:-1 tvg-name="BTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/BTV_Bulgaria_logo.svg/512px-BTV_Bulgaria_logo.svg.png" group-title="BTV",30 Aralık - Saat 09:00
-http://85.11.144.8/archive/2/20251230-09.mpg
-#EXTINF:-1 tvg-name="BTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/BTV_Bulgaria_logo.svg/512px-BTV_Bulgaria_logo.svg.png" group-title="BTV",30 Aralık - Saat 08:00
-http://85.11.144.8/archive/2/20251230-08.mpg
-#EXTINF:-1 tvg-name="BTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/BTV_Bulgaria_logo.svg/512px-BTV_Bulgaria_logo.svg.png" group-title="BTV",30 Aralık - Saat 07:00
-http://85.11.144.8/archive/2/20251230-07.mpg
-#EXTINF:-1 tvg-name="BTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/BTV_Bulgaria_logo.svg/512px-BTV_Bulgaria_logo.svg.png" group-title="BTV",30 Aralık - Saat 06:00
-http://85.11.144.8/archive/2/20251230-06.mpg
-#EXTINF:-1 tvg-name="BTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/BTV_Bulgaria_logo.svg/512px-BTV_Bulgaria_logo.svg.png" group-title="BTV",30 Aralık - Saat 05:00
-http://85.11.144.8/archive/2/20251230-05.mpg
-#EXTINF:-1 tvg-name="BTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/BTV_Bulgaria_logo.svg/512px-BTV_Bulgaria_logo.svg.png" group-title="BTV",30 Aralık - Saat 04:00
-http://85.11.144.8/archive/2/20251230-04.mpg
-#EXTINF:-1 tvg-name="BTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/BTV_Bulgaria_logo.svg/512px-BTV_Bulgaria_logo.svg.png" group-title="BTV",30 Aralık - Saat 03:00
-http://85.11.144.8/archive/2/20251230-03.mpg
-#EXTINF:-1 tvg-name="BTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/BTV_Bulgaria_logo.svg/512px-BTV_Bulgaria_logo.svg.png" group-title="BTV",30 Aralık - Saat 02:00
-http://85.11.144.8/archive/2/20251230-02.mpg
-#EXTINF:-1 tvg-name="BTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/BTV_Bulgaria_logo.svg/512px-BTV_Bulgaria_logo.svg.png" group-title="BTV",30 Aralık - Saat 01:00
-http://85.11.144.8/archive/2/20251230-01.mpg
-#EXTINF:-1 tvg-name="BTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/BTV_Bulgaria_logo.svg/512px-BTV_Bulgaria_logo.svg.png" group-title="BTV",30 Aralık - Saat 00:00
-http://85.11.144.8/archive/2/20251230-00.mpg
-#EXTINF:-1 tvg-name="BTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/BTV_Bulgaria_logo.svg/512px-BTV_Bulgaria_logo.svg.png" group-title="BTV",29 Aralık - Saat 23:00
-http://85.11.144.8/archive/2/20251229-23.mpg
-#EXTINF:-1 tvg-name="BTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/BTV_Bulgaria_logo.svg/512px-BTV_Bulgaria_logo.svg.png" group-title="BTV",29 Aralık - Saat 22:00
-http://85.11.144.8/archive/2/20251229-22.mpg
-#EXTINF:-1 tvg-name="BTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/BTV_Bulgaria_logo.svg/512px-BTV_Bulgaria_logo.svg.png" group-title="BTV",29 Aralık - Saat 21:00
-http://85.11.144.8/archive/2/20251229-21.mpg
-#EXTINF:-1 tvg-name="BTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/BTV_Bulgaria_logo.svg/512px-BTV_Bulgaria_logo.svg.png" group-title="BTV",29 Aralık - Saat 20:00
-http://85.11.144.8/archive/2/20251229-20.mpg
-#EXTINF:-1 tvg-name="BTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/BTV_Bulgaria_logo.svg/512px-BTV_Bulgaria_logo.svg.png" group-title="BTV",29 Aralık - Saat 19:00
-http://85.11.144.8/archive/2/20251229-19.mpg
-#EXTINF:-1 tvg-name="BTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/BTV_Bulgaria_logo.svg/512px-BTV_Bulgaria_logo.svg.png" group-title="BTV",29 Aralık - Saat 18:00
-http://85.11.144.8/archive/2/20251229-18.mpg
-#EXTINF:-1 tvg-name="BTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/BTV_Bulgaria_logo.svg/512px-BTV_Bulgaria_logo.svg.png" group-title="BTV",29 Aralık - Saat 17:00
-http://85.11.144.8/archive/2/20251229-17.mpg
-#EXTINF:-1 tvg-name="BTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/BTV_Bulgaria_logo.svg/512px-BTV_Bulgaria_logo.svg.png" group-title="BTV",29 Aralık - Saat 16:00
-http://85.11.144.8/archive/2/20251229-16.mpg
-#EXTINF:-1 tvg-name="BTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/BTV_Bulgaria_logo.svg/512px-BTV_Bulgaria_logo.svg.png" group-title="BTV",29 Aralık - Saat 15:00
-http://85.11.144.8/archive/2/20251229-15.mpg
-#EXTINF:-1 tvg-name="NOVA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d0/Nova_TV_Logo_2011.png/512px-Nova_TV_Logo_2011.png" group-title="NOVA TV",31 Aralık - Saat 14:00
+#EXTINF:-1, bTV - 20251231-15.mpg
+http://85.11.144.8/archive/2/20251231-15.mpg
+#EXTINF:-1, bTV - 20251231-16.mpg
+http://85.11.144.8/archive/2/20251231-16.mpg
+#EXTINF:-1, bTV - 20251231-17.mpg
+http://85.11.144.8/archive/2/20251231-17.mpg
+#EXTINF:-1, bTV - 20251231-18.mpg
+http://85.11.144.8/archive/2/20251231-18.mpg
+#EXTINF:-1, Nova - 20251231-14.mpg
 http://85.11.144.8/archive/3/20251231-14.mpg
-#EXTINF:-1 tvg-name="NOVA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d0/Nova_TV_Logo_2011.png/512px-Nova_TV_Logo_2011.png" group-title="NOVA TV",31 Aralık - Saat 13:00
-http://85.11.144.8/archive/3/20251231-13.mpg
-#EXTINF:-1 tvg-name="NOVA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d0/Nova_TV_Logo_2011.png/512px-Nova_TV_Logo_2011.png" group-title="NOVA TV",31 Aralık - Saat 12:00
-http://85.11.144.8/archive/3/20251231-12.mpg
-#EXTINF:-1 tvg-name="NOVA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d0/Nova_TV_Logo_2011.png/512px-Nova_TV_Logo_2011.png" group-title="NOVA TV",31 Aralık - Saat 11:00
-http://85.11.144.8/archive/3/20251231-11.mpg
-#EXTINF:-1 tvg-name="NOVA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d0/Nova_TV_Logo_2011.png/512px-Nova_TV_Logo_2011.png" group-title="NOVA TV",31 Aralık - Saat 10:00
-http://85.11.144.8/archive/3/20251231-10.mpg
-#EXTINF:-1 tvg-name="NOVA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d0/Nova_TV_Logo_2011.png/512px-Nova_TV_Logo_2011.png" group-title="NOVA TV",31 Aralık - Saat 09:00
-http://85.11.144.8/archive/3/20251231-09.mpg
-#EXTINF:-1 tvg-name="NOVA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d0/Nova_TV_Logo_2011.png/512px-Nova_TV_Logo_2011.png" group-title="NOVA TV",31 Aralık - Saat 08:00
-http://85.11.144.8/archive/3/20251231-08.mpg
-#EXTINF:-1 tvg-name="NOVA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d0/Nova_TV_Logo_2011.png/512px-Nova_TV_Logo_2011.png" group-title="NOVA TV",31 Aralık - Saat 07:00
-http://85.11.144.8/archive/3/20251231-07.mpg
-#EXTINF:-1 tvg-name="NOVA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d0/Nova_TV_Logo_2011.png/512px-Nova_TV_Logo_2011.png" group-title="NOVA TV",31 Aralık - Saat 06:00
-http://85.11.144.8/archive/3/20251231-06.mpg
-#EXTINF:-1 tvg-name="NOVA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d0/Nova_TV_Logo_2011.png/512px-Nova_TV_Logo_2011.png" group-title="NOVA TV",31 Aralık - Saat 05:00
-http://85.11.144.8/archive/3/20251231-05.mpg
-#EXTINF:-1 tvg-name="NOVA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d0/Nova_TV_Logo_2011.png/512px-Nova_TV_Logo_2011.png" group-title="NOVA TV",31 Aralık - Saat 04:00
-http://85.11.144.8/archive/3/20251231-04.mpg
-#EXTINF:-1 tvg-name="NOVA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d0/Nova_TV_Logo_2011.png/512px-Nova_TV_Logo_2011.png" group-title="NOVA TV",31 Aralık - Saat 03:00
-http://85.11.144.8/archive/3/20251231-03.mpg
-#EXTINF:-1 tvg-name="NOVA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d0/Nova_TV_Logo_2011.png/512px-Nova_TV_Logo_2011.png" group-title="NOVA TV",31 Aralık - Saat 02:00
-http://85.11.144.8/archive/3/20251231-02.mpg
-#EXTINF:-1 tvg-name="NOVA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d0/Nova_TV_Logo_2011.png/512px-Nova_TV_Logo_2011.png" group-title="NOVA TV",31 Aralık - Saat 01:00
-http://85.11.144.8/archive/3/20251231-01.mpg
-#EXTINF:-1 tvg-name="NOVA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d0/Nova_TV_Logo_2011.png/512px-Nova_TV_Logo_2011.png" group-title="NOVA TV",31 Aralık - Saat 00:00
-http://85.11.144.8/archive/3/20251231-00.mpg
-#EXTINF:-1 tvg-name="NOVA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d0/Nova_TV_Logo_2011.png/512px-Nova_TV_Logo_2011.png" group-title="NOVA TV",30 Aralık - Saat 23:00
-http://85.11.144.8/archive/3/20251230-23.mpg
-#EXTINF:-1 tvg-name="NOVA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d0/Nova_TV_Logo_2011.png/512px-Nova_TV_Logo_2011.png" group-title="NOVA TV",30 Aralık - Saat 22:00
-http://85.11.144.8/archive/3/20251230-22.mpg
-#EXTINF:-1 tvg-name="NOVA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d0/Nova_TV_Logo_2011.png/512px-Nova_TV_Logo_2011.png" group-title="NOVA TV",30 Aralık - Saat 21:00
-http://85.11.144.8/archive/3/20251230-21.mpg
-#EXTINF:-1 tvg-name="NOVA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d0/Nova_TV_Logo_2011.png/512px-Nova_TV_Logo_2011.png" group-title="NOVA TV",30 Aralık - Saat 20:00
-http://85.11.144.8/archive/3/20251230-20.mpg
-#EXTINF:-1 tvg-name="NOVA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d0/Nova_TV_Logo_2011.png/512px-Nova_TV_Logo_2011.png" group-title="NOVA TV",30 Aralık - Saat 19:00
-http://85.11.144.8/archive/3/20251230-19.mpg
-#EXTINF:-1 tvg-name="NOVA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d0/Nova_TV_Logo_2011.png/512px-Nova_TV_Logo_2011.png" group-title="NOVA TV",30 Aralık - Saat 18:00
-http://85.11.144.8/archive/3/20251230-18.mpg
-#EXTINF:-1 tvg-name="NOVA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d0/Nova_TV_Logo_2011.png/512px-Nova_TV_Logo_2011.png" group-title="NOVA TV",30 Aralık - Saat 17:00
-http://85.11.144.8/archive/3/20251230-17.mpg
-#EXTINF:-1 tvg-name="NOVA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d0/Nova_TV_Logo_2011.png/512px-Nova_TV_Logo_2011.png" group-title="NOVA TV",30 Aralık - Saat 16:00
-http://85.11.144.8/archive/3/20251230-16.mpg
-#EXTINF:-1 tvg-name="NOVA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d0/Nova_TV_Logo_2011.png/512px-Nova_TV_Logo_2011.png" group-title="NOVA TV",30 Aralık - Saat 15:00
-http://85.11.144.8/archive/3/20251230-15.mpg
-#EXTINF:-1 tvg-name="NOVA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d0/Nova_TV_Logo_2011.png/512px-Nova_TV_Logo_2011.png" group-title="NOVA TV",30 Aralık - Saat 14:00
-http://85.11.144.8/archive/3/20251230-14.mpg
-#EXTINF:-1 tvg-name="NOVA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d0/Nova_TV_Logo_2011.png/512px-Nova_TV_Logo_2011.png" group-title="NOVA TV",30 Aralık - Saat 13:00
-http://85.11.144.8/archive/3/20251230-13.mpg
-#EXTINF:-1 tvg-name="NOVA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d0/Nova_TV_Logo_2011.png/512px-Nova_TV_Logo_2011.png" group-title="NOVA TV",30 Aralık - Saat 12:00
-http://85.11.144.8/archive/3/20251230-12.mpg
-#EXTINF:-1 tvg-name="NOVA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d0/Nova_TV_Logo_2011.png/512px-Nova_TV_Logo_2011.png" group-title="NOVA TV",30 Aralık - Saat 11:00
-http://85.11.144.8/archive/3/20251230-11.mpg
-#EXTINF:-1 tvg-name="NOVA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d0/Nova_TV_Logo_2011.png/512px-Nova_TV_Logo_2011.png" group-title="NOVA TV",30 Aralık - Saat 10:00
-http://85.11.144.8/archive/3/20251230-10.mpg
-#EXTINF:-1 tvg-name="NOVA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d0/Nova_TV_Logo_2011.png/512px-Nova_TV_Logo_2011.png" group-title="NOVA TV",30 Aralık - Saat 09:00
-http://85.11.144.8/archive/3/20251230-09.mpg
-#EXTINF:-1 tvg-name="NOVA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d0/Nova_TV_Logo_2011.png/512px-Nova_TV_Logo_2011.png" group-title="NOVA TV",30 Aralık - Saat 08:00
-http://85.11.144.8/archive/3/20251230-08.mpg
-#EXTINF:-1 tvg-name="NOVA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d0/Nova_TV_Logo_2011.png/512px-Nova_TV_Logo_2011.png" group-title="NOVA TV",30 Aralık - Saat 07:00
-http://85.11.144.8/archive/3/20251230-07.mpg
-#EXTINF:-1 tvg-name="NOVA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d0/Nova_TV_Logo_2011.png/512px-Nova_TV_Logo_2011.png" group-title="NOVA TV",30 Aralık - Saat 06:00
-http://85.11.144.8/archive/3/20251230-06.mpg
-#EXTINF:-1 tvg-name="NOVA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d0/Nova_TV_Logo_2011.png/512px-Nova_TV_Logo_2011.png" group-title="NOVA TV",30 Aralık - Saat 05:00
-http://85.11.144.8/archive/3/20251230-05.mpg
-#EXTINF:-1 tvg-name="NOVA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d0/Nova_TV_Logo_2011.png/512px-Nova_TV_Logo_2011.png" group-title="NOVA TV",30 Aralık - Saat 04:00
-http://85.11.144.8/archive/3/20251230-04.mpg
-#EXTINF:-1 tvg-name="NOVA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d0/Nova_TV_Logo_2011.png/512px-Nova_TV_Logo_2011.png" group-title="NOVA TV",30 Aralık - Saat 03:00
-http://85.11.144.8/archive/3/20251230-03.mpg
-#EXTINF:-1 tvg-name="NOVA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d0/Nova_TV_Logo_2011.png/512px-Nova_TV_Logo_2011.png" group-title="NOVA TV",30 Aralık - Saat 02:00
-http://85.11.144.8/archive/3/20251230-02.mpg
-#EXTINF:-1 tvg-name="NOVA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d0/Nova_TV_Logo_2011.png/512px-Nova_TV_Logo_2011.png" group-title="NOVA TV",30 Aralık - Saat 01:00
-http://85.11.144.8/archive/3/20251230-01.mpg
-#EXTINF:-1 tvg-name="NOVA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d0/Nova_TV_Logo_2011.png/512px-Nova_TV_Logo_2011.png" group-title="NOVA TV",30 Aralık - Saat 00:00
-http://85.11.144.8/archive/3/20251230-00.mpg
-#EXTINF:-1 tvg-name="NOVA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d0/Nova_TV_Logo_2011.png/512px-Nova_TV_Logo_2011.png" group-title="NOVA TV",29 Aralık - Saat 23:00
-http://85.11.144.8/archive/3/20251229-23.mpg
-#EXTINF:-1 tvg-name="NOVA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d0/Nova_TV_Logo_2011.png/512px-Nova_TV_Logo_2011.png" group-title="NOVA TV",29 Aralık - Saat 22:00
-http://85.11.144.8/archive/3/20251229-22.mpg
-#EXTINF:-1 tvg-name="NOVA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d0/Nova_TV_Logo_2011.png/512px-Nova_TV_Logo_2011.png" group-title="NOVA TV",29 Aralık - Saat 21:00
-http://85.11.144.8/archive/3/20251229-21.mpg
-#EXTINF:-1 tvg-name="NOVA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d0/Nova_TV_Logo_2011.png/512px-Nova_TV_Logo_2011.png" group-title="NOVA TV",29 Aralık - Saat 20:00
-http://85.11.144.8/archive/3/20251229-20.mpg
-#EXTINF:-1 tvg-name="NOVA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d0/Nova_TV_Logo_2011.png/512px-Nova_TV_Logo_2011.png" group-title="NOVA TV",29 Aralık - Saat 19:00
-http://85.11.144.8/archive/3/20251229-19.mpg
-#EXTINF:-1 tvg-name="NOVA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d0/Nova_TV_Logo_2011.png/512px-Nova_TV_Logo_2011.png" group-title="NOVA TV",29 Aralık - Saat 18:00
-http://85.11.144.8/archive/3/20251229-18.mpg
-#EXTINF:-1 tvg-name="NOVA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d0/Nova_TV_Logo_2011.png/512px-Nova_TV_Logo_2011.png" group-title="NOVA TV",29 Aralık - Saat 17:00
-http://85.11.144.8/archive/3/20251229-17.mpg
-#EXTINF:-1 tvg-name="NOVA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d0/Nova_TV_Logo_2011.png/512px-Nova_TV_Logo_2011.png" group-title="NOVA TV",29 Aralık - Saat 16:00
-http://85.11.144.8/archive/3/20251229-16.mpg
-#EXTINF:-1 tvg-name="NOVA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d0/Nova_TV_Logo_2011.png/512px-Nova_TV_Logo_2011.png" group-title="NOVA TV",29 Aralık - Saat 15:00
-http://85.11.144.8/archive/3/20251229-15.mpg
-#EXTINF:-1 tvg-name="BNT 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/BNT_1_logo_2018.svg/512px-BNT_1_logo_2018.svg.png" group-title="BNT 1",31 Aralık - Saat 14:00
+#EXTINF:-1, Nova - 20251231-15.mpg
+http://85.11.144.8/archive/3/20251231-15.mpg
+#EXTINF:-1, Nova - 20251231-16.mpg
+http://85.11.144.8/archive/3/20251231-16.mpg
+#EXTINF:-1, Nova - 20251231-17.mpg
+http://85.11.144.8/archive/3/20251231-17.mpg
+#EXTINF:-1, Nova - 20251231-18.mpg
+http://85.11.144.8/archive/3/20251231-18.mpg
+#EXTINF:-1, bTV Cinema - 20251231-14.mpg
+http://85.11.144.8/archive/4/20251231-14.mpg
+#EXTINF:-1, bTV Cinema - 20251231-15.mpg
+http://85.11.144.8/archive/4/20251231-15.mpg
+#EXTINF:-1, bTV Cinema - 20251231-16.mpg
+http://85.11.144.8/archive/4/20251231-16.mpg
+#EXTINF:-1, bTV Cinema - 20251231-17.mpg
+http://85.11.144.8/archive/4/20251231-17.mpg
+#EXTINF:-1, bTV Cinema - 20251231-18.mpg
+http://85.11.144.8/archive/4/20251231-18.mpg
+#EXTINF:-1, Diema - 20251231-14.mpg
+http://85.11.144.8/archive/5/20251231-14.mpg
+#EXTINF:-1, Diema - 20251231-15.mpg
+http://85.11.144.8/archive/5/20251231-15.mpg
+#EXTINF:-1, Diema - 20251231-16.mpg
+http://85.11.144.8/archive/5/20251231-16.mpg
+#EXTINF:-1, Diema - 20251231-17.mpg
+http://85.11.144.8/archive/5/20251231-17.mpg
+#EXTINF:-1, Diema - 20251231-18.mpg
+http://85.11.144.8/archive/5/20251231-18.mpg
+#EXTINF:-1, bTV Comedy - 20251231-14.mpg
+http://85.11.144.8/archive/6/20251231-14.mpg
+#EXTINF:-1, bTV Comedy - 20251231-15.mpg
+http://85.11.144.8/archive/6/20251231-15.mpg
+#EXTINF:-1, bTV Comedy - 20251231-16.mpg
+http://85.11.144.8/archive/6/20251231-16.mpg
+#EXTINF:-1, bTV Comedy - 20251231-17.mpg
+http://85.11.144.8/archive/6/20251231-17.mpg
+#EXTINF:-1, bTV Comedy - 20251231-18.mpg
+http://85.11.144.8/archive/6/20251231-18.mpg
+#EXTINF:-1, HBO 3 - 20251231-14.mpg
+http://85.11.144.8/archive/7/20251231-14.mpg
+#EXTINF:-1, HBO 3 - 20251231-15.mpg
+http://85.11.144.8/archive/7/20251231-15.mpg
+#EXTINF:-1, HBO 3 - 20251231-16.mpg
+http://85.11.144.8/archive/7/20251231-16.mpg
+#EXTINF:-1, HBO 3 - 20251231-17.mpg
+http://85.11.144.8/archive/7/20251231-17.mpg
+#EXTINF:-1, HBO 3 - 20251231-18.mpg
+http://85.11.144.8/archive/7/20251231-18.mpg
+#EXTINF:-1, AXN - 20251231-14.mpg
+http://85.11.144.8/archive/8/20251231-14.mpg
+#EXTINF:-1, AXN - 20251231-15.mpg
+http://85.11.144.8/archive/8/20251231-15.mpg
+#EXTINF:-1, AXN - 20251231-16.mpg
+http://85.11.144.8/archive/8/20251231-16.mpg
+#EXTINF:-1, AXN - 20251231-17.mpg
+http://85.11.144.8/archive/8/20251231-17.mpg
+#EXTINF:-1, AXN - 20251231-18.mpg
+http://85.11.144.8/archive/8/20251231-18.mpg
+#EXTINF:-1, Kino NOVA - 20251231-14.mpg
+http://85.11.144.8/archive/9/20251231-14.mpg
+#EXTINF:-1, Kino NOVA - 20251231-15.mpg
+http://85.11.144.8/archive/9/20251231-15.mpg
+#EXTINF:-1, Kino NOVA - 20251231-16.mpg
+http://85.11.144.8/archive/9/20251231-16.mpg
+#EXTINF:-1, Kino NOVA - 20251231-17.mpg
+http://85.11.144.8/archive/9/20251231-17.mpg
+#EXTINF:-1, Kino NOVA - 20251231-18.mpg
+http://85.11.144.8/archive/9/20251231-18.mpg
+#EXTINF:-1, Nova Sport - 20251231-14.mpg
+http://85.11.144.8/archive/10/20251231-14.mpg
+#EXTINF:-1, Nova Sport - 20251231-15.mpg
+http://85.11.144.8/archive/10/20251231-15.mpg
+#EXTINF:-1, Nova Sport - 20251231-16.mpg
+http://85.11.144.8/archive/10/20251231-16.mpg
+#EXTINF:-1, Nova Sport - 20251231-17.mpg
+http://85.11.144.8/archive/10/20251231-17.mpg
+#EXTINF:-1, Nova Sport - 20251231-18.mpg
+http://85.11.144.8/archive/10/20251231-18.mpg
+#EXTINF:-1, bTV Action - 20251231-14.mpg
+http://85.11.144.8/archive/11/20251231-14.mpg
+#EXTINF:-1, bTV Action - 20251231-15.mpg
+http://85.11.144.8/archive/11/20251231-15.mpg
+#EXTINF:-1, bTV Action - 20251231-16.mpg
+http://85.11.144.8/archive/11/20251231-16.mpg
+#EXTINF:-1, bTV Action - 20251231-17.mpg
+http://85.11.144.8/archive/11/20251231-17.mpg
+#EXTINF:-1, bTV Action - 20251231-18.mpg
+http://85.11.144.8/archive/11/20251231-18.mpg
+#EXTINF:-1, Diema Family - 20251231-14.mpg
+http://85.11.144.8/archive/12/20251231-14.mpg
+#EXTINF:-1, Diema Family - 20251231-15.mpg
+http://85.11.144.8/archive/12/20251231-15.mpg
+#EXTINF:-1, Diema Family - 20251231-16.mpg
+http://85.11.144.8/archive/12/20251231-16.mpg
+#EXTINF:-1, Diema Family - 20251231-17.mpg
+http://85.11.144.8/archive/12/20251231-17.mpg
+#EXTINF:-1, Diema Family - 20251231-18.mpg
+http://85.11.144.8/archive/12/20251231-18.mpg
+#EXTINF:-1, bTV Story - 20251231-14.mpg
+http://85.11.144.8/archive/13/20251231-14.mpg
+#EXTINF:-1, bTV Story - 20251231-15.mpg
+http://85.11.144.8/archive/13/20251231-15.mpg
+#EXTINF:-1, bTV Story - 20251231-16.mpg
+http://85.11.144.8/archive/13/20251231-16.mpg
+#EXTINF:-1, bTV Story - 20251231-17.mpg
+http://85.11.144.8/archive/13/20251231-17.mpg
+#EXTINF:-1, bTV Story - 20251231-18.mpg
+http://85.11.144.8/archive/13/20251231-18.mpg
+#EXTINF:-1, AXN Black - 20251231-14.mpg
+http://85.11.144.8/archive/14/20251231-14.mpg
+#EXTINF:-1, AXN Black - 20251231-15.mpg
+http://85.11.144.8/archive/14/20251231-15.mpg
+#EXTINF:-1, AXN Black - 20251231-16.mpg
+http://85.11.144.8/archive/14/20251231-16.mpg
+#EXTINF:-1, AXN Black - 20251231-17.mpg
+http://85.11.144.8/archive/14/20251231-17.mpg
+#EXTINF:-1, AXN Black - 20251231-18.mpg
+http://85.11.144.8/archive/14/20251231-18.mpg
+#EXTINF:-1, AXN White - 20251231-14.mpg
+http://85.11.144.8/archive/15/20251231-14.mpg
+#EXTINF:-1, AXN White - 20251231-15.mpg
+http://85.11.144.8/archive/15/20251231-15.mpg
+#EXTINF:-1, AXN White - 20251231-16.mpg
+http://85.11.144.8/archive/15/20251231-16.mpg
+#EXTINF:-1, AXN White - 20251231-17.mpg
+http://85.11.144.8/archive/15/20251231-17.mpg
+#EXTINF:-1, AXN White - 20251231-18.mpg
+http://85.11.144.8/archive/15/20251231-18.mpg
+#EXTINF:-1, BNT 2 - 20251231-14.mpg
+http://85.11.144.8/archive/16/20251231-14.mpg
+#EXTINF:-1, BNT 2 - 20251231-15.mpg
+http://85.11.144.8/archive/16/20251231-15.mpg
+#EXTINF:-1, BNT 2 - 20251231-16.mpg
+http://85.11.144.8/archive/16/20251231-16.mpg
+#EXTINF:-1, BNT 2 - 20251231-17.mpg
+http://85.11.144.8/archive/16/20251231-17.mpg
+#EXTINF:-1, BNT 2 - 20251231-18.mpg
+http://85.11.144.8/archive/16/20251231-18.mpg
+#EXTINF:-1, BNT 4 - 20251231-14.mpg
+http://85.11.144.8/archive/17/20251231-14.mpg
+#EXTINF:-1, BNT 4 - 20251231-15.mpg
+http://85.11.144.8/archive/17/20251231-15.mpg
+#EXTINF:-1, BNT 4 - 20251231-16.mpg
+http://85.11.144.8/archive/17/20251231-16.mpg
+#EXTINF:-1, BNT 4 - 20251231-17.mpg
+http://85.11.144.8/archive/17/20251231-17.mpg
+#EXTINF:-1, BNT 4 - 20251231-18.mpg
+http://85.11.144.8/archive/17/20251231-18.mpg
+#EXTINF:-1, ON AIR - 20251231-14.mpg
+http://85.11.144.8/archive/18/20251231-14.mpg
+#EXTINF:-1, ON AIR - 20251231-15.mpg
+http://85.11.144.8/archive/18/20251231-15.mpg
+#EXTINF:-1, ON AIR - 20251231-16.mpg
+http://85.11.144.8/archive/18/20251231-16.mpg
+#EXTINF:-1, ON AIR - 20251231-17.mpg
+http://85.11.144.8/archive/18/20251231-17.mpg
+#EXTINF:-1, ON AIR - 20251231-18.mpg
+http://85.11.144.8/archive/18/20251231-18.mpg
+#EXTINF:-1, ALFA Ataka - 20251231-14.mpg
+http://85.11.144.8/archive/20/20251231-14.mpg
+#EXTINF:-1, ALFA Ataka - 20251231-15.mpg
+http://85.11.144.8/archive/20/20251231-15.mpg
+#EXTINF:-1, ALFA Ataka - 20251231-16.mpg
+http://85.11.144.8/archive/20/20251231-16.mpg
+#EXTINF:-1, ALFA Ataka - 20251231-17.mpg
+http://85.11.144.8/archive/20/20251231-17.mpg
+#EXTINF:-1, ALFA Ataka - 20251231-18.mpg
+http://85.11.144.8/archive/20/20251231-18.mpg
+#EXTINF:-1, Animal Planet - 20251231-14.mpg
+http://85.11.144.8/archive/21/20251231-14.mpg
+#EXTINF:-1, Animal Planet - 20251231-15.mpg
+http://85.11.144.8/archive/21/20251231-15.mpg
+#EXTINF:-1, Animal Planet - 20251231-16.mpg
+http://85.11.144.8/archive/21/20251231-16.mpg
+#EXTINF:-1, Animal Planet - 20251231-17.mpg
+http://85.11.144.8/archive/21/20251231-17.mpg
+#EXTINF:-1, Animal Planet - 20251231-18.mpg
+http://85.11.144.8/archive/21/20251231-18.mpg
+#EXTINF:-1, Channel 28 - /archive/
+http://85.11.144.8/archive/28//archive/
+#EXTINF:-1, Cartoonito - 20251231-14.mpg
+http://85.11.144.8/archive/29/20251231-14.mpg
+#EXTINF:-1, Cartoonito - 20251231-15.mpg
+http://85.11.144.8/archive/29/20251231-15.mpg
+#EXTINF:-1, Cartoonito - 20251231-16.mpg
+http://85.11.144.8/archive/29/20251231-16.mpg
+#EXTINF:-1, Cartoonito - 20251231-17.mpg
+http://85.11.144.8/archive/29/20251231-17.mpg
+#EXTINF:-1, Cartoonito - 20251231-18.mpg
+http://85.11.144.8/archive/29/20251231-18.mpg
+#EXTINF:-1, CN Cartoon - 20251231-14.mpg
+http://85.11.144.8/archive/34/20251231-14.mpg
+#EXTINF:-1, CN Cartoon - 20251231-15.mpg
+http://85.11.144.8/archive/34/20251231-15.mpg
+#EXTINF:-1, CN Cartoon - 20251231-16.mpg
+http://85.11.144.8/archive/34/20251231-16.mpg
+#EXTINF:-1, CN Cartoon - 20251231-17.mpg
+http://85.11.144.8/archive/34/20251231-17.mpg
+#EXTINF:-1, CN Cartoon - 20251231-18.mpg
+http://85.11.144.8/archive/34/20251231-18.mpg
+#EXTINF:-1, Discovery - 20251231-14.mpg
+http://85.11.144.8/archive/38/20251231-14.mpg
+#EXTINF:-1, Discovery - 20251231-15.mpg
+http://85.11.144.8/archive/38/20251231-15.mpg
+#EXTINF:-1, Discovery - 20251231-16.mpg
+http://85.11.144.8/archive/38/20251231-16.mpg
+#EXTINF:-1, Discovery - 20251231-17.mpg
+http://85.11.144.8/archive/38/20251231-17.mpg
+#EXTINF:-1, Discovery - 20251231-18.mpg
+http://85.11.144.8/archive/38/20251231-18.mpg
+#EXTINF:-1, Nova News - 20251231-14.mpg
+http://85.11.144.8/archive/43/20251231-14.mpg
+#EXTINF:-1, Nova News - 20251231-15.mpg
+http://85.11.144.8/archive/43/20251231-15.mpg
+#EXTINF:-1, Nova News - 20251231-16.mpg
+http://85.11.144.8/archive/43/20251231-16.mpg
+#EXTINF:-1, Nova News - 20251231-17.mpg
+http://85.11.144.8/archive/43/20251231-17.mpg
+#EXTINF:-1, Nova News - 20251231-18.mpg
+http://85.11.144.8/archive/43/20251231-18.mpg
+#EXTINF:-1, EKids - 20251231-14.mpg
+http://85.11.144.8/archive/46/20251231-14.mpg
+#EXTINF:-1, EKids - 20251231-15.mpg
+http://85.11.144.8/archive/46/20251231-15.mpg
+#EXTINF:-1, EKids - 20251231-16.mpg
+http://85.11.144.8/archive/46/20251231-16.mpg
+#EXTINF:-1, EKids - 20251231-17.mpg
+http://85.11.144.8/archive/46/20251231-17.mpg
+#EXTINF:-1, EKids - 20251231-18.mpg
+http://85.11.144.8/archive/46/20251231-18.mpg
+#EXTINF:-1, Eurosport 1 - 20251231-14.mpg
+http://85.11.144.8/archive/47/20251231-14.mpg
+#EXTINF:-1, Eurosport 1 - 20251231-15.mpg
+http://85.11.144.8/archive/47/20251231-15.mpg
+#EXTINF:-1, Eurosport 1 - 20251231-16.mpg
+http://85.11.144.8/archive/47/20251231-16.mpg
+#EXTINF:-1, Eurosport 1 - 20251231-17.mpg
+http://85.11.144.8/archive/47/20251231-17.mpg
+#EXTINF:-1, Eurosport 1 - 20251231-18.mpg
+http://85.11.144.8/archive/47/20251231-18.mpg
+#EXTINF:-1, Eurosport 2 - 20251231-14.mpg
+http://85.11.144.8/archive/48/20251231-14.mpg
+#EXTINF:-1, Eurosport 2 - 20251231-15.mpg
+http://85.11.144.8/archive/48/20251231-15.mpg
+#EXTINF:-1, Eurosport 2 - 20251231-16.mpg
+http://85.11.144.8/archive/48/20251231-16.mpg
+#EXTINF:-1, Eurosport 2 - 20251231-17.mpg
+http://85.11.144.8/archive/48/20251231-17.mpg
+#EXTINF:-1, Eurosport 2 - 20251231-18.mpg
+http://85.11.144.8/archive/48/20251231-18.mpg
+#EXTINF:-1, Evrokom - 20251231-14.mpg
+http://85.11.144.8/archive/49/20251231-14.mpg
+#EXTINF:-1, Evrokom - 20251231-15.mpg
+http://85.11.144.8/archive/49/20251231-15.mpg
+#EXTINF:-1, Evrokom - 20251231-16.mpg
+http://85.11.144.8/archive/49/20251231-16.mpg
+#EXTINF:-1, Evrokom - 20251231-17.mpg
+http://85.11.144.8/archive/49/20251231-17.mpg
+#EXTINF:-1, Evrokom - 20251231-18.mpg
+http://85.11.144.8/archive/49/20251231-18.mpg
+#EXTINF:-1, BNT 3 - 20251231-14.mpg
+http://85.11.144.8/archive/54/20251231-14.mpg
+#EXTINF:-1, BNT 3 - 20251231-15.mpg
+http://85.11.144.8/archive/54/20251231-15.mpg
+#EXTINF:-1, BNT 3 - 20251231-16.mpg
+http://85.11.144.8/archive/54/20251231-16.mpg
+#EXTINF:-1, BNT 3 - 20251231-17.mpg
+http://85.11.144.8/archive/54/20251231-17.mpg
+#EXTINF:-1, BNT 3 - 20251231-18.mpg
+http://85.11.144.8/archive/54/20251231-18.mpg
+#EXTINF:-1, Star Channel - 20251231-14.mpg
+http://85.11.144.8/archive/56/20251231-14.mpg
+#EXTINF:-1, Star Channel - 20251231-15.mpg
+http://85.11.144.8/archive/56/20251231-15.mpg
+#EXTINF:-1, Star Channel - 20251231-16.mpg
+http://85.11.144.8/archive/56/20251231-16.mpg
+#EXTINF:-1, Star Channel - 20251231-17.mpg
+http://85.11.144.8/archive/56/20251231-17.mpg
+#EXTINF:-1, Star Channel - 20251231-18.mpg
+http://85.11.144.8/archive/56/20251231-18.mpg
+#EXTINF:-1, Star Crime - 20251231-14.mpg
+http://85.11.144.8/archive/57/20251231-14.mpg
+#EXTINF:-1, Star Crime - 20251231-15.mpg
+http://85.11.144.8/archive/57/20251231-15.mpg
+#EXTINF:-1, Star Crime - 20251231-16.mpg
+http://85.11.144.8/archive/57/20251231-16.mpg
+#EXTINF:-1, Star Crime - 20251231-17.mpg
+http://85.11.144.8/archive/57/20251231-17.mpg
+#EXTINF:-1, Star Crime - 20251231-18.mpg
+http://85.11.144.8/archive/57/20251231-18.mpg
+#EXTINF:-1, Star Life - 20251231-14.mpg
+http://85.11.144.8/archive/58/20251231-14.mpg
+#EXTINF:-1, Star Life - 20251231-15.mpg
+http://85.11.144.8/archive/58/20251231-15.mpg
+#EXTINF:-1, Star Life - 20251231-16.mpg
+http://85.11.144.8/archive/58/20251231-16.mpg
+#EXTINF:-1, Star Life - 20251231-17.mpg
+http://85.11.144.8/archive/58/20251231-17.mpg
+#EXTINF:-1, Star Life - 20251231-18.mpg
+http://85.11.144.8/archive/58/20251231-18.mpg
+#EXTINF:-1, HBO - 20251231-14.mpg
+http://85.11.144.8/archive/59/20251231-14.mpg
+#EXTINF:-1, HBO - 20251231-15.mpg
+http://85.11.144.8/archive/59/20251231-15.mpg
+#EXTINF:-1, HBO - 20251231-16.mpg
+http://85.11.144.8/archive/59/20251231-16.mpg
+#EXTINF:-1, HBO - 20251231-17.mpg
+http://85.11.144.8/archive/59/20251231-17.mpg
+#EXTINF:-1, HBO - 20251231-18.mpg
+http://85.11.144.8/archive/59/20251231-18.mpg
+#EXTINF:-1, NatGeo Wild - 20251231-14.mpg
+http://85.11.144.8/archive/65/20251231-14.mpg
+#EXTINF:-1, NatGeo Wild - 20251231-15.mpg
+http://85.11.144.8/archive/65/20251231-15.mpg
+#EXTINF:-1, NatGeo Wild - 20251231-16.mpg
+http://85.11.144.8/archive/65/20251231-16.mpg
+#EXTINF:-1, NatGeo Wild - 20251231-17.mpg
+http://85.11.144.8/archive/65/20251231-17.mpg
+#EXTINF:-1, NatGeo Wild - 20251231-18.mpg
+http://85.11.144.8/archive/65/20251231-18.mpg
+#EXTINF:-1, National Geographic - 20251231-14.mpg
+http://85.11.144.8/archive/66/20251231-14.mpg
+#EXTINF:-1, National Geographic - 20251231-15.mpg
+http://85.11.144.8/archive/66/20251231-15.mpg
+#EXTINF:-1, National Geographic - 20251231-16.mpg
+http://85.11.144.8/archive/66/20251231-16.mpg
+#EXTINF:-1, National Geographic - 20251231-17.mpg
+http://85.11.144.8/archive/66/20251231-17.mpg
+#EXTINF:-1, National Geographic - 20251231-18.mpg
+http://85.11.144.8/archive/66/20251231-18.mpg
+#EXTINF:-1, Ring - 20251231-14.mpg
+http://85.11.144.8/archive/76/20251231-14.mpg
+#EXTINF:-1, Ring - 20251231-15.mpg
+http://85.11.144.8/archive/76/20251231-15.mpg
+#EXTINF:-1, Ring - 20251231-16.mpg
+http://85.11.144.8/archive/76/20251231-16.mpg
+#EXTINF:-1, Ring - 20251231-17.mpg
+http://85.11.144.8/archive/76/20251231-17.mpg
+#EXTINF:-1, Ring - 20251231-18.mpg
+http://85.11.144.8/archive/76/20251231-18.mpg
+#EXTINF:-1, Channel 79 - 20250605-22.mpg
+http://85.11.144.8/archive/79/20250605-22.mpg
+#EXTINF:-1, Channel 79 - 20250605-23.mpg
+http://85.11.144.8/archive/79/20250605-23.mpg
+#EXTINF:-1, Channel 79 - 20250606-00.mpg
+http://85.11.144.8/archive/79/20250606-00.mpg
+#EXTINF:-1, Channel 79 - 20250606-01.mpg
+http://85.11.144.8/archive/79/20250606-01.mpg
+#EXTINF:-1, Channel 79 - 20251127-21.mpg
+http://85.11.144.8/archive/79/20251127-21.mpg
+#EXTINF:-1, Skat - 20251231-14.mpg
+http://85.11.144.8/archive/80/20251231-14.mpg
+#EXTINF:-1, Skat - 20251231-15.mpg
+http://85.11.144.8/archive/80/20251231-15.mpg
+#EXTINF:-1, Skat - 20251231-16.mpg
+http://85.11.144.8/archive/80/20251231-16.mpg
+#EXTINF:-1, Skat - 20251231-17.mpg
+http://85.11.144.8/archive/80/20251231-17.mpg
+#EXTINF:-1, Skat - 20251231-18.mpg
+http://85.11.144.8/archive/80/20251231-18.mpg
+#EXTINF:-1, TLC - 20251231-14.mpg
+http://85.11.144.8/archive/86/20251231-14.mpg
+#EXTINF:-1, TLC - 20251231-15.mpg
+http://85.11.144.8/archive/86/20251231-15.mpg
+#EXTINF:-1, TLC - 20251231-16.mpg
+http://85.11.144.8/archive/86/20251231-16.mpg
+#EXTINF:-1, TLC - 20251231-17.mpg
+http://85.11.144.8/archive/86/20251231-17.mpg
+#EXTINF:-1, TLC - 20251231-18.mpg
+http://85.11.144.8/archive/86/20251231-18.mpg
+#EXTINF:-1, Euro News - 20251231-14.mpg
+http://85.11.144.8/archive/87/20251231-14.mpg
+#EXTINF:-1, Euro News - 20251231-15.mpg
+http://85.11.144.8/archive/87/20251231-15.mpg
+#EXTINF:-1, Euro News - 20251231-16.mpg
+http://85.11.144.8/archive/87/20251231-16.mpg
+#EXTINF:-1, Euro News - 20251231-17.mpg
+http://85.11.144.8/archive/87/20251231-17.mpg
+#EXTINF:-1, Euro News - 20251231-18.mpg
+http://85.11.144.8/archive/87/20251231-18.mpg
+#EXTINF:-1, TV 1000 - 20251231-14.mpg
+http://85.11.144.8/archive/89/20251231-14.mpg
+#EXTINF:-1, TV 1000 - 20251231-15.mpg
+http://85.11.144.8/archive/89/20251231-15.mpg
+#EXTINF:-1, TV 1000 - 20251231-16.mpg
+http://85.11.144.8/archive/89/20251231-16.mpg
+#EXTINF:-1, TV 1000 - 20251231-17.mpg
+http://85.11.144.8/archive/89/20251231-17.mpg
+#EXTINF:-1, TV 1000 - 20251231-18.mpg
+http://85.11.144.8/archive/89/20251231-18.mpg
+#EXTINF:-1, Channel 92 - 20251231-14.mpg
+http://85.11.144.8/archive/92/20251231-14.mpg
+#EXTINF:-1, Channel 92 - 20251231-15.mpg
+http://85.11.144.8/archive/92/20251231-15.mpg
+#EXTINF:-1, Channel 92 - 20251231-16.mpg
+http://85.11.144.8/archive/92/20251231-16.mpg
+#EXTINF:-1, Channel 92 - 20251231-17.mpg
+http://85.11.144.8/archive/92/20251231-17.mpg
+#EXTINF:-1, Channel 92 - 20251231-18.mpg
+http://85.11.144.8/archive/92/20251231-18.mpg
+#EXTINF:-1, Viasat Explore - 20251231-14.mpg
+http://85.11.144.8/archive/94/20251231-14.mpg
+#EXTINF:-1, Viasat Explore - 20251231-15.mpg
+http://85.11.144.8/archive/94/20251231-15.mpg
+#EXTINF:-1, Viasat Explore - 20251231-16.mpg
+http://85.11.144.8/archive/94/20251231-16.mpg
+#EXTINF:-1, Viasat Explore - 20251231-17.mpg
+http://85.11.144.8/archive/94/20251231-17.mpg
+#EXTINF:-1, Viasat Explore - 20251231-18.mpg
+http://85.11.144.8/archive/94/20251231-18.mpg
+#EXTINF:-1, Viasat History - 20251231-14.mpg
+http://85.11.144.8/archive/95/20251231-14.mpg
+#EXTINF:-1, Viasat History - 20251231-15.mpg
+http://85.11.144.8/archive/95/20251231-15.mpg
+#EXTINF:-1, Viasat History - 20251231-16.mpg
+http://85.11.144.8/archive/95/20251231-16.mpg
+#EXTINF:-1, Viasat History - 20251231-17.mpg
+http://85.11.144.8/archive/95/20251231-17.mpg
+#EXTINF:-1, Viasat History - 20251231-18.mpg
+http://85.11.144.8/archive/95/20251231-18.mpg
+#EXTINF:-1, Viasat Nature - 20251231-14.mpg
+http://85.11.144.8/archive/96/20251231-14.mpg
+#EXTINF:-1, Viasat Nature - 20251231-15.mpg
+http://85.11.144.8/archive/96/20251231-15.mpg
+#EXTINF:-1, Viasat Nature - 20251231-16.mpg
+http://85.11.144.8/archive/96/20251231-16.mpg
+#EXTINF:-1, Viasat Nature - 20251231-17.mpg
+http://85.11.144.8/archive/96/20251231-17.mpg
+#EXTINF:-1, Viasat Nature - 20251231-18.mpg
+http://85.11.144.8/archive/96/20251231-18.mpg
+#EXTINF:-1, Channel 108 - 20251231-14.mpg
+http://85.11.144.8/archive/108/20251231-14.mpg
+#EXTINF:-1, Channel 108 - 20251231-15.mpg
+http://85.11.144.8/archive/108/20251231-15.mpg
+#EXTINF:-1, Channel 108 - 20251231-16.mpg
+http://85.11.144.8/archive/108/20251231-16.mpg
+#EXTINF:-1, Channel 108 - 20251231-17.mpg
+http://85.11.144.8/archive/108/20251231-17.mpg
+#EXTINF:-1, Channel 108 - 20251231-18.mpg
+http://85.11.144.8/archive/108/20251231-18.mpg
+#EXTINF:-1, Agro TV - 20251231-14.mpg
+http://85.11.144.8/archive/114/20251231-14.mpg
+#EXTINF:-1, Agro TV - 20251231-15.mpg
+http://85.11.144.8/archive/114/20251231-15.mpg
+#EXTINF:-1, Agro TV - 20251231-16.mpg
+http://85.11.144.8/archive/114/20251231-16.mpg
+#EXTINF:-1, Agro TV - 20251231-17.mpg
+http://85.11.144.8/archive/114/20251231-17.mpg
+#EXTINF:-1, Agro TV - 20251231-18.mpg
+http://85.11.144.8/archive/114/20251231-18.mpg
+#EXTINF:-1, HBO 2 - 20251231-14.mpg
+http://85.11.144.8/archive/137/20251231-14.mpg
+#EXTINF:-1, HBO 2 - 20251231-15.mpg
+http://85.11.144.8/archive/137/20251231-15.mpg
+#EXTINF:-1, HBO 2 - 20251231-16.mpg
+http://85.11.144.8/archive/137/20251231-16.mpg
+#EXTINF:-1, HBO 2 - 20251231-17.mpg
+http://85.11.144.8/archive/137/20251231-17.mpg
+#EXTINF:-1, HBO 2 - 20251231-18.mpg
+http://85.11.144.8/archive/137/20251231-18.mpg
+#EXTINF:-1, Channel 182 - 20251231-14.mpg
+http://85.11.144.8/archive/182/20251231-14.mpg
+#EXTINF:-1, Channel 182 - 20251231-15.mpg
+http://85.11.144.8/archive/182/20251231-15.mpg
+#EXTINF:-1, Channel 182 - 20251231-16.mpg
+http://85.11.144.8/archive/182/20251231-16.mpg
+#EXTINF:-1, Channel 182 - 20251231-17.mpg
+http://85.11.144.8/archive/182/20251231-17.mpg
+#EXTINF:-1, Channel 182 - 20251231-18.mpg
+http://85.11.144.8/archive/182/20251231-18.mpg
+#EXTINF:-1, NCKJR - 20251231-14.mpg
+http://85.11.144.8/archive/192/20251231-14.mpg
+#EXTINF:-1, NCKJR - 20251231-15.mpg
+http://85.11.144.8/archive/192/20251231-15.mpg
+#EXTINF:-1, NCKJR - 20251231-16.mpg
+http://85.11.144.8/archive/192/20251231-16.mpg
+#EXTINF:-1, NCKJR - 20251231-17.mpg
+http://85.11.144.8/archive/192/20251231-17.mpg
+#EXTINF:-1, NCKJR - 20251231-18.mpg
+http://85.11.144.8/archive/192/20251231-18.mpg
+#EXTINF:-1, 7/8 TV - 20251231-14.mpg
+http://85.11.144.8/archive/197/20251231-14.mpg
+#EXTINF:-1, 7/8 TV - 20251231-15.mpg
+http://85.11.144.8/archive/197/20251231-15.mpg
+#EXTINF:-1, 7/8 TV - 20251231-16.mpg
+http://85.11.144.8/archive/197/20251231-16.mpg
+#EXTINF:-1, 7/8 TV - 20251231-17.mpg
+http://85.11.144.8/archive/197/20251231-17.mpg
+#EXTINF:-1, 7/8 TV - 20251231-18.mpg
+http://85.11.144.8/archive/197/20251231-18.mpg
+#EXTINF:-1, Nickelodeon - 20251231-14.mpg
+http://85.11.144.8/archive/209/20251231-14.mpg
+#EXTINF:-1, Nickelodeon - 20251231-15.mpg
+http://85.11.144.8/archive/209/20251231-15.mpg
+#EXTINF:-1, Nickelodeon - 20251231-16.mpg
+http://85.11.144.8/archive/209/20251231-16.mpg
+#EXTINF:-1, Nickelodeon - 20251231-17.mpg
+http://85.11.144.8/archive/209/20251231-17.mpg
+#EXTINF:-1, Nickelodeon - 20251231-18.mpg
+http://85.11.144.8/archive/209/20251231-18.mpg
+#EXTINF:-1, Diema Sport - 20251231-14.mpg
+http://85.11.144.8/archive/485/20251231-14.mpg
+#EXTINF:-1, Diema Sport - 20251231-15.mpg
+http://85.11.144.8/archive/485/20251231-15.mpg
+#EXTINF:-1, Diema Sport - 20251231-16.mpg
+http://85.11.144.8/archive/485/20251231-16.mpg
+#EXTINF:-1, Diema Sport - 20251231-17.mpg
+http://85.11.144.8/archive/485/20251231-17.mpg
+#EXTINF:-1, Diema Sport - 20251231-18.mpg
+http://85.11.144.8/archive/485/20251231-18.mpg
+#EXTINF:-1, Diema Sport 2 - 20251231-14.mpg
+http://85.11.144.8/archive/592/20251231-14.mpg
+#EXTINF:-1, Diema Sport 2 - 20251231-15.mpg
+http://85.11.144.8/archive/592/20251231-15.mpg
+#EXTINF:-1, Diema Sport 2 - 20251231-16.mpg
+http://85.11.144.8/archive/592/20251231-16.mpg
+#EXTINF:-1, Diema Sport 2 - 20251231-17.mpg
+http://85.11.144.8/archive/592/20251231-17.mpg
+#EXTINF:-1, Diema Sport 2 - 20251231-18.mpg
+http://85.11.144.8/archive/592/20251231-18.mpg
+#EXTINF:-1, 24 Kitchen - 20251231-14.mpg
+http://85.11.144.8/archive/746/20251231-14.mpg
+#EXTINF:-1, 24 Kitchen - 20251231-15.mpg
+http://85.11.144.8/archive/746/20251231-15.mpg
+#EXTINF:-1, 24 Kitchen - 20251231-16.mpg
+http://85.11.144.8/archive/746/20251231-16.mpg
+#EXTINF:-1, 24 Kitchen - 20251231-17.mpg
+http://85.11.144.8/archive/746/20251231-17.mpg
+#EXTINF:-1, 24 Kitchen - 20251231-18.mpg
+http://85.11.144.8/archive/746/20251231-18.mpg
+#EXTINF:-1, Max Sport 1 - 20251231-14.mpg
+http://85.11.144.8/archive/1049/20251231-14.mpg
+#EXTINF:-1, Max Sport 1 - 20251231-15.mpg
+http://85.11.144.8/archive/1049/20251231-15.mpg
+#EXTINF:-1, Max Sport 1 - 20251231-16.mpg
+http://85.11.144.8/archive/1049/20251231-16.mpg
+#EXTINF:-1, Max Sport 1 - 20251231-17.mpg
+http://85.11.144.8/archive/1049/20251231-17.mpg
+#EXTINF:-1, Max Sport 1 - 20251231-18.mpg
+http://85.11.144.8/archive/1049/20251231-18.mpg
+#EXTINF:-1, Diema Sport 3 - 20251231-14.mpg
+http://85.11.144.8/archive/1380/20251231-14.mpg
+#EXTINF:-1, Diema Sport 3 - 20251231-15.mpg
+http://85.11.144.8/archive/1380/20251231-15.mpg
+#EXTINF:-1, Diema Sport 3 - 20251231-16.mpg
+http://85.11.144.8/archive/1380/20251231-16.mpg
+#EXTINF:-1, Diema Sport 3 - 20251231-17.mpg
+http://85.11.144.8/archive/1380/20251231-17.mpg
+#EXTINF:-1, Diema Sport 3 - 20251231-18.mpg
+http://85.11.144.8/archive/1380/20251231-18.mpg
+#EXTINF:-1, Max Sport 2 - 20251231-14.mpg
+http://85.11.144.8/archive/1498/20251231-14.mpg
+#EXTINF:-1, Max Sport 2 - 20251231-15.mpg
+http://85.11.144.8/archive/1498/20251231-15.mpg
+#EXTINF:-1, Max Sport 2 - 20251231-16.mpg
+http://85.11.144.8/archive/1498/20251231-16.mpg
+#EXTINF:-1, Max Sport 2 - 20251231-17.mpg
+http://85.11.144.8/archive/1498/20251231-17.mpg
+#EXTINF:-1, Max Sport 2 - 20251231-18.mpg
+http://85.11.144.8/archive/1498/20251231-18.mpg
+#EXTINF:-1, Channel 1670 - 20251231-14.mpg
+http://85.11.144.8/archive/1670/20251231-14.mpg
+#EXTINF:-1, Channel 1670 - 20251231-15.mpg
+http://85.11.144.8/archive/1670/20251231-15.mpg
+#EXTINF:-1, Channel 1670 - 20251231-16.mpg
+http://85.11.144.8/archive/1670/20251231-16.mpg
+#EXTINF:-1, Channel 1670 - 20251231-17.mpg
+http://85.11.144.8/archive/1670/20251231-17.mpg
+#EXTINF:-1, Channel 1670 - 20251231-18.mpg
+http://85.11.144.8/archive/1670/20251231-18.mpg
+#EXTINF:-1, Max Sport 3 - 20251231-14.mpg
+http://85.11.144.8/archive/1721/20251231-14.mpg
+#EXTINF:-1, Max Sport 3 - 20251231-15.mpg
+http://85.11.144.8/archive/1721/20251231-15.mpg
+#EXTINF:-1, Max Sport 3 - 20251231-16.mpg
+http://85.11.144.8/archive/1721/20251231-16.mpg
+#EXTINF:-1, Max Sport 3 - 20251231-17.mpg
+http://85.11.144.8/archive/1721/20251231-17.mpg
+#EXTINF:-1, Max Sport 3 - 20251231-18.mpg
+http://85.11.144.8/archive/1721/20251231-18.mpg
+#EXTINF:-1, Max Sport 4 - 20251231-14.mpg
+http://85.11.144.8/archive/1752/20251231-14.mpg
+#EXTINF:-1, Max Sport 4 - 20251231-15.mpg
+http://85.11.144.8/archive/1752/20251231-15.mpg
+#EXTINF:-1, Max Sport 4 - 20251231-16.mpg
+http://85.11.144.8/archive/1752/20251231-16.mpg
+#EXTINF:-1, Max Sport 4 - 20251231-17.mpg
+http://85.11.144.8/archive/1752/20251231-17.mpg
+#EXTINF:-1, Max Sport 4 - 20251231-18.mpg
+http://85.11.144.8/archive/1752/20251231-18.mpg
+#EXTINF:-1, Disney Channel - 20251231-14.mpg
+http://85.11.144.8/archive/1931/20251231-14.mpg
+#EXTINF:-1, Disney Channel - 20251231-15.mpg
+http://85.11.144.8/archive/1931/20251231-15.mpg
+#EXTINF:-1, Disney Channel - 20251231-16.mpg
+http://85.11.144.8/archive/1931/20251231-16.mpg
+#EXTINF:-1, Disney Channel - 20251231-17.mpg
+http://85.11.144.8/archive/1931/20251231-17.mpg
+#EXTINF:-1, Disney Channel - 20251231-18.mpg
+http://85.11.144.8/archive/1931/20251231-18.mpg
+#EXTINF:-1, BNT 1 - 20251231-14.mpg
 http://85.11.144.8/archive/1932/20251231-14.mpg
-#EXTINF:-1 tvg-name="BNT 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/BNT_1_logo_2018.svg/512px-BNT_1_logo_2018.svg.png" group-title="BNT 1",31 Aralık - Saat 13:00
-http://85.11.144.8/archive/1932/20251231-13.mpg
-#EXTINF:-1 tvg-name="BNT 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/BNT_1_logo_2018.svg/512px-BNT_1_logo_2018.svg.png" group-title="BNT 1",31 Aralık - Saat 12:00
-http://85.11.144.8/archive/1932/20251231-12.mpg
-#EXTINF:-1 tvg-name="BNT 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/BNT_1_logo_2018.svg/512px-BNT_1_logo_2018.svg.png" group-title="BNT 1",31 Aralık - Saat 11:00
-http://85.11.144.8/archive/1932/20251231-11.mpg
-#EXTINF:-1 tvg-name="BNT 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/BNT_1_logo_2018.svg/512px-BNT_1_logo_2018.svg.png" group-title="BNT 1",31 Aralık - Saat 10:00
-http://85.11.144.8/archive/1932/20251231-10.mpg
-#EXTINF:-1 tvg-name="BNT 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/BNT_1_logo_2018.svg/512px-BNT_1_logo_2018.svg.png" group-title="BNT 1",31 Aralık - Saat 09:00
-http://85.11.144.8/archive/1932/20251231-09.mpg
-#EXTINF:-1 tvg-name="BNT 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/BNT_1_logo_2018.svg/512px-BNT_1_logo_2018.svg.png" group-title="BNT 1",31 Aralık - Saat 08:00
-http://85.11.144.8/archive/1932/20251231-08.mpg
-#EXTINF:-1 tvg-name="BNT 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/BNT_1_logo_2018.svg/512px-BNT_1_logo_2018.svg.png" group-title="BNT 1",31 Aralık - Saat 07:00
-http://85.11.144.8/archive/1932/20251231-07.mpg
-#EXTINF:-1 tvg-name="BNT 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/BNT_1_logo_2018.svg/512px-BNT_1_logo_2018.svg.png" group-title="BNT 1",31 Aralık - Saat 06:00
-http://85.11.144.8/archive/1932/20251231-06.mpg
-#EXTINF:-1 tvg-name="BNT 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/BNT_1_logo_2018.svg/512px-BNT_1_logo_2018.svg.png" group-title="BNT 1",31 Aralık - Saat 05:00
-http://85.11.144.8/archive/1932/20251231-05.mpg
-#EXTINF:-1 tvg-name="BNT 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/BNT_1_logo_2018.svg/512px-BNT_1_logo_2018.svg.png" group-title="BNT 1",31 Aralık - Saat 04:00
-http://85.11.144.8/archive/1932/20251231-04.mpg
-#EXTINF:-1 tvg-name="BNT 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/BNT_1_logo_2018.svg/512px-BNT_1_logo_2018.svg.png" group-title="BNT 1",31 Aralık - Saat 03:00
-http://85.11.144.8/archive/1932/20251231-03.mpg
-#EXTINF:-1 tvg-name="BNT 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/BNT_1_logo_2018.svg/512px-BNT_1_logo_2018.svg.png" group-title="BNT 1",31 Aralık - Saat 02:00
-http://85.11.144.8/archive/1932/20251231-02.mpg
-#EXTINF:-1 tvg-name="BNT 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/BNT_1_logo_2018.svg/512px-BNT_1_logo_2018.svg.png" group-title="BNT 1",31 Aralık - Saat 01:00
-http://85.11.144.8/archive/1932/20251231-01.mpg
-#EXTINF:-1 tvg-name="BNT 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/BNT_1_logo_2018.svg/512px-BNT_1_logo_2018.svg.png" group-title="BNT 1",31 Aralık - Saat 00:00
-http://85.11.144.8/archive/1932/20251231-00.mpg
-#EXTINF:-1 tvg-name="BNT 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/BNT_1_logo_2018.svg/512px-BNT_1_logo_2018.svg.png" group-title="BNT 1",30 Aralık - Saat 23:00
-http://85.11.144.8/archive/1932/20251230-23.mpg
-#EXTINF:-1 tvg-name="BNT 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/BNT_1_logo_2018.svg/512px-BNT_1_logo_2018.svg.png" group-title="BNT 1",30 Aralık - Saat 22:00
-http://85.11.144.8/archive/1932/20251230-22.mpg
-#EXTINF:-1 tvg-name="BNT 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/BNT_1_logo_2018.svg/512px-BNT_1_logo_2018.svg.png" group-title="BNT 1",30 Aralık - Saat 21:00
-http://85.11.144.8/archive/1932/20251230-21.mpg
-#EXTINF:-1 tvg-name="BNT 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/BNT_1_logo_2018.svg/512px-BNT_1_logo_2018.svg.png" group-title="BNT 1",30 Aralık - Saat 20:00
-http://85.11.144.8/archive/1932/20251230-20.mpg
-#EXTINF:-1 tvg-name="BNT 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/BNT_1_logo_2018.svg/512px-BNT_1_logo_2018.svg.png" group-title="BNT 1",30 Aralık - Saat 19:00
-http://85.11.144.8/archive/1932/20251230-19.mpg
-#EXTINF:-1 tvg-name="BNT 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/BNT_1_logo_2018.svg/512px-BNT_1_logo_2018.svg.png" group-title="BNT 1",30 Aralık - Saat 18:00
-http://85.11.144.8/archive/1932/20251230-18.mpg
-#EXTINF:-1 tvg-name="BNT 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/BNT_1_logo_2018.svg/512px-BNT_1_logo_2018.svg.png" group-title="BNT 1",30 Aralık - Saat 17:00
-http://85.11.144.8/archive/1932/20251230-17.mpg
-#EXTINF:-1 tvg-name="BNT 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/BNT_1_logo_2018.svg/512px-BNT_1_logo_2018.svg.png" group-title="BNT 1",30 Aralık - Saat 16:00
-http://85.11.144.8/archive/1932/20251230-16.mpg
-#EXTINF:-1 tvg-name="BNT 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/BNT_1_logo_2018.svg/512px-BNT_1_logo_2018.svg.png" group-title="BNT 1",30 Aralık - Saat 15:00
-http://85.11.144.8/archive/1932/20251230-15.mpg
-#EXTINF:-1 tvg-name="BNT 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/BNT_1_logo_2018.svg/512px-BNT_1_logo_2018.svg.png" group-title="BNT 1",30 Aralık - Saat 14:00
-http://85.11.144.8/archive/1932/20251230-14.mpg
-#EXTINF:-1 tvg-name="BNT 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/BNT_1_logo_2018.svg/512px-BNT_1_logo_2018.svg.png" group-title="BNT 1",30 Aralık - Saat 13:00
-http://85.11.144.8/archive/1932/20251230-13.mpg
-#EXTINF:-1 tvg-name="BNT 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/BNT_1_logo_2018.svg/512px-BNT_1_logo_2018.svg.png" group-title="BNT 1",30 Aralık - Saat 12:00
-http://85.11.144.8/archive/1932/20251230-12.mpg
-#EXTINF:-1 tvg-name="BNT 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/BNT_1_logo_2018.svg/512px-BNT_1_logo_2018.svg.png" group-title="BNT 1",30 Aralık - Saat 11:00
-http://85.11.144.8/archive/1932/20251230-11.mpg
-#EXTINF:-1 tvg-name="BNT 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/BNT_1_logo_2018.svg/512px-BNT_1_logo_2018.svg.png" group-title="BNT 1",30 Aralık - Saat 10:00
-http://85.11.144.8/archive/1932/20251230-10.mpg
-#EXTINF:-1 tvg-name="BNT 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/BNT_1_logo_2018.svg/512px-BNT_1_logo_2018.svg.png" group-title="BNT 1",30 Aralık - Saat 09:00
-http://85.11.144.8/archive/1932/20251230-09.mpg
-#EXTINF:-1 tvg-name="BNT 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/BNT_1_logo_2018.svg/512px-BNT_1_logo_2018.svg.png" group-title="BNT 1",30 Aralık - Saat 08:00
-http://85.11.144.8/archive/1932/20251230-08.mpg
-#EXTINF:-1 tvg-name="BNT 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/BNT_1_logo_2018.svg/512px-BNT_1_logo_2018.svg.png" group-title="BNT 1",30 Aralık - Saat 07:00
-http://85.11.144.8/archive/1932/20251230-07.mpg
-#EXTINF:-1 tvg-name="BNT 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/BNT_1_logo_2018.svg/512px-BNT_1_logo_2018.svg.png" group-title="BNT 1",30 Aralık - Saat 06:00
-http://85.11.144.8/archive/1932/20251230-06.mpg
-#EXTINF:-1 tvg-name="BNT 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/BNT_1_logo_2018.svg/512px-BNT_1_logo_2018.svg.png" group-title="BNT 1",30 Aralık - Saat 05:00
-http://85.11.144.8/archive/1932/20251230-05.mpg
-#EXTINF:-1 tvg-name="BNT 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/BNT_1_logo_2018.svg/512px-BNT_1_logo_2018.svg.png" group-title="BNT 1",30 Aralık - Saat 04:00
-http://85.11.144.8/archive/1932/20251230-04.mpg
-#EXTINF:-1 tvg-name="BNT 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/BNT_1_logo_2018.svg/512px-BNT_1_logo_2018.svg.png" group-title="BNT 1",30 Aralık - Saat 03:00
-http://85.11.144.8/archive/1932/20251230-03.mpg
-#EXTINF:-1 tvg-name="BNT 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/BNT_1_logo_2018.svg/512px-BNT_1_logo_2018.svg.png" group-title="BNT 1",30 Aralık - Saat 02:00
-http://85.11.144.8/archive/1932/20251230-02.mpg
-#EXTINF:-1 tvg-name="BNT 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/BNT_1_logo_2018.svg/512px-BNT_1_logo_2018.svg.png" group-title="BNT 1",30 Aralık - Saat 01:00
-http://85.11.144.8/archive/1932/20251230-01.mpg
-#EXTINF:-1 tvg-name="BNT 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/BNT_1_logo_2018.svg/512px-BNT_1_logo_2018.svg.png" group-title="BNT 1",30 Aralık - Saat 00:00
-http://85.11.144.8/archive/1932/20251230-00.mpg
-#EXTINF:-1 tvg-name="BNT 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/BNT_1_logo_2018.svg/512px-BNT_1_logo_2018.svg.png" group-title="BNT 1",29 Aralık - Saat 23:00
-http://85.11.144.8/archive/1932/20251229-23.mpg
-#EXTINF:-1 tvg-name="BNT 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/BNT_1_logo_2018.svg/512px-BNT_1_logo_2018.svg.png" group-title="BNT 1",29 Aralık - Saat 22:00
-http://85.11.144.8/archive/1932/20251229-22.mpg
-#EXTINF:-1 tvg-name="BNT 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/BNT_1_logo_2018.svg/512px-BNT_1_logo_2018.svg.png" group-title="BNT 1",29 Aralık - Saat 21:00
-http://85.11.144.8/archive/1932/20251229-21.mpg
-#EXTINF:-1 tvg-name="BNT 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/BNT_1_logo_2018.svg/512px-BNT_1_logo_2018.svg.png" group-title="BNT 1",29 Aralık - Saat 20:00
-http://85.11.144.8/archive/1932/20251229-20.mpg
-#EXTINF:-1 tvg-name="BNT 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/BNT_1_logo_2018.svg/512px-BNT_1_logo_2018.svg.png" group-title="BNT 1",29 Aralık - Saat 19:00
-http://85.11.144.8/archive/1932/20251229-19.mpg
-#EXTINF:-1 tvg-name="BNT 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/BNT_1_logo_2018.svg/512px-BNT_1_logo_2018.svg.png" group-title="BNT 1",29 Aralık - Saat 18:00
-http://85.11.144.8/archive/1932/20251229-18.mpg
-#EXTINF:-1 tvg-name="BNT 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/BNT_1_logo_2018.svg/512px-BNT_1_logo_2018.svg.png" group-title="BNT 1",29 Aralık - Saat 17:00
-http://85.11.144.8/archive/1932/20251229-17.mpg
-#EXTINF:-1 tvg-name="BNT 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/BNT_1_logo_2018.svg/512px-BNT_1_logo_2018.svg.png" group-title="BNT 1",29 Aralık - Saat 16:00
-http://85.11.144.8/archive/1932/20251229-16.mpg
-#EXTINF:-1 tvg-name="BNT 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/BNT_1_logo_2018.svg/512px-BNT_1_logo_2018.svg.png" group-title="BNT 1",29 Aralık - Saat 15:00
-http://85.11.144.8/archive/1932/20251229-15.mpg
+#EXTINF:-1, BNT 1 - 20251231-15.mpg
+http://85.11.144.8/archive/1932/20251231-15.mpg
+#EXTINF:-1, BNT 1 - 20251231-16.mpg
+http://85.11.144.8/archive/1932/20251231-16.mpg
+#EXTINF:-1, BNT 1 - 20251231-17.mpg
+http://85.11.144.8/archive/1932/20251231-17.mpg
+#EXTINF:-1, BNT 1 - 20251231-18.mpg
+http://85.11.144.8/archive/1932/20251231-18.mpg
