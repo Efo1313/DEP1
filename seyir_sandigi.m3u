@@ -1,633 +1,633 @@
 #EXTM3U
-#EXTINF:-1, Channel  - 1670/
+#EXTINF:-1 group-title="Channel  Arşivi", Channel  - Saat 1670/:00
 http://85.11.144.8/archive//1670/
-#EXTINF:-1, Channel  - 1721/
+#EXTINF:-1 group-title="Channel  Arşivi", Channel  - Saat 1721/:00
 http://85.11.144.8/archive//1721/
-#EXTINF:-1, Channel  - 1752/
+#EXTINF:-1 group-title="Channel  Arşivi", Channel  - Saat 1752/:00
 http://85.11.144.8/archive//1752/
-#EXTINF:-1, Channel  - 1931/
+#EXTINF:-1 group-title="Channel  Arşivi", Channel  - Saat 1931/:00
 http://85.11.144.8/archive//1931/
-#EXTINF:-1, Channel  - 1932/
+#EXTINF:-1 group-title="Channel  Arşivi", Channel  - Saat 1932/:00
 http://85.11.144.8/archive//1932/
-#EXTINF:-1, bTV - 20260101-18.mpg
+#EXTINF:-1 group-title="bTV Arşivi", bTV - Saat 18:00
 http://85.11.144.8/archive/2/20260101-18.mpg
-#EXTINF:-1, bTV - 20260101-19.mpg
+#EXTINF:-1 group-title="bTV Arşivi", bTV - Saat 19:00
 http://85.11.144.8/archive/2/20260101-19.mpg
-#EXTINF:-1, bTV - 20260101-20.mpg
+#EXTINF:-1 group-title="bTV Arşivi", bTV - Saat 20:00
 http://85.11.144.8/archive/2/20260101-20.mpg
-#EXTINF:-1, bTV - 20260101-21.mpg
+#EXTINF:-1 group-title="bTV Arşivi", bTV - Saat 21:00
 http://85.11.144.8/archive/2/20260101-21.mpg
-#EXTINF:-1, bTV - 20260101-22.mpg
+#EXTINF:-1 group-title="bTV Arşivi", bTV - Saat 22:00
 http://85.11.144.8/archive/2/20260101-22.mpg
-#EXTINF:-1, Nova - 20260101-18.mpg
+#EXTINF:-1 group-title="Nova Arşivi", Nova - Saat 18:00
 http://85.11.144.8/archive/3/20260101-18.mpg
-#EXTINF:-1, Nova - 20260101-19.mpg
+#EXTINF:-1 group-title="Nova Arşivi", Nova - Saat 19:00
 http://85.11.144.8/archive/3/20260101-19.mpg
-#EXTINF:-1, Nova - 20260101-20.mpg
+#EXTINF:-1 group-title="Nova Arşivi", Nova - Saat 20:00
 http://85.11.144.8/archive/3/20260101-20.mpg
-#EXTINF:-1, Nova - 20260101-21.mpg
+#EXTINF:-1 group-title="Nova Arşivi", Nova - Saat 21:00
 http://85.11.144.8/archive/3/20260101-21.mpg
-#EXTINF:-1, Nova - 20260101-22.mpg
+#EXTINF:-1 group-title="Nova Arşivi", Nova - Saat 22:00
 http://85.11.144.8/archive/3/20260101-22.mpg
-#EXTINF:-1, bTV Cinema - 20260101-18.mpg
+#EXTINF:-1 group-title="bTV Cinema Arşivi", bTV Cinema - Saat 18:00
 http://85.11.144.8/archive/4/20260101-18.mpg
-#EXTINF:-1, bTV Cinema - 20260101-19.mpg
+#EXTINF:-1 group-title="bTV Cinema Arşivi", bTV Cinema - Saat 19:00
 http://85.11.144.8/archive/4/20260101-19.mpg
-#EXTINF:-1, bTV Cinema - 20260101-20.mpg
+#EXTINF:-1 group-title="bTV Cinema Arşivi", bTV Cinema - Saat 20:00
 http://85.11.144.8/archive/4/20260101-20.mpg
-#EXTINF:-1, bTV Cinema - 20260101-21.mpg
+#EXTINF:-1 group-title="bTV Cinema Arşivi", bTV Cinema - Saat 21:00
 http://85.11.144.8/archive/4/20260101-21.mpg
-#EXTINF:-1, bTV Cinema - 20260101-22.mpg
+#EXTINF:-1 group-title="bTV Cinema Arşivi", bTV Cinema - Saat 22:00
 http://85.11.144.8/archive/4/20260101-22.mpg
-#EXTINF:-1, Diema - 20260101-18.mpg
+#EXTINF:-1 group-title="Diema Arşivi", Diema - Saat 18:00
 http://85.11.144.8/archive/5/20260101-18.mpg
-#EXTINF:-1, Diema - 20260101-19.mpg
+#EXTINF:-1 group-title="Diema Arşivi", Diema - Saat 19:00
 http://85.11.144.8/archive/5/20260101-19.mpg
-#EXTINF:-1, Diema - 20260101-20.mpg
+#EXTINF:-1 group-title="Diema Arşivi", Diema - Saat 20:00
 http://85.11.144.8/archive/5/20260101-20.mpg
-#EXTINF:-1, Diema - 20260101-21.mpg
+#EXTINF:-1 group-title="Diema Arşivi", Diema - Saat 21:00
 http://85.11.144.8/archive/5/20260101-21.mpg
-#EXTINF:-1, Diema - 20260101-22.mpg
+#EXTINF:-1 group-title="Diema Arşivi", Diema - Saat 22:00
 http://85.11.144.8/archive/5/20260101-22.mpg
-#EXTINF:-1, bTV Comedy - 20260101-18.mpg
+#EXTINF:-1 group-title="bTV Comedy Arşivi", bTV Comedy - Saat 18:00
 http://85.11.144.8/archive/6/20260101-18.mpg
-#EXTINF:-1, bTV Comedy - 20260101-19.mpg
+#EXTINF:-1 group-title="bTV Comedy Arşivi", bTV Comedy - Saat 19:00
 http://85.11.144.8/archive/6/20260101-19.mpg
-#EXTINF:-1, bTV Comedy - 20260101-20.mpg
+#EXTINF:-1 group-title="bTV Comedy Arşivi", bTV Comedy - Saat 20:00
 http://85.11.144.8/archive/6/20260101-20.mpg
-#EXTINF:-1, bTV Comedy - 20260101-21.mpg
+#EXTINF:-1 group-title="bTV Comedy Arşivi", bTV Comedy - Saat 21:00
 http://85.11.144.8/archive/6/20260101-21.mpg
-#EXTINF:-1, bTV Comedy - 20260101-22.mpg
+#EXTINF:-1 group-title="bTV Comedy Arşivi", bTV Comedy - Saat 22:00
 http://85.11.144.8/archive/6/20260101-22.mpg
-#EXTINF:-1, HBO 3 - 20260101-18.mpg
+#EXTINF:-1 group-title="HBO 3 Arşivi", HBO 3 - Saat 18:00
 http://85.11.144.8/archive/7/20260101-18.mpg
-#EXTINF:-1, HBO 3 - 20260101-19.mpg
+#EXTINF:-1 group-title="HBO 3 Arşivi", HBO 3 - Saat 19:00
 http://85.11.144.8/archive/7/20260101-19.mpg
-#EXTINF:-1, HBO 3 - 20260101-20.mpg
+#EXTINF:-1 group-title="HBO 3 Arşivi", HBO 3 - Saat 20:00
 http://85.11.144.8/archive/7/20260101-20.mpg
-#EXTINF:-1, HBO 3 - 20260101-21.mpg
+#EXTINF:-1 group-title="HBO 3 Arşivi", HBO 3 - Saat 21:00
 http://85.11.144.8/archive/7/20260101-21.mpg
-#EXTINF:-1, HBO 3 - 20260101-22.mpg
+#EXTINF:-1 group-title="HBO 3 Arşivi", HBO 3 - Saat 22:00
 http://85.11.144.8/archive/7/20260101-22.mpg
-#EXTINF:-1, AXN - 20260101-18.mpg
+#EXTINF:-1 group-title="AXN Arşivi", AXN - Saat 18:00
 http://85.11.144.8/archive/8/20260101-18.mpg
-#EXTINF:-1, AXN - 20260101-19.mpg
+#EXTINF:-1 group-title="AXN Arşivi", AXN - Saat 19:00
 http://85.11.144.8/archive/8/20260101-19.mpg
-#EXTINF:-1, AXN - 20260101-20.mpg
+#EXTINF:-1 group-title="AXN Arşivi", AXN - Saat 20:00
 http://85.11.144.8/archive/8/20260101-20.mpg
-#EXTINF:-1, AXN - 20260101-21.mpg
+#EXTINF:-1 group-title="AXN Arşivi", AXN - Saat 21:00
 http://85.11.144.8/archive/8/20260101-21.mpg
-#EXTINF:-1, AXN - 20260101-22.mpg
+#EXTINF:-1 group-title="AXN Arşivi", AXN - Saat 22:00
 http://85.11.144.8/archive/8/20260101-22.mpg
-#EXTINF:-1, Kino NOVA - 20260101-18.mpg
+#EXTINF:-1 group-title="Kino NOVA Arşivi", Kino NOVA - Saat 18:00
 http://85.11.144.8/archive/9/20260101-18.mpg
-#EXTINF:-1, Kino NOVA - 20260101-19.mpg
+#EXTINF:-1 group-title="Kino NOVA Arşivi", Kino NOVA - Saat 19:00
 http://85.11.144.8/archive/9/20260101-19.mpg
-#EXTINF:-1, Kino NOVA - 20260101-20.mpg
+#EXTINF:-1 group-title="Kino NOVA Arşivi", Kino NOVA - Saat 20:00
 http://85.11.144.8/archive/9/20260101-20.mpg
-#EXTINF:-1, Kino NOVA - 20260101-21.mpg
+#EXTINF:-1 group-title="Kino NOVA Arşivi", Kino NOVA - Saat 21:00
 http://85.11.144.8/archive/9/20260101-21.mpg
-#EXTINF:-1, Kino NOVA - 20260101-22.mpg
+#EXTINF:-1 group-title="Kino NOVA Arşivi", Kino NOVA - Saat 22:00
 http://85.11.144.8/archive/9/20260101-22.mpg
-#EXTINF:-1, Nova Sport - 20260101-18.mpg
+#EXTINF:-1 group-title="Nova Sport Arşivi", Nova Sport - Saat 18:00
 http://85.11.144.8/archive/10/20260101-18.mpg
-#EXTINF:-1, Nova Sport - 20260101-19.mpg
+#EXTINF:-1 group-title="Nova Sport Arşivi", Nova Sport - Saat 19:00
 http://85.11.144.8/archive/10/20260101-19.mpg
-#EXTINF:-1, Nova Sport - 20260101-20.mpg
+#EXTINF:-1 group-title="Nova Sport Arşivi", Nova Sport - Saat 20:00
 http://85.11.144.8/archive/10/20260101-20.mpg
-#EXTINF:-1, Nova Sport - 20260101-21.mpg
+#EXTINF:-1 group-title="Nova Sport Arşivi", Nova Sport - Saat 21:00
 http://85.11.144.8/archive/10/20260101-21.mpg
-#EXTINF:-1, Nova Sport - 20260101-22.mpg
+#EXTINF:-1 group-title="Nova Sport Arşivi", Nova Sport - Saat 22:00
 http://85.11.144.8/archive/10/20260101-22.mpg
-#EXTINF:-1, bTV Action - 20260101-18.mpg
+#EXTINF:-1 group-title="bTV Action Arşivi", bTV Action - Saat 18:00
 http://85.11.144.8/archive/11/20260101-18.mpg
-#EXTINF:-1, bTV Action - 20260101-19.mpg
+#EXTINF:-1 group-title="bTV Action Arşivi", bTV Action - Saat 19:00
 http://85.11.144.8/archive/11/20260101-19.mpg
-#EXTINF:-1, bTV Action - 20260101-20.mpg
+#EXTINF:-1 group-title="bTV Action Arşivi", bTV Action - Saat 20:00
 http://85.11.144.8/archive/11/20260101-20.mpg
-#EXTINF:-1, bTV Action - 20260101-21.mpg
+#EXTINF:-1 group-title="bTV Action Arşivi", bTV Action - Saat 21:00
 http://85.11.144.8/archive/11/20260101-21.mpg
-#EXTINF:-1, bTV Action - 20260101-22.mpg
+#EXTINF:-1 group-title="bTV Action Arşivi", bTV Action - Saat 22:00
 http://85.11.144.8/archive/11/20260101-22.mpg
-#EXTINF:-1, Diema Family - 20260101-18.mpg
+#EXTINF:-1 group-title="Diema Family Arşivi", Diema Family - Saat 18:00
 http://85.11.144.8/archive/12/20260101-18.mpg
-#EXTINF:-1, Diema Family - 20260101-19.mpg
+#EXTINF:-1 group-title="Diema Family Arşivi", Diema Family - Saat 19:00
 http://85.11.144.8/archive/12/20260101-19.mpg
-#EXTINF:-1, Diema Family - 20260101-20.mpg
+#EXTINF:-1 group-title="Diema Family Arşivi", Diema Family - Saat 20:00
 http://85.11.144.8/archive/12/20260101-20.mpg
-#EXTINF:-1, Diema Family - 20260101-21.mpg
+#EXTINF:-1 group-title="Diema Family Arşivi", Diema Family - Saat 21:00
 http://85.11.144.8/archive/12/20260101-21.mpg
-#EXTINF:-1, Diema Family - 20260101-22.mpg
+#EXTINF:-1 group-title="Diema Family Arşivi", Diema Family - Saat 22:00
 http://85.11.144.8/archive/12/20260101-22.mpg
-#EXTINF:-1, bTV Story - 20260101-18.mpg
+#EXTINF:-1 group-title="bTV Story Arşivi", bTV Story - Saat 18:00
 http://85.11.144.8/archive/13/20260101-18.mpg
-#EXTINF:-1, bTV Story - 20260101-19.mpg
+#EXTINF:-1 group-title="bTV Story Arşivi", bTV Story - Saat 19:00
 http://85.11.144.8/archive/13/20260101-19.mpg
-#EXTINF:-1, bTV Story - 20260101-20.mpg
+#EXTINF:-1 group-title="bTV Story Arşivi", bTV Story - Saat 20:00
 http://85.11.144.8/archive/13/20260101-20.mpg
-#EXTINF:-1, bTV Story - 20260101-21.mpg
+#EXTINF:-1 group-title="bTV Story Arşivi", bTV Story - Saat 21:00
 http://85.11.144.8/archive/13/20260101-21.mpg
-#EXTINF:-1, bTV Story - 20260101-22.mpg
+#EXTINF:-1 group-title="bTV Story Arşivi", bTV Story - Saat 22:00
 http://85.11.144.8/archive/13/20260101-22.mpg
-#EXTINF:-1, AXN Black - 20260101-18.mpg
+#EXTINF:-1 group-title="AXN Black Arşivi", AXN Black - Saat 18:00
 http://85.11.144.8/archive/14/20260101-18.mpg
-#EXTINF:-1, AXN Black - 20260101-19.mpg
+#EXTINF:-1 group-title="AXN Black Arşivi", AXN Black - Saat 19:00
 http://85.11.144.8/archive/14/20260101-19.mpg
-#EXTINF:-1, AXN Black - 20260101-20.mpg
+#EXTINF:-1 group-title="AXN Black Arşivi", AXN Black - Saat 20:00
 http://85.11.144.8/archive/14/20260101-20.mpg
-#EXTINF:-1, AXN Black - 20260101-21.mpg
+#EXTINF:-1 group-title="AXN Black Arşivi", AXN Black - Saat 21:00
 http://85.11.144.8/archive/14/20260101-21.mpg
-#EXTINF:-1, AXN Black - 20260101-22.mpg
+#EXTINF:-1 group-title="AXN Black Arşivi", AXN Black - Saat 22:00
 http://85.11.144.8/archive/14/20260101-22.mpg
-#EXTINF:-1, AXN White - 20260101-18.mpg
+#EXTINF:-1 group-title="AXN White Arşivi", AXN White - Saat 18:00
 http://85.11.144.8/archive/15/20260101-18.mpg
-#EXTINF:-1, AXN White - 20260101-19.mpg
+#EXTINF:-1 group-title="AXN White Arşivi", AXN White - Saat 19:00
 http://85.11.144.8/archive/15/20260101-19.mpg
-#EXTINF:-1, AXN White - 20260101-20.mpg
+#EXTINF:-1 group-title="AXN White Arşivi", AXN White - Saat 20:00
 http://85.11.144.8/archive/15/20260101-20.mpg
-#EXTINF:-1, AXN White - 20260101-21.mpg
+#EXTINF:-1 group-title="AXN White Arşivi", AXN White - Saat 21:00
 http://85.11.144.8/archive/15/20260101-21.mpg
-#EXTINF:-1, AXN White - 20260101-22.mpg
+#EXTINF:-1 group-title="AXN White Arşivi", AXN White - Saat 22:00
 http://85.11.144.8/archive/15/20260101-22.mpg
-#EXTINF:-1, BNT 2 - 20260101-18.mpg
+#EXTINF:-1 group-title="BNT 2 Arşivi", BNT 2 - Saat 18:00
 http://85.11.144.8/archive/16/20260101-18.mpg
-#EXTINF:-1, BNT 2 - 20260101-19.mpg
+#EXTINF:-1 group-title="BNT 2 Arşivi", BNT 2 - Saat 19:00
 http://85.11.144.8/archive/16/20260101-19.mpg
-#EXTINF:-1, BNT 2 - 20260101-20.mpg
+#EXTINF:-1 group-title="BNT 2 Arşivi", BNT 2 - Saat 20:00
 http://85.11.144.8/archive/16/20260101-20.mpg
-#EXTINF:-1, BNT 2 - 20260101-21.mpg
+#EXTINF:-1 group-title="BNT 2 Arşivi", BNT 2 - Saat 21:00
 http://85.11.144.8/archive/16/20260101-21.mpg
-#EXTINF:-1, BNT 2 - 20260101-22.mpg
+#EXTINF:-1 group-title="BNT 2 Arşivi", BNT 2 - Saat 22:00
 http://85.11.144.8/archive/16/20260101-22.mpg
-#EXTINF:-1, BNT 4 - 20260101-18.mpg
+#EXTINF:-1 group-title="BNT 4 Arşivi", BNT 4 - Saat 18:00
 http://85.11.144.8/archive/17/20260101-18.mpg
-#EXTINF:-1, BNT 4 - 20260101-19.mpg
+#EXTINF:-1 group-title="BNT 4 Arşivi", BNT 4 - Saat 19:00
 http://85.11.144.8/archive/17/20260101-19.mpg
-#EXTINF:-1, BNT 4 - 20260101-20.mpg
+#EXTINF:-1 group-title="BNT 4 Arşivi", BNT 4 - Saat 20:00
 http://85.11.144.8/archive/17/20260101-20.mpg
-#EXTINF:-1, BNT 4 - 20260101-21.mpg
+#EXTINF:-1 group-title="BNT 4 Arşivi", BNT 4 - Saat 21:00
 http://85.11.144.8/archive/17/20260101-21.mpg
-#EXTINF:-1, BNT 4 - 20260101-22.mpg
+#EXTINF:-1 group-title="BNT 4 Arşivi", BNT 4 - Saat 22:00
 http://85.11.144.8/archive/17/20260101-22.mpg
-#EXTINF:-1, ON AIR - 20260101-18.mpg
+#EXTINF:-1 group-title="ON AIR Arşivi", ON AIR - Saat 18:00
 http://85.11.144.8/archive/18/20260101-18.mpg
-#EXTINF:-1, ON AIR - 20260101-19.mpg
+#EXTINF:-1 group-title="ON AIR Arşivi", ON AIR - Saat 19:00
 http://85.11.144.8/archive/18/20260101-19.mpg
-#EXTINF:-1, ON AIR - 20260101-20.mpg
+#EXTINF:-1 group-title="ON AIR Arşivi", ON AIR - Saat 20:00
 http://85.11.144.8/archive/18/20260101-20.mpg
-#EXTINF:-1, ON AIR - 20260101-21.mpg
+#EXTINF:-1 group-title="ON AIR Arşivi", ON AIR - Saat 21:00
 http://85.11.144.8/archive/18/20260101-21.mpg
-#EXTINF:-1, ON AIR - 20260101-22.mpg
+#EXTINF:-1 group-title="ON AIR Arşivi", ON AIR - Saat 22:00
 http://85.11.144.8/archive/18/20260101-22.mpg
-#EXTINF:-1, ALFA Ataka - 20260101-18.mpg
+#EXTINF:-1 group-title="ALFA Ataka Arşivi", ALFA Ataka - Saat 18:00
 http://85.11.144.8/archive/20/20260101-18.mpg
-#EXTINF:-1, ALFA Ataka - 20260101-19.mpg
+#EXTINF:-1 group-title="ALFA Ataka Arşivi", ALFA Ataka - Saat 19:00
 http://85.11.144.8/archive/20/20260101-19.mpg
-#EXTINF:-1, ALFA Ataka - 20260101-20.mpg
+#EXTINF:-1 group-title="ALFA Ataka Arşivi", ALFA Ataka - Saat 20:00
 http://85.11.144.8/archive/20/20260101-20.mpg
-#EXTINF:-1, ALFA Ataka - 20260101-21.mpg
+#EXTINF:-1 group-title="ALFA Ataka Arşivi", ALFA Ataka - Saat 21:00
 http://85.11.144.8/archive/20/20260101-21.mpg
-#EXTINF:-1, ALFA Ataka - 20260101-22.mpg
+#EXTINF:-1 group-title="ALFA Ataka Arşivi", ALFA Ataka - Saat 22:00
 http://85.11.144.8/archive/20/20260101-22.mpg
-#EXTINF:-1, Animal Planet - 20260101-18.mpg
+#EXTINF:-1 group-title="Animal Planet Arşivi", Animal Planet - Saat 18:00
 http://85.11.144.8/archive/21/20260101-18.mpg
-#EXTINF:-1, Animal Planet - 20260101-19.mpg
+#EXTINF:-1 group-title="Animal Planet Arşivi", Animal Planet - Saat 19:00
 http://85.11.144.8/archive/21/20260101-19.mpg
-#EXTINF:-1, Animal Planet - 20260101-20.mpg
+#EXTINF:-1 group-title="Animal Planet Arşivi", Animal Planet - Saat 20:00
 http://85.11.144.8/archive/21/20260101-20.mpg
-#EXTINF:-1, Animal Planet - 20260101-21.mpg
+#EXTINF:-1 group-title="Animal Planet Arşivi", Animal Planet - Saat 21:00
 http://85.11.144.8/archive/21/20260101-21.mpg
-#EXTINF:-1, Animal Planet - 20260101-22.mpg
+#EXTINF:-1 group-title="Animal Planet Arşivi", Animal Planet - Saat 22:00
 http://85.11.144.8/archive/21/20260101-22.mpg
-#EXTINF:-1, Channel 28 - /archive/
+#EXTINF:-1 group-title="Channel 28 Arşivi", Channel 28 - Saat /archive/:00
 http://85.11.144.8/archive/28//archive/
-#EXTINF:-1, Cartoonito - 20260101-18.mpg
+#EXTINF:-1 group-title="Cartoonito Arşivi", Cartoonito - Saat 18:00
 http://85.11.144.8/archive/29/20260101-18.mpg
-#EXTINF:-1, Cartoonito - 20260101-19.mpg
+#EXTINF:-1 group-title="Cartoonito Arşivi", Cartoonito - Saat 19:00
 http://85.11.144.8/archive/29/20260101-19.mpg
-#EXTINF:-1, Cartoonito - 20260101-20.mpg
+#EXTINF:-1 group-title="Cartoonito Arşivi", Cartoonito - Saat 20:00
 http://85.11.144.8/archive/29/20260101-20.mpg
-#EXTINF:-1, Cartoonito - 20260101-21.mpg
+#EXTINF:-1 group-title="Cartoonito Arşivi", Cartoonito - Saat 21:00
 http://85.11.144.8/archive/29/20260101-21.mpg
-#EXTINF:-1, Cartoonito - 20260101-22.mpg
+#EXTINF:-1 group-title="Cartoonito Arşivi", Cartoonito - Saat 22:00
 http://85.11.144.8/archive/29/20260101-22.mpg
-#EXTINF:-1, CN Cartoon - 20260101-18.mpg
+#EXTINF:-1 group-title="CN Cartoon Arşivi", CN Cartoon - Saat 18:00
 http://85.11.144.8/archive/34/20260101-18.mpg
-#EXTINF:-1, CN Cartoon - 20260101-19.mpg
+#EXTINF:-1 group-title="CN Cartoon Arşivi", CN Cartoon - Saat 19:00
 http://85.11.144.8/archive/34/20260101-19.mpg
-#EXTINF:-1, CN Cartoon - 20260101-20.mpg
+#EXTINF:-1 group-title="CN Cartoon Arşivi", CN Cartoon - Saat 20:00
 http://85.11.144.8/archive/34/20260101-20.mpg
-#EXTINF:-1, CN Cartoon - 20260101-21.mpg
+#EXTINF:-1 group-title="CN Cartoon Arşivi", CN Cartoon - Saat 21:00
 http://85.11.144.8/archive/34/20260101-21.mpg
-#EXTINF:-1, CN Cartoon - 20260101-22.mpg
+#EXTINF:-1 group-title="CN Cartoon Arşivi", CN Cartoon - Saat 22:00
 http://85.11.144.8/archive/34/20260101-22.mpg
-#EXTINF:-1, Discovery - 20260101-18.mpg
+#EXTINF:-1 group-title="Discovery Arşivi", Discovery - Saat 18:00
 http://85.11.144.8/archive/38/20260101-18.mpg
-#EXTINF:-1, Discovery - 20260101-19.mpg
+#EXTINF:-1 group-title="Discovery Arşivi", Discovery - Saat 19:00
 http://85.11.144.8/archive/38/20260101-19.mpg
-#EXTINF:-1, Discovery - 20260101-20.mpg
+#EXTINF:-1 group-title="Discovery Arşivi", Discovery - Saat 20:00
 http://85.11.144.8/archive/38/20260101-20.mpg
-#EXTINF:-1, Discovery - 20260101-21.mpg
+#EXTINF:-1 group-title="Discovery Arşivi", Discovery - Saat 21:00
 http://85.11.144.8/archive/38/20260101-21.mpg
-#EXTINF:-1, Discovery - 20260101-22.mpg
+#EXTINF:-1 group-title="Discovery Arşivi", Discovery - Saat 22:00
 http://85.11.144.8/archive/38/20260101-22.mpg
-#EXTINF:-1, Nova News - 20260101-18.mpg
+#EXTINF:-1 group-title="Nova News Arşivi", Nova News - Saat 18:00
 http://85.11.144.8/archive/43/20260101-18.mpg
-#EXTINF:-1, Nova News - 20260101-19.mpg
+#EXTINF:-1 group-title="Nova News Arşivi", Nova News - Saat 19:00
 http://85.11.144.8/archive/43/20260101-19.mpg
-#EXTINF:-1, Nova News - 20260101-20.mpg
+#EXTINF:-1 group-title="Nova News Arşivi", Nova News - Saat 20:00
 http://85.11.144.8/archive/43/20260101-20.mpg
-#EXTINF:-1, Nova News - 20260101-21.mpg
+#EXTINF:-1 group-title="Nova News Arşivi", Nova News - Saat 21:00
 http://85.11.144.8/archive/43/20260101-21.mpg
-#EXTINF:-1, Nova News - 20260101-22.mpg
+#EXTINF:-1 group-title="Nova News Arşivi", Nova News - Saat 22:00
 http://85.11.144.8/archive/43/20260101-22.mpg
-#EXTINF:-1, EKids - 20260101-18.mpg
+#EXTINF:-1 group-title="EKids Arşivi", EKids - Saat 18:00
 http://85.11.144.8/archive/46/20260101-18.mpg
-#EXTINF:-1, EKids - 20260101-19.mpg
+#EXTINF:-1 group-title="EKids Arşivi", EKids - Saat 19:00
 http://85.11.144.8/archive/46/20260101-19.mpg
-#EXTINF:-1, EKids - 20260101-20.mpg
+#EXTINF:-1 group-title="EKids Arşivi", EKids - Saat 20:00
 http://85.11.144.8/archive/46/20260101-20.mpg
-#EXTINF:-1, EKids - 20260101-21.mpg
+#EXTINF:-1 group-title="EKids Arşivi", EKids - Saat 21:00
 http://85.11.144.8/archive/46/20260101-21.mpg
-#EXTINF:-1, EKids - 20260101-22.mpg
+#EXTINF:-1 group-title="EKids Arşivi", EKids - Saat 22:00
 http://85.11.144.8/archive/46/20260101-22.mpg
-#EXTINF:-1, Eurosport 1 - 20260101-18.mpg
+#EXTINF:-1 group-title="Eurosport 1 Arşivi", Eurosport 1 - Saat 18:00
 http://85.11.144.8/archive/47/20260101-18.mpg
-#EXTINF:-1, Eurosport 1 - 20260101-19.mpg
+#EXTINF:-1 group-title="Eurosport 1 Arşivi", Eurosport 1 - Saat 19:00
 http://85.11.144.8/archive/47/20260101-19.mpg
-#EXTINF:-1, Eurosport 1 - 20260101-20.mpg
+#EXTINF:-1 group-title="Eurosport 1 Arşivi", Eurosport 1 - Saat 20:00
 http://85.11.144.8/archive/47/20260101-20.mpg
-#EXTINF:-1, Eurosport 1 - 20260101-21.mpg
+#EXTINF:-1 group-title="Eurosport 1 Arşivi", Eurosport 1 - Saat 21:00
 http://85.11.144.8/archive/47/20260101-21.mpg
-#EXTINF:-1, Eurosport 1 - 20260101-22.mpg
+#EXTINF:-1 group-title="Eurosport 1 Arşivi", Eurosport 1 - Saat 22:00
 http://85.11.144.8/archive/47/20260101-22.mpg
-#EXTINF:-1, Eurosport 2 - 20260101-18.mpg
+#EXTINF:-1 group-title="Eurosport 2 Arşivi", Eurosport 2 - Saat 18:00
 http://85.11.144.8/archive/48/20260101-18.mpg
-#EXTINF:-1, Eurosport 2 - 20260101-19.mpg
+#EXTINF:-1 group-title="Eurosport 2 Arşivi", Eurosport 2 - Saat 19:00
 http://85.11.144.8/archive/48/20260101-19.mpg
-#EXTINF:-1, Eurosport 2 - 20260101-20.mpg
+#EXTINF:-1 group-title="Eurosport 2 Arşivi", Eurosport 2 - Saat 20:00
 http://85.11.144.8/archive/48/20260101-20.mpg
-#EXTINF:-1, Eurosport 2 - 20260101-21.mpg
+#EXTINF:-1 group-title="Eurosport 2 Arşivi", Eurosport 2 - Saat 21:00
 http://85.11.144.8/archive/48/20260101-21.mpg
-#EXTINF:-1, Eurosport 2 - 20260101-22.mpg
+#EXTINF:-1 group-title="Eurosport 2 Arşivi", Eurosport 2 - Saat 22:00
 http://85.11.144.8/archive/48/20260101-22.mpg
-#EXTINF:-1, Evrokom - 20260101-18.mpg
+#EXTINF:-1 group-title="Evrokom Arşivi", Evrokom - Saat 18:00
 http://85.11.144.8/archive/49/20260101-18.mpg
-#EXTINF:-1, Evrokom - 20260101-19.mpg
+#EXTINF:-1 group-title="Evrokom Arşivi", Evrokom - Saat 19:00
 http://85.11.144.8/archive/49/20260101-19.mpg
-#EXTINF:-1, Evrokom - 20260101-20.mpg
+#EXTINF:-1 group-title="Evrokom Arşivi", Evrokom - Saat 20:00
 http://85.11.144.8/archive/49/20260101-20.mpg
-#EXTINF:-1, Evrokom - 20260101-21.mpg
+#EXTINF:-1 group-title="Evrokom Arşivi", Evrokom - Saat 21:00
 http://85.11.144.8/archive/49/20260101-21.mpg
-#EXTINF:-1, Evrokom - 20260101-22.mpg
+#EXTINF:-1 group-title="Evrokom Arşivi", Evrokom - Saat 22:00
 http://85.11.144.8/archive/49/20260101-22.mpg
-#EXTINF:-1, BNT 3 - 20260101-18.mpg
+#EXTINF:-1 group-title="BNT 3 Arşivi", BNT 3 - Saat 18:00
 http://85.11.144.8/archive/54/20260101-18.mpg
-#EXTINF:-1, BNT 3 - 20260101-19.mpg
+#EXTINF:-1 group-title="BNT 3 Arşivi", BNT 3 - Saat 19:00
 http://85.11.144.8/archive/54/20260101-19.mpg
-#EXTINF:-1, BNT 3 - 20260101-20.mpg
+#EXTINF:-1 group-title="BNT 3 Arşivi", BNT 3 - Saat 20:00
 http://85.11.144.8/archive/54/20260101-20.mpg
-#EXTINF:-1, BNT 3 - 20260101-21.mpg
+#EXTINF:-1 group-title="BNT 3 Arşivi", BNT 3 - Saat 21:00
 http://85.11.144.8/archive/54/20260101-21.mpg
-#EXTINF:-1, BNT 3 - 20260101-22.mpg
+#EXTINF:-1 group-title="BNT 3 Arşivi", BNT 3 - Saat 22:00
 http://85.11.144.8/archive/54/20260101-22.mpg
-#EXTINF:-1, Star Channel - 20260101-18.mpg
+#EXTINF:-1 group-title="Star Channel Arşivi", Star Channel - Saat 18:00
 http://85.11.144.8/archive/56/20260101-18.mpg
-#EXTINF:-1, Star Channel - 20260101-19.mpg
+#EXTINF:-1 group-title="Star Channel Arşivi", Star Channel - Saat 19:00
 http://85.11.144.8/archive/56/20260101-19.mpg
-#EXTINF:-1, Star Channel - 20260101-20.mpg
+#EXTINF:-1 group-title="Star Channel Arşivi", Star Channel - Saat 20:00
 http://85.11.144.8/archive/56/20260101-20.mpg
-#EXTINF:-1, Star Channel - 20260101-21.mpg
+#EXTINF:-1 group-title="Star Channel Arşivi", Star Channel - Saat 21:00
 http://85.11.144.8/archive/56/20260101-21.mpg
-#EXTINF:-1, Star Channel - 20260101-22.mpg
+#EXTINF:-1 group-title="Star Channel Arşivi", Star Channel - Saat 22:00
 http://85.11.144.8/archive/56/20260101-22.mpg
-#EXTINF:-1, Star Crime - 20260101-18.mpg
+#EXTINF:-1 group-title="Star Crime Arşivi", Star Crime - Saat 18:00
 http://85.11.144.8/archive/57/20260101-18.mpg
-#EXTINF:-1, Star Crime - 20260101-19.mpg
+#EXTINF:-1 group-title="Star Crime Arşivi", Star Crime - Saat 19:00
 http://85.11.144.8/archive/57/20260101-19.mpg
-#EXTINF:-1, Star Crime - 20260101-20.mpg
+#EXTINF:-1 group-title="Star Crime Arşivi", Star Crime - Saat 20:00
 http://85.11.144.8/archive/57/20260101-20.mpg
-#EXTINF:-1, Star Crime - 20260101-21.mpg
+#EXTINF:-1 group-title="Star Crime Arşivi", Star Crime - Saat 21:00
 http://85.11.144.8/archive/57/20260101-21.mpg
-#EXTINF:-1, Star Crime - 20260101-22.mpg
+#EXTINF:-1 group-title="Star Crime Arşivi", Star Crime - Saat 22:00
 http://85.11.144.8/archive/57/20260101-22.mpg
-#EXTINF:-1, Star Life - 20260101-18.mpg
+#EXTINF:-1 group-title="Star Life Arşivi", Star Life - Saat 18:00
 http://85.11.144.8/archive/58/20260101-18.mpg
-#EXTINF:-1, Star Life - 20260101-19.mpg
+#EXTINF:-1 group-title="Star Life Arşivi", Star Life - Saat 19:00
 http://85.11.144.8/archive/58/20260101-19.mpg
-#EXTINF:-1, Star Life - 20260101-20.mpg
+#EXTINF:-1 group-title="Star Life Arşivi", Star Life - Saat 20:00
 http://85.11.144.8/archive/58/20260101-20.mpg
-#EXTINF:-1, Star Life - 20260101-21.mpg
+#EXTINF:-1 group-title="Star Life Arşivi", Star Life - Saat 21:00
 http://85.11.144.8/archive/58/20260101-21.mpg
-#EXTINF:-1, Star Life - 20260101-22.mpg
+#EXTINF:-1 group-title="Star Life Arşivi", Star Life - Saat 22:00
 http://85.11.144.8/archive/58/20260101-22.mpg
-#EXTINF:-1, HBO - 20260101-18.mpg
+#EXTINF:-1 group-title="HBO Arşivi", HBO - Saat 18:00
 http://85.11.144.8/archive/59/20260101-18.mpg
-#EXTINF:-1, HBO - 20260101-19.mpg
+#EXTINF:-1 group-title="HBO Arşivi", HBO - Saat 19:00
 http://85.11.144.8/archive/59/20260101-19.mpg
-#EXTINF:-1, HBO - 20260101-20.mpg
+#EXTINF:-1 group-title="HBO Arşivi", HBO - Saat 20:00
 http://85.11.144.8/archive/59/20260101-20.mpg
-#EXTINF:-1, HBO - 20260101-21.mpg
+#EXTINF:-1 group-title="HBO Arşivi", HBO - Saat 21:00
 http://85.11.144.8/archive/59/20260101-21.mpg
-#EXTINF:-1, HBO - 20260101-22.mpg
+#EXTINF:-1 group-title="HBO Arşivi", HBO - Saat 22:00
 http://85.11.144.8/archive/59/20260101-22.mpg
-#EXTINF:-1, NatGeo Wild - 20260101-18.mpg
+#EXTINF:-1 group-title="NatGeo Wild Arşivi", NatGeo Wild - Saat 18:00
 http://85.11.144.8/archive/65/20260101-18.mpg
-#EXTINF:-1, NatGeo Wild - 20260101-19.mpg
+#EXTINF:-1 group-title="NatGeo Wild Arşivi", NatGeo Wild - Saat 19:00
 http://85.11.144.8/archive/65/20260101-19.mpg
-#EXTINF:-1, NatGeo Wild - 20260101-20.mpg
+#EXTINF:-1 group-title="NatGeo Wild Arşivi", NatGeo Wild - Saat 20:00
 http://85.11.144.8/archive/65/20260101-20.mpg
-#EXTINF:-1, NatGeo Wild - 20260101-21.mpg
+#EXTINF:-1 group-title="NatGeo Wild Arşivi", NatGeo Wild - Saat 21:00
 http://85.11.144.8/archive/65/20260101-21.mpg
-#EXTINF:-1, NatGeo Wild - 20260101-22.mpg
+#EXTINF:-1 group-title="NatGeo Wild Arşivi", NatGeo Wild - Saat 22:00
 http://85.11.144.8/archive/65/20260101-22.mpg
-#EXTINF:-1, National Geographic - 20260101-18.mpg
+#EXTINF:-1 group-title="National Geographic Arşivi", National Geographic - Saat 18:00
 http://85.11.144.8/archive/66/20260101-18.mpg
-#EXTINF:-1, National Geographic - 20260101-19.mpg
+#EXTINF:-1 group-title="National Geographic Arşivi", National Geographic - Saat 19:00
 http://85.11.144.8/archive/66/20260101-19.mpg
-#EXTINF:-1, National Geographic - 20260101-20.mpg
+#EXTINF:-1 group-title="National Geographic Arşivi", National Geographic - Saat 20:00
 http://85.11.144.8/archive/66/20260101-20.mpg
-#EXTINF:-1, National Geographic - 20260101-21.mpg
+#EXTINF:-1 group-title="National Geographic Arşivi", National Geographic - Saat 21:00
 http://85.11.144.8/archive/66/20260101-21.mpg
-#EXTINF:-1, National Geographic - 20260101-22.mpg
+#EXTINF:-1 group-title="National Geographic Arşivi", National Geographic - Saat 22:00
 http://85.11.144.8/archive/66/20260101-22.mpg
-#EXTINF:-1, Ring - 20260101-18.mpg
+#EXTINF:-1 group-title="Ring Arşivi", Ring - Saat 18:00
 http://85.11.144.8/archive/76/20260101-18.mpg
-#EXTINF:-1, Ring - 20260101-19.mpg
+#EXTINF:-1 group-title="Ring Arşivi", Ring - Saat 19:00
 http://85.11.144.8/archive/76/20260101-19.mpg
-#EXTINF:-1, Ring - 20260101-20.mpg
+#EXTINF:-1 group-title="Ring Arşivi", Ring - Saat 20:00
 http://85.11.144.8/archive/76/20260101-20.mpg
-#EXTINF:-1, Ring - 20260101-21.mpg
+#EXTINF:-1 group-title="Ring Arşivi", Ring - Saat 21:00
 http://85.11.144.8/archive/76/20260101-21.mpg
-#EXTINF:-1, Ring - 20260101-22.mpg
+#EXTINF:-1 group-title="Ring Arşivi", Ring - Saat 22:00
 http://85.11.144.8/archive/76/20260101-22.mpg
-#EXTINF:-1, Channel 79 - 20250605-22.mpg
+#EXTINF:-1 group-title="Channel 79 Arşivi", Channel 79 - Saat 22:00
 http://85.11.144.8/archive/79/20250605-22.mpg
-#EXTINF:-1, Channel 79 - 20250605-23.mpg
+#EXTINF:-1 group-title="Channel 79 Arşivi", Channel 79 - Saat 23:00
 http://85.11.144.8/archive/79/20250605-23.mpg
-#EXTINF:-1, Channel 79 - 20250606-00.mpg
+#EXTINF:-1 group-title="Channel 79 Arşivi", Channel 79 - Saat 00:00
 http://85.11.144.8/archive/79/20250606-00.mpg
-#EXTINF:-1, Channel 79 - 20250606-01.mpg
+#EXTINF:-1 group-title="Channel 79 Arşivi", Channel 79 - Saat 01:00
 http://85.11.144.8/archive/79/20250606-01.mpg
-#EXTINF:-1, Channel 79 - 20251127-21.mpg
+#EXTINF:-1 group-title="Channel 79 Arşivi", Channel 79 - Saat 21:00
 http://85.11.144.8/archive/79/20251127-21.mpg
-#EXTINF:-1, Skat - 20260101-18.mpg
+#EXTINF:-1 group-title="Skat Arşivi", Skat - Saat 18:00
 http://85.11.144.8/archive/80/20260101-18.mpg
-#EXTINF:-1, Skat - 20260101-19.mpg
+#EXTINF:-1 group-title="Skat Arşivi", Skat - Saat 19:00
 http://85.11.144.8/archive/80/20260101-19.mpg
-#EXTINF:-1, Skat - 20260101-20.mpg
+#EXTINF:-1 group-title="Skat Arşivi", Skat - Saat 20:00
 http://85.11.144.8/archive/80/20260101-20.mpg
-#EXTINF:-1, Skat - 20260101-21.mpg
+#EXTINF:-1 group-title="Skat Arşivi", Skat - Saat 21:00
 http://85.11.144.8/archive/80/20260101-21.mpg
-#EXTINF:-1, Skat - 20260101-22.mpg
+#EXTINF:-1 group-title="Skat Arşivi", Skat - Saat 22:00
 http://85.11.144.8/archive/80/20260101-22.mpg
-#EXTINF:-1, TLC - 20260101-18.mpg
+#EXTINF:-1 group-title="TLC Arşivi", TLC - Saat 18:00
 http://85.11.144.8/archive/86/20260101-18.mpg
-#EXTINF:-1, TLC - 20260101-19.mpg
+#EXTINF:-1 group-title="TLC Arşivi", TLC - Saat 19:00
 http://85.11.144.8/archive/86/20260101-19.mpg
-#EXTINF:-1, TLC - 20260101-20.mpg
+#EXTINF:-1 group-title="TLC Arşivi", TLC - Saat 20:00
 http://85.11.144.8/archive/86/20260101-20.mpg
-#EXTINF:-1, TLC - 20260101-21.mpg
+#EXTINF:-1 group-title="TLC Arşivi", TLC - Saat 21:00
 http://85.11.144.8/archive/86/20260101-21.mpg
-#EXTINF:-1, TLC - 20260101-22.mpg
+#EXTINF:-1 group-title="TLC Arşivi", TLC - Saat 22:00
 http://85.11.144.8/archive/86/20260101-22.mpg
-#EXTINF:-1, Euro News - 20260101-18.mpg
+#EXTINF:-1 group-title="Euro News Arşivi", Euro News - Saat 18:00
 http://85.11.144.8/archive/87/20260101-18.mpg
-#EXTINF:-1, Euro News - 20260101-19.mpg
+#EXTINF:-1 group-title="Euro News Arşivi", Euro News - Saat 19:00
 http://85.11.144.8/archive/87/20260101-19.mpg
-#EXTINF:-1, Euro News - 20260101-20.mpg
+#EXTINF:-1 group-title="Euro News Arşivi", Euro News - Saat 20:00
 http://85.11.144.8/archive/87/20260101-20.mpg
-#EXTINF:-1, Euro News - 20260101-21.mpg
+#EXTINF:-1 group-title="Euro News Arşivi", Euro News - Saat 21:00
 http://85.11.144.8/archive/87/20260101-21.mpg
-#EXTINF:-1, Euro News - 20260101-22.mpg
+#EXTINF:-1 group-title="Euro News Arşivi", Euro News - Saat 22:00
 http://85.11.144.8/archive/87/20260101-22.mpg
-#EXTINF:-1, TV 1000 - 20260101-18.mpg
+#EXTINF:-1 group-title="TV 1000 Arşivi", TV 1000 - Saat 18:00
 http://85.11.144.8/archive/89/20260101-18.mpg
-#EXTINF:-1, TV 1000 - 20260101-19.mpg
+#EXTINF:-1 group-title="TV 1000 Arşivi", TV 1000 - Saat 19:00
 http://85.11.144.8/archive/89/20260101-19.mpg
-#EXTINF:-1, TV 1000 - 20260101-20.mpg
+#EXTINF:-1 group-title="TV 1000 Arşivi", TV 1000 - Saat 20:00
 http://85.11.144.8/archive/89/20260101-20.mpg
-#EXTINF:-1, TV 1000 - 20260101-21.mpg
+#EXTINF:-1 group-title="TV 1000 Arşivi", TV 1000 - Saat 21:00
 http://85.11.144.8/archive/89/20260101-21.mpg
-#EXTINF:-1, TV 1000 - 20260101-22.mpg
+#EXTINF:-1 group-title="TV 1000 Arşivi", TV 1000 - Saat 22:00
 http://85.11.144.8/archive/89/20260101-22.mpg
-#EXTINF:-1, Channel 92 - 20260101-18.mpg
+#EXTINF:-1 group-title="Channel 92 Arşivi", Channel 92 - Saat 18:00
 http://85.11.144.8/archive/92/20260101-18.mpg
-#EXTINF:-1, Channel 92 - 20260101-19.mpg
+#EXTINF:-1 group-title="Channel 92 Arşivi", Channel 92 - Saat 19:00
 http://85.11.144.8/archive/92/20260101-19.mpg
-#EXTINF:-1, Channel 92 - 20260101-20.mpg
+#EXTINF:-1 group-title="Channel 92 Arşivi", Channel 92 - Saat 20:00
 http://85.11.144.8/archive/92/20260101-20.mpg
-#EXTINF:-1, Channel 92 - 20260101-21.mpg
+#EXTINF:-1 group-title="Channel 92 Arşivi", Channel 92 - Saat 21:00
 http://85.11.144.8/archive/92/20260101-21.mpg
-#EXTINF:-1, Channel 92 - 20260101-22.mpg
+#EXTINF:-1 group-title="Channel 92 Arşivi", Channel 92 - Saat 22:00
 http://85.11.144.8/archive/92/20260101-22.mpg
-#EXTINF:-1, Viasat Explore - 20260101-18.mpg
+#EXTINF:-1 group-title="Viasat Explore Arşivi", Viasat Explore - Saat 18:00
 http://85.11.144.8/archive/94/20260101-18.mpg
-#EXTINF:-1, Viasat Explore - 20260101-19.mpg
+#EXTINF:-1 group-title="Viasat Explore Arşivi", Viasat Explore - Saat 19:00
 http://85.11.144.8/archive/94/20260101-19.mpg
-#EXTINF:-1, Viasat Explore - 20260101-20.mpg
+#EXTINF:-1 group-title="Viasat Explore Arşivi", Viasat Explore - Saat 20:00
 http://85.11.144.8/archive/94/20260101-20.mpg
-#EXTINF:-1, Viasat Explore - 20260101-21.mpg
+#EXTINF:-1 group-title="Viasat Explore Arşivi", Viasat Explore - Saat 21:00
 http://85.11.144.8/archive/94/20260101-21.mpg
-#EXTINF:-1, Viasat Explore - 20260101-22.mpg
+#EXTINF:-1 group-title="Viasat Explore Arşivi", Viasat Explore - Saat 22:00
 http://85.11.144.8/archive/94/20260101-22.mpg
-#EXTINF:-1, Viasat History - 20260101-18.mpg
+#EXTINF:-1 group-title="Viasat History Arşivi", Viasat History - Saat 18:00
 http://85.11.144.8/archive/95/20260101-18.mpg
-#EXTINF:-1, Viasat History - 20260101-19.mpg
+#EXTINF:-1 group-title="Viasat History Arşivi", Viasat History - Saat 19:00
 http://85.11.144.8/archive/95/20260101-19.mpg
-#EXTINF:-1, Viasat History - 20260101-20.mpg
+#EXTINF:-1 group-title="Viasat History Arşivi", Viasat History - Saat 20:00
 http://85.11.144.8/archive/95/20260101-20.mpg
-#EXTINF:-1, Viasat History - 20260101-21.mpg
+#EXTINF:-1 group-title="Viasat History Arşivi", Viasat History - Saat 21:00
 http://85.11.144.8/archive/95/20260101-21.mpg
-#EXTINF:-1, Viasat History - 20260101-22.mpg
+#EXTINF:-1 group-title="Viasat History Arşivi", Viasat History - Saat 22:00
 http://85.11.144.8/archive/95/20260101-22.mpg
-#EXTINF:-1, Viasat Nature - 20260101-18.mpg
+#EXTINF:-1 group-title="Viasat Nature Arşivi", Viasat Nature - Saat 18:00
 http://85.11.144.8/archive/96/20260101-18.mpg
-#EXTINF:-1, Viasat Nature - 20260101-19.mpg
+#EXTINF:-1 group-title="Viasat Nature Arşivi", Viasat Nature - Saat 19:00
 http://85.11.144.8/archive/96/20260101-19.mpg
-#EXTINF:-1, Viasat Nature - 20260101-20.mpg
+#EXTINF:-1 group-title="Viasat Nature Arşivi", Viasat Nature - Saat 20:00
 http://85.11.144.8/archive/96/20260101-20.mpg
-#EXTINF:-1, Viasat Nature - 20260101-21.mpg
+#EXTINF:-1 group-title="Viasat Nature Arşivi", Viasat Nature - Saat 21:00
 http://85.11.144.8/archive/96/20260101-21.mpg
-#EXTINF:-1, Viasat Nature - 20260101-22.mpg
+#EXTINF:-1 group-title="Viasat Nature Arşivi", Viasat Nature - Saat 22:00
 http://85.11.144.8/archive/96/20260101-22.mpg
-#EXTINF:-1, Channel 108 - 20260101-18.mpg
+#EXTINF:-1 group-title="Channel 108 Arşivi", Channel 108 - Saat 18:00
 http://85.11.144.8/archive/108/20260101-18.mpg
-#EXTINF:-1, Channel 108 - 20260101-19.mpg
+#EXTINF:-1 group-title="Channel 108 Arşivi", Channel 108 - Saat 19:00
 http://85.11.144.8/archive/108/20260101-19.mpg
-#EXTINF:-1, Channel 108 - 20260101-20.mpg
+#EXTINF:-1 group-title="Channel 108 Arşivi", Channel 108 - Saat 20:00
 http://85.11.144.8/archive/108/20260101-20.mpg
-#EXTINF:-1, Channel 108 - 20260101-21.mpg
+#EXTINF:-1 group-title="Channel 108 Arşivi", Channel 108 - Saat 21:00
 http://85.11.144.8/archive/108/20260101-21.mpg
-#EXTINF:-1, Channel 108 - 20260101-22.mpg
+#EXTINF:-1 group-title="Channel 108 Arşivi", Channel 108 - Saat 22:00
 http://85.11.144.8/archive/108/20260101-22.mpg
-#EXTINF:-1, Agro TV - 20260101-18.mpg
+#EXTINF:-1 group-title="Agro TV Arşivi", Agro TV - Saat 18:00
 http://85.11.144.8/archive/114/20260101-18.mpg
-#EXTINF:-1, Agro TV - 20260101-19.mpg
+#EXTINF:-1 group-title="Agro TV Arşivi", Agro TV - Saat 19:00
 http://85.11.144.8/archive/114/20260101-19.mpg
-#EXTINF:-1, Agro TV - 20260101-20.mpg
+#EXTINF:-1 group-title="Agro TV Arşivi", Agro TV - Saat 20:00
 http://85.11.144.8/archive/114/20260101-20.mpg
-#EXTINF:-1, Agro TV - 20260101-21.mpg
+#EXTINF:-1 group-title="Agro TV Arşivi", Agro TV - Saat 21:00
 http://85.11.144.8/archive/114/20260101-21.mpg
-#EXTINF:-1, Agro TV - 20260101-22.mpg
+#EXTINF:-1 group-title="Agro TV Arşivi", Agro TV - Saat 22:00
 http://85.11.144.8/archive/114/20260101-22.mpg
-#EXTINF:-1, HBO 2 - 20260101-18.mpg
+#EXTINF:-1 group-title="HBO 2 Arşivi", HBO 2 - Saat 18:00
 http://85.11.144.8/archive/137/20260101-18.mpg
-#EXTINF:-1, HBO 2 - 20260101-19.mpg
+#EXTINF:-1 group-title="HBO 2 Arşivi", HBO 2 - Saat 19:00
 http://85.11.144.8/archive/137/20260101-19.mpg
-#EXTINF:-1, HBO 2 - 20260101-20.mpg
+#EXTINF:-1 group-title="HBO 2 Arşivi", HBO 2 - Saat 20:00
 http://85.11.144.8/archive/137/20260101-20.mpg
-#EXTINF:-1, HBO 2 - 20260101-21.mpg
+#EXTINF:-1 group-title="HBO 2 Arşivi", HBO 2 - Saat 21:00
 http://85.11.144.8/archive/137/20260101-21.mpg
-#EXTINF:-1, HBO 2 - 20260101-22.mpg
+#EXTINF:-1 group-title="HBO 2 Arşivi", HBO 2 - Saat 22:00
 http://85.11.144.8/archive/137/20260101-22.mpg
-#EXTINF:-1, Channel 182 - 20260101-18.mpg
+#EXTINF:-1 group-title="Channel 182 Arşivi", Channel 182 - Saat 18:00
 http://85.11.144.8/archive/182/20260101-18.mpg
-#EXTINF:-1, Channel 182 - 20260101-19.mpg
+#EXTINF:-1 group-title="Channel 182 Arşivi", Channel 182 - Saat 19:00
 http://85.11.144.8/archive/182/20260101-19.mpg
-#EXTINF:-1, Channel 182 - 20260101-20.mpg
+#EXTINF:-1 group-title="Channel 182 Arşivi", Channel 182 - Saat 20:00
 http://85.11.144.8/archive/182/20260101-20.mpg
-#EXTINF:-1, Channel 182 - 20260101-21.mpg
+#EXTINF:-1 group-title="Channel 182 Arşivi", Channel 182 - Saat 21:00
 http://85.11.144.8/archive/182/20260101-21.mpg
-#EXTINF:-1, Channel 182 - 20260101-22.mpg
+#EXTINF:-1 group-title="Channel 182 Arşivi", Channel 182 - Saat 22:00
 http://85.11.144.8/archive/182/20260101-22.mpg
-#EXTINF:-1, NCKJR - 20260101-18.mpg
+#EXTINF:-1 group-title="NCKJR Arşivi", NCKJR - Saat 18:00
 http://85.11.144.8/archive/192/20260101-18.mpg
-#EXTINF:-1, NCKJR - 20260101-19.mpg
+#EXTINF:-1 group-title="NCKJR Arşivi", NCKJR - Saat 19:00
 http://85.11.144.8/archive/192/20260101-19.mpg
-#EXTINF:-1, NCKJR - 20260101-20.mpg
+#EXTINF:-1 group-title="NCKJR Arşivi", NCKJR - Saat 20:00
 http://85.11.144.8/archive/192/20260101-20.mpg
-#EXTINF:-1, NCKJR - 20260101-21.mpg
+#EXTINF:-1 group-title="NCKJR Arşivi", NCKJR - Saat 21:00
 http://85.11.144.8/archive/192/20260101-21.mpg
-#EXTINF:-1, NCKJR - 20260101-22.mpg
+#EXTINF:-1 group-title="NCKJR Arşivi", NCKJR - Saat 22:00
 http://85.11.144.8/archive/192/20260101-22.mpg
-#EXTINF:-1, 7/8 TV - 20260101-18.mpg
+#EXTINF:-1 group-title="7/8 TV Arşivi", 7/8 TV - Saat 18:00
 http://85.11.144.8/archive/197/20260101-18.mpg
-#EXTINF:-1, 7/8 TV - 20260101-19.mpg
+#EXTINF:-1 group-title="7/8 TV Arşivi", 7/8 TV - Saat 19:00
 http://85.11.144.8/archive/197/20260101-19.mpg
-#EXTINF:-1, 7/8 TV - 20260101-20.mpg
+#EXTINF:-1 group-title="7/8 TV Arşivi", 7/8 TV - Saat 20:00
 http://85.11.144.8/archive/197/20260101-20.mpg
-#EXTINF:-1, 7/8 TV - 20260101-21.mpg
+#EXTINF:-1 group-title="7/8 TV Arşivi", 7/8 TV - Saat 21:00
 http://85.11.144.8/archive/197/20260101-21.mpg
-#EXTINF:-1, 7/8 TV - 20260101-22.mpg
+#EXTINF:-1 group-title="7/8 TV Arşivi", 7/8 TV - Saat 22:00
 http://85.11.144.8/archive/197/20260101-22.mpg
-#EXTINF:-1, Nickelodeon - 20260101-18.mpg
+#EXTINF:-1 group-title="Nickelodeon Arşivi", Nickelodeon - Saat 18:00
 http://85.11.144.8/archive/209/20260101-18.mpg
-#EXTINF:-1, Nickelodeon - 20260101-19.mpg
+#EXTINF:-1 group-title="Nickelodeon Arşivi", Nickelodeon - Saat 19:00
 http://85.11.144.8/archive/209/20260101-19.mpg
-#EXTINF:-1, Nickelodeon - 20260101-20.mpg
+#EXTINF:-1 group-title="Nickelodeon Arşivi", Nickelodeon - Saat 20:00
 http://85.11.144.8/archive/209/20260101-20.mpg
-#EXTINF:-1, Nickelodeon - 20260101-21.mpg
+#EXTINF:-1 group-title="Nickelodeon Arşivi", Nickelodeon - Saat 21:00
 http://85.11.144.8/archive/209/20260101-21.mpg
-#EXTINF:-1, Nickelodeon - 20260101-22.mpg
+#EXTINF:-1 group-title="Nickelodeon Arşivi", Nickelodeon - Saat 22:00
 http://85.11.144.8/archive/209/20260101-22.mpg
-#EXTINF:-1, Diema Sport - 20260101-18.mpg
+#EXTINF:-1 group-title="Diema Sport Arşivi", Diema Sport - Saat 18:00
 http://85.11.144.8/archive/485/20260101-18.mpg
-#EXTINF:-1, Diema Sport - 20260101-19.mpg
+#EXTINF:-1 group-title="Diema Sport Arşivi", Diema Sport - Saat 19:00
 http://85.11.144.8/archive/485/20260101-19.mpg
-#EXTINF:-1, Diema Sport - 20260101-20.mpg
+#EXTINF:-1 group-title="Diema Sport Arşivi", Diema Sport - Saat 20:00
 http://85.11.144.8/archive/485/20260101-20.mpg
-#EXTINF:-1, Diema Sport - 20260101-21.mpg
+#EXTINF:-1 group-title="Diema Sport Arşivi", Diema Sport - Saat 21:00
 http://85.11.144.8/archive/485/20260101-21.mpg
-#EXTINF:-1, Diema Sport - 20260101-22.mpg
+#EXTINF:-1 group-title="Diema Sport Arşivi", Diema Sport - Saat 22:00
 http://85.11.144.8/archive/485/20260101-22.mpg
-#EXTINF:-1, Diema Sport 2 - 20260101-18.mpg
+#EXTINF:-1 group-title="Diema Sport 2 Arşivi", Diema Sport 2 - Saat 18:00
 http://85.11.144.8/archive/592/20260101-18.mpg
-#EXTINF:-1, Diema Sport 2 - 20260101-19.mpg
+#EXTINF:-1 group-title="Diema Sport 2 Arşivi", Diema Sport 2 - Saat 19:00
 http://85.11.144.8/archive/592/20260101-19.mpg
-#EXTINF:-1, Diema Sport 2 - 20260101-20.mpg
+#EXTINF:-1 group-title="Diema Sport 2 Arşivi", Diema Sport 2 - Saat 20:00
 http://85.11.144.8/archive/592/20260101-20.mpg
-#EXTINF:-1, Diema Sport 2 - 20260101-21.mpg
+#EXTINF:-1 group-title="Diema Sport 2 Arşivi", Diema Sport 2 - Saat 21:00
 http://85.11.144.8/archive/592/20260101-21.mpg
-#EXTINF:-1, Diema Sport 2 - 20260101-22.mpg
+#EXTINF:-1 group-title="Diema Sport 2 Arşivi", Diema Sport 2 - Saat 22:00
 http://85.11.144.8/archive/592/20260101-22.mpg
-#EXTINF:-1, 24 Kitchen - 20260101-18.mpg
+#EXTINF:-1 group-title="24 Kitchen Arşivi", 24 Kitchen - Saat 18:00
 http://85.11.144.8/archive/746/20260101-18.mpg
-#EXTINF:-1, 24 Kitchen - 20260101-19.mpg
+#EXTINF:-1 group-title="24 Kitchen Arşivi", 24 Kitchen - Saat 19:00
 http://85.11.144.8/archive/746/20260101-19.mpg
-#EXTINF:-1, 24 Kitchen - 20260101-20.mpg
+#EXTINF:-1 group-title="24 Kitchen Arşivi", 24 Kitchen - Saat 20:00
 http://85.11.144.8/archive/746/20260101-20.mpg
-#EXTINF:-1, 24 Kitchen - 20260101-21.mpg
+#EXTINF:-1 group-title="24 Kitchen Arşivi", 24 Kitchen - Saat 21:00
 http://85.11.144.8/archive/746/20260101-21.mpg
-#EXTINF:-1, 24 Kitchen - 20260101-22.mpg
+#EXTINF:-1 group-title="24 Kitchen Arşivi", 24 Kitchen - Saat 22:00
 http://85.11.144.8/archive/746/20260101-22.mpg
-#EXTINF:-1, Max Sport 1 - 20260101-18.mpg
+#EXTINF:-1 group-title="Max Sport 1 Arşivi", Max Sport 1 - Saat 18:00
 http://85.11.144.8/archive/1049/20260101-18.mpg
-#EXTINF:-1, Max Sport 1 - 20260101-19.mpg
+#EXTINF:-1 group-title="Max Sport 1 Arşivi", Max Sport 1 - Saat 19:00
 http://85.11.144.8/archive/1049/20260101-19.mpg
-#EXTINF:-1, Max Sport 1 - 20260101-20.mpg
+#EXTINF:-1 group-title="Max Sport 1 Arşivi", Max Sport 1 - Saat 20:00
 http://85.11.144.8/archive/1049/20260101-20.mpg
-#EXTINF:-1, Max Sport 1 - 20260101-21.mpg
+#EXTINF:-1 group-title="Max Sport 1 Arşivi", Max Sport 1 - Saat 21:00
 http://85.11.144.8/archive/1049/20260101-21.mpg
-#EXTINF:-1, Max Sport 1 - 20260101-22.mpg
+#EXTINF:-1 group-title="Max Sport 1 Arşivi", Max Sport 1 - Saat 22:00
 http://85.11.144.8/archive/1049/20260101-22.mpg
-#EXTINF:-1, Diema Sport 3 - 20260101-18.mpg
+#EXTINF:-1 group-title="Diema Sport 3 Arşivi", Diema Sport 3 - Saat 18:00
 http://85.11.144.8/archive/1380/20260101-18.mpg
-#EXTINF:-1, Diema Sport 3 - 20260101-19.mpg
+#EXTINF:-1 group-title="Diema Sport 3 Arşivi", Diema Sport 3 - Saat 19:00
 http://85.11.144.8/archive/1380/20260101-19.mpg
-#EXTINF:-1, Diema Sport 3 - 20260101-20.mpg
+#EXTINF:-1 group-title="Diema Sport 3 Arşivi", Diema Sport 3 - Saat 20:00
 http://85.11.144.8/archive/1380/20260101-20.mpg
-#EXTINF:-1, Diema Sport 3 - 20260101-21.mpg
+#EXTINF:-1 group-title="Diema Sport 3 Arşivi", Diema Sport 3 - Saat 21:00
 http://85.11.144.8/archive/1380/20260101-21.mpg
-#EXTINF:-1, Diema Sport 3 - 20260101-22.mpg
+#EXTINF:-1 group-title="Diema Sport 3 Arşivi", Diema Sport 3 - Saat 22:00
 http://85.11.144.8/archive/1380/20260101-22.mpg
-#EXTINF:-1, Max Sport 2 - 20260101-18.mpg
+#EXTINF:-1 group-title="Max Sport 2 Arşivi", Max Sport 2 - Saat 18:00
 http://85.11.144.8/archive/1498/20260101-18.mpg
-#EXTINF:-1, Max Sport 2 - 20260101-19.mpg
+#EXTINF:-1 group-title="Max Sport 2 Arşivi", Max Sport 2 - Saat 19:00
 http://85.11.144.8/archive/1498/20260101-19.mpg
-#EXTINF:-1, Max Sport 2 - 20260101-20.mpg
+#EXTINF:-1 group-title="Max Sport 2 Arşivi", Max Sport 2 - Saat 20:00
 http://85.11.144.8/archive/1498/20260101-20.mpg
-#EXTINF:-1, Max Sport 2 - 20260101-21.mpg
+#EXTINF:-1 group-title="Max Sport 2 Arşivi", Max Sport 2 - Saat 21:00
 http://85.11.144.8/archive/1498/20260101-21.mpg
-#EXTINF:-1, Max Sport 2 - 20260101-22.mpg
+#EXTINF:-1 group-title="Max Sport 2 Arşivi", Max Sport 2 - Saat 22:00
 http://85.11.144.8/archive/1498/20260101-22.mpg
-#EXTINF:-1, Channel 1670 - 20260101-18.mpg
+#EXTINF:-1 group-title="Channel 1670 Arşivi", Channel 1670 - Saat 18:00
 http://85.11.144.8/archive/1670/20260101-18.mpg
-#EXTINF:-1, Channel 1670 - 20260101-19.mpg
+#EXTINF:-1 group-title="Channel 1670 Arşivi", Channel 1670 - Saat 19:00
 http://85.11.144.8/archive/1670/20260101-19.mpg
-#EXTINF:-1, Channel 1670 - 20260101-20.mpg
+#EXTINF:-1 group-title="Channel 1670 Arşivi", Channel 1670 - Saat 20:00
 http://85.11.144.8/archive/1670/20260101-20.mpg
-#EXTINF:-1, Channel 1670 - 20260101-21.mpg
+#EXTINF:-1 group-title="Channel 1670 Arşivi", Channel 1670 - Saat 21:00
 http://85.11.144.8/archive/1670/20260101-21.mpg
-#EXTINF:-1, Channel 1670 - 20260101-22.mpg
+#EXTINF:-1 group-title="Channel 1670 Arşivi", Channel 1670 - Saat 22:00
 http://85.11.144.8/archive/1670/20260101-22.mpg
-#EXTINF:-1, Max Sport 3 - 20260101-18.mpg
+#EXTINF:-1 group-title="Max Sport 3 Arşivi", Max Sport 3 - Saat 18:00
 http://85.11.144.8/archive/1721/20260101-18.mpg
-#EXTINF:-1, Max Sport 3 - 20260101-19.mpg
+#EXTINF:-1 group-title="Max Sport 3 Arşivi", Max Sport 3 - Saat 19:00
 http://85.11.144.8/archive/1721/20260101-19.mpg
-#EXTINF:-1, Max Sport 3 - 20260101-20.mpg
+#EXTINF:-1 group-title="Max Sport 3 Arşivi", Max Sport 3 - Saat 20:00
 http://85.11.144.8/archive/1721/20260101-20.mpg
-#EXTINF:-1, Max Sport 3 - 20260101-21.mpg
+#EXTINF:-1 group-title="Max Sport 3 Arşivi", Max Sport 3 - Saat 21:00
 http://85.11.144.8/archive/1721/20260101-21.mpg
-#EXTINF:-1, Max Sport 3 - 20260101-22.mpg
+#EXTINF:-1 group-title="Max Sport 3 Arşivi", Max Sport 3 - Saat 22:00
 http://85.11.144.8/archive/1721/20260101-22.mpg
-#EXTINF:-1, Max Sport 4 - 20260101-18.mpg
+#EXTINF:-1 group-title="Max Sport 4 Arşivi", Max Sport 4 - Saat 18:00
 http://85.11.144.8/archive/1752/20260101-18.mpg
-#EXTINF:-1, Max Sport 4 - 20260101-19.mpg
+#EXTINF:-1 group-title="Max Sport 4 Arşivi", Max Sport 4 - Saat 19:00
 http://85.11.144.8/archive/1752/20260101-19.mpg
-#EXTINF:-1, Max Sport 4 - 20260101-20.mpg
+#EXTINF:-1 group-title="Max Sport 4 Arşivi", Max Sport 4 - Saat 20:00
 http://85.11.144.8/archive/1752/20260101-20.mpg
-#EXTINF:-1, Max Sport 4 - 20260101-21.mpg
+#EXTINF:-1 group-title="Max Sport 4 Arşivi", Max Sport 4 - Saat 21:00
 http://85.11.144.8/archive/1752/20260101-21.mpg
-#EXTINF:-1, Max Sport 4 - 20260101-22.mpg
+#EXTINF:-1 group-title="Max Sport 4 Arşivi", Max Sport 4 - Saat 22:00
 http://85.11.144.8/archive/1752/20260101-22.mpg
-#EXTINF:-1, Disney Channel - 20260101-18.mpg
+#EXTINF:-1 group-title="Disney Channel Arşivi", Disney Channel - Saat 18:00
 http://85.11.144.8/archive/1931/20260101-18.mpg
-#EXTINF:-1, Disney Channel - 20260101-19.mpg
+#EXTINF:-1 group-title="Disney Channel Arşivi", Disney Channel - Saat 19:00
 http://85.11.144.8/archive/1931/20260101-19.mpg
-#EXTINF:-1, Disney Channel - 20260101-20.mpg
+#EXTINF:-1 group-title="Disney Channel Arşivi", Disney Channel - Saat 20:00
 http://85.11.144.8/archive/1931/20260101-20.mpg
-#EXTINF:-1, Disney Channel - 20260101-21.mpg
+#EXTINF:-1 group-title="Disney Channel Arşivi", Disney Channel - Saat 21:00
 http://85.11.144.8/archive/1931/20260101-21.mpg
-#EXTINF:-1, Disney Channel - 20260101-22.mpg
+#EXTINF:-1 group-title="Disney Channel Arşivi", Disney Channel - Saat 22:00
 http://85.11.144.8/archive/1931/20260101-22.mpg
-#EXTINF:-1, BNT 1 - 20260101-18.mpg
+#EXTINF:-1 group-title="BNT 1 Arşivi", BNT 1 - Saat 18:00
 http://85.11.144.8/archive/1932/20260101-18.mpg
-#EXTINF:-1, BNT 1 - 20260101-19.mpg
+#EXTINF:-1 group-title="BNT 1 Arşivi", BNT 1 - Saat 19:00
 http://85.11.144.8/archive/1932/20260101-19.mpg
-#EXTINF:-1, BNT 1 - 20260101-20.mpg
+#EXTINF:-1 group-title="BNT 1 Arşivi", BNT 1 - Saat 20:00
 http://85.11.144.8/archive/1932/20260101-20.mpg
-#EXTINF:-1, BNT 1 - 20260101-21.mpg
+#EXTINF:-1 group-title="BNT 1 Arşivi", BNT 1 - Saat 21:00
 http://85.11.144.8/archive/1932/20260101-21.mpg
-#EXTINF:-1, BNT 1 - 20260101-22.mpg
+#EXTINF:-1 group-title="BNT 1 Arşivi", BNT 1 - Saat 22:00
 http://85.11.144.8/archive/1932/20260101-22.mpg
