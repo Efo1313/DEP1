@@ -4,7 +4,7 @@ import re
 # Arşivin ana adresi
 ARCHIVE_URL = "http://85.11.144.8/archive/"
 
-# Akşam konuştuğumuz kanal isim eşleşmeleri
+# Kanal isim eşleşmeleri
 CHANNEL_NAMES = {
     "2": "bTV", "3": "Nova", "4": "bTV Cinema", "5": "Diema", "6": "bTV Comedy",
     "7": "HBO 3", "8": "AXN", "9": "Kino NOVA", "10": "Nova Sport", "11": "bTV Action",
@@ -33,26 +33,29 @@ def get_links(url):
 with open("seyir_sandigi.m3u", "w", encoding="utf-8") as f:
     f.write("#EXTM3U\n")
     
-    print("Kanallar ve son kayıtlar taranıyor...")
-    # Sunucudaki tüm klasörleri tara
+    print("Kanallar taranıyor...")
     found_folders = get_links(ARCHIVE_URL)
     
     for folder in found_folders:
         channel_id = folder.replace("/", "")
-        # Eğer kanal ismi listemizde varsa ismini al, yoksa klasör numarasını kullan
         display_name = CHANNEL_NAMES.get(channel_id, f"Channel {channel_id}")
         
         channel_url = ARCHIVE_URL + folder
         video_files = get_links(channel_url)
         
         if video_files:
-            # Akşam yaptığımız gibi her kanaldan son 5 kaydı alıyoruz
             latest_videos = video_files[-5:] 
             
             for video_file in latest_videos:
                 video_url = channel_url + video_file
-                # İsimlendirme formatı: "Kanal Adı - Video Tarihi/Dosya Adı"
-                f.write(f"#EXTINF:-1, {display_name} - {video_file}\n")
+                
+                # --- DÜZELTİLEN KISIM BURASI ---
+                # Dosya adındaki tarihi temizleyip sadece saati alıyoruz (Örn: 20260101-18.mpg -> 18:00)
+                time_label = video_file.split('-')[-1].replace('.mpg', '')
+                
+                # group-title ekleyerek klasör yapıyoruz
+                f.write(f'#EXTINF:-1 group-title="{display_name} Arşivi", {display_name} - Saat {time_label}:00\n')
                 f.write(f"{video_url}\n")
+                # ------------------------------
 
-print("Tam liste başarıyla oluşturuldu: seyir_sandigi.m3u")
+print("Tam liste düzenli ve klasörlü halde oluşturuldu: seyir_sandigi.m3u")
