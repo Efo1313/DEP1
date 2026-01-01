@@ -1,5 +1,6 @@
 import requests
 import re
+import os
 
 # Arşivin ana adresi
 ARCHIVE_URL = "http://85.11.144.8/archive/"
@@ -30,10 +31,13 @@ def get_links(url):
     except:
         return []
 
-with open("seyir_sandigi.m3u", "w", encoding="utf-8") as f:
+# Dosyayı hem ana dizine hem de garanti olsun diye oluşturuyoruz
+output_file = "seyir_sandigi.m3u"
+
+with open(output_file, "w", encoding="utf-8") as f:
     f.write("#EXTM3U\n")
     
-    print("Kanallar taranıyor...")
+    print("Kanallar taranıyor (Sınırsız Arşiv + En Yeni En Üstte)...")
     found_folders = get_links(ARCHIVE_URL)
     
     for folder in found_folders:
@@ -44,18 +48,21 @@ with open("seyir_sandigi.m3u", "w", encoding="utf-8") as f:
         video_files = get_links(channel_url)
         
         if video_files:
-            latest_videos = video_files[-5:] 
+            # LİSTEYİ TERS ÇEVİR: En güncel saat en başa gelir
+            video_files.reverse() 
             
-            for video_file in latest_videos:
+            for video_file in video_files:
                 video_url = channel_url + video_file
                 
-                # --- DÜZELTİLEN KISIM BURASI ---
-                # Dosya adındaki tarihi temizleyip sadece saati alıyoruz (Örn: 20260101-18.mpg -> 18:00)
-                time_label = video_file.split('-')[-1].replace('.mpg', '')
+                try:
+                    # Dosya adından saati al (Örn: 18.mpg -> 18:00)
+                    time_label = video_file.split('-')[-1].replace('.mpg', '')
+                    display_time = f"{time_label}:00"
+                except:
+                    display_time = "Bilinmiyor"
                 
-                # group-title ekleyerek klasör yapıyoruz
-                f.write(f'#EXTINF:-1 group-title="{display_name} Arşivi", {display_name} - Saat {time_label}:00\n')
+                # 'Arşivi' yazısı olmadan tertemiz format
+                f.write(f'#EXTINF:-1 group-title="{display_name}", {display_name} - Saat {display_time}\n')
                 f.write(f"{video_url}\n")
-                # ------------------------------
 
-print("Tam liste düzenli ve klasörlü halde oluşturuldu: seyir_sandigi.m3u")
+print(f"İşlem Tamam! {output_file} dosyası oluşturuldu.")
