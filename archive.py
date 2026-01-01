@@ -2,25 +2,20 @@ import requests
 import re
 import os
 
-# Arşivin ana adresi
 ARCHIVE_URL = "http://85.11.144.8/archive/"
 
-# Kanal isim eşleşmeleri
-CHANNEL_NAMES = {
-    "2": "bTV", "3": "Nova", "4": "bTV Cinema", "5": "Diema", "6": "bTV Comedy",
-    "7": "HBO 3", "8": "AXN", "9": "Kino NOVA", "10": "Nova Sport", "11": "bTV Action",
-    "12": "Diema Family", "13": "bTV Story", "14": "AXN Black", "15": "AXN White",
-    "16": "BNT 2", "17": "BNT 4", "18": "ON AIR", "20": "ALFA Ataka", "21": "Animal Planet",
-    "29": "Cartoonito", "34": "CN Cartoon", "38": "Discovery", "43": "Nova News",
-    "46": "EKids", "47": "Eurosport 1", "48": "Eurosport 2", "49": "Evrokom",
-    "54": "BNT 3", "56": "Star Channel", "57": "Star Crime", "58": "Star Life",
-    "59": "HBO", "65": "NatGeo Wild", "66": "National Geographic", "76": "Ring",
-    "80": "Skat", "86": "TLC", "87": "Euro News", "89": "TV 1000", "94": "Viasat Explore",
-    "95": "Viasat History", "96": "Viasat Nature", "114": "Agro TV", "137": "HBO 2",
-    "192": "NCKJR", "197": "7/8 TV", "209": "Nickelodeon", "485": "Diema Sport",
-    "592": "Diema Sport 2", "746": "24 Kitchen", "1049": "Max Sport 1",
-    "1380": "Diema Sport 3", "1498": "Max Sport 2", "1721": "Max Sport 3",
-    "1752": "Max Sport 4", "1931": "Disney Channel", "1932": "BNT 1"
+# Logoların alınacağı ana adres (GitHub logo arşivi örneği)
+LOGO_BASE = "https://raw.githubusercontent.com/vignis/LyngSat-Logo/master/logos/"
+
+# Kanal isimleri ve Logo dosyaları (Örnek eşleşmeler)
+CHANNEL_DATA = {
+    "2": {"name": "bTV", "logo": "btv-bg.png"},
+    "3": {"name": "Nova", "logo": "nova-tv-bg.png"},
+    "4": {"name": "bTV Cinema", "logo": "btv-cinema.png"},
+    "5": {"name": "Diema", "logo": "diema.png"},
+    "89": {"name": "TV 1000", "logo": "tv-1000.png"},
+    "1932": {"name": "BNT 1", "logo": "bnt-1.png"}
+    # Diğerlerini de bu mantıkla doldurabiliriz
 }
 
 def get_links(url):
@@ -31,38 +26,29 @@ def get_links(url):
     except:
         return []
 
-# Dosyayı hem ana dizine hem de garanti olsun diye oluşturuyoruz
 output_file = "seyir_sandigi.m3u"
 
 with open(output_file, "w", encoding="utf-8") as f:
     f.write("#EXTM3U\n")
     
-    print("Kanallar taranıyor (Sınırsız Arşiv + En Yeni En Üstte)...")
     found_folders = get_links(ARCHIVE_URL)
     
     for folder in found_folders:
         channel_id = folder.replace("/", "")
-        display_name = CHANNEL_NAMES.get(channel_id, f"Channel {channel_id}")
+        data = CHANNEL_DATA.get(channel_id, {"name": f"Channel {channel_id}", "logo": ""})
         
         channel_url = ARCHIVE_URL + folder
         video_files = get_links(channel_url)
         
         if video_files:
-            # LİSTEYİ TERS ÇEVİR: En güncel saat en başa gelir
             video_files.reverse() 
             
             for video_file in video_files:
                 video_url = channel_url + video_file
+                time_label = video_file.split('-')[-1].replace('.mpg', '')
                 
-                try:
-                    # Dosya adından saati al (Örn: 18.mpg -> 18:00)
-                    time_label = video_file.split('-')[-1].replace('.mpg', '')
-                    display_time = f"{time_label}:00"
-                except:
-                    display_time = "Bilinmiyor"
+                # LOGO BURAYA EKLENİYOR (tvg-logo etiketiyle)
+                logo_url = LOGO_BASE + data["logo"] if data["logo"] else ""
                 
-                # 'Arşivi' yazısı olmadan tertemiz format
-                f.write(f'#EXTINF:-1 group-title="{display_name}", {display_name} - Saat {display_time}\n')
+                f.write(f'#EXTINF:-1 tvg-logo="{logo_url}" group-title="{data["name"]}", {data["name"]} - Saat {time_label}:00\n')
                 f.write(f"{video_url}\n")
-
-print(f"İşlem Tamam! {output_file} dosyası oluşturuldu.")
