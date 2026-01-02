@@ -127,6 +127,8 @@ http://85.11.144.8/archive//3/
 http://85.11.144.8/archive//2/
 #EXTINF:-1 tvg-logo="" group-title="Channel ", Channel  - Saat /:00
 http://85.11.144.8/archive///
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/vignis/LyngSat-Logo/master/logos/btv-bg.png" group-title="bTV", bTV - Saat 11:00
+http://85.11.144.8/archive/2/20260102-11.mpg
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/vignis/LyngSat-Logo/master/logos/btv-bg.png" group-title="bTV", bTV - Saat 10:00
 http://85.11.144.8/archive/2/20260102-10.mpg
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/vignis/LyngSat-Logo/master/logos/btv-bg.png" group-title="bTV", bTV - Saat 09:00
@@ -367,10 +369,10 @@ http://85.11.144.8/archive/2/20251228-13.mpg
 http://85.11.144.8/archive/2/20251228-12.mpg
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/vignis/LyngSat-Logo/master/logos/btv-bg.png" group-title="bTV", bTV - Saat 11:00
 http://85.11.144.8/archive/2/20251228-11.mpg
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/vignis/LyngSat-Logo/master/logos/btv-bg.png" group-title="bTV", bTV - Saat 10:00
-http://85.11.144.8/archive/2/20251228-10.mpg
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/vignis/LyngSat-Logo/master/logos/btv-bg.png" group-title="bTV", bTV - Saat /archive/:00
 http://85.11.144.8/archive/2//archive/
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/vignis/LyngSat-Logo/master/logos/nova-tv-bg.png" group-title="Nova", Nova - Saat 11:00
+http://85.11.144.8/archive/3/20260102-11.mpg
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/vignis/LyngSat-Logo/master/logos/nova-tv-bg.png" group-title="Nova", Nova - Saat 10:00
 http://85.11.144.8/archive/3/20260102-10.mpg
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/vignis/LyngSat-Logo/master/logos/nova-tv-bg.png" group-title="Nova", Nova - Saat 09:00
@@ -611,10 +613,10 @@ http://85.11.144.8/archive/3/20251228-13.mpg
 http://85.11.144.8/archive/3/20251228-12.mpg
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/vignis/LyngSat-Logo/master/logos/nova-tv-bg.png" group-title="Nova", Nova - Saat 11:00
 http://85.11.144.8/archive/3/20251228-11.mpg
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/vignis/LyngSat-Logo/master/logos/nova-tv-bg.png" group-title="Nova", Nova - Saat 10:00
-http://85.11.144.8/archive/3/20251228-10.mpg
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/vignis/LyngSat-Logo/master/logos/nova-tv-bg.png" group-title="Nova", Nova - Saat /archive/:00
 http://85.11.144.8/archive/3//archive/
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/vignis/LyngSat-Logo/master/logos/btv-cinema.png" group-title="bTV Cinema", bTV Cinema - Saat 11:00
+http://85.11.144.8/archive/4/20260102-11.mpg
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/vignis/LyngSat-Logo/master/logos/btv-cinema.png" group-title="bTV Cinema", bTV Cinema - Saat 10:00
 http://85.11.144.8/archive/4/20260102-10.mpg
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/vignis/LyngSat-Logo/master/logos/btv-cinema.png" group-title="bTV Cinema", bTV Cinema - Saat 09:00
@@ -807,10 +809,10 @@ http://85.11.144.8/archive/4/20251229-13.mpg
 http://85.11.144.8/archive/4/20251229-12.mpg
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/vignis/LyngSat-Logo/master/logos/btv-cinema.png" group-title="bTV Cinema", bTV Cinema - Saat 11:00
 http://85.11.144.8/archive/4/20251229-11.mpg
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/vignis/LyngSat-Logo/master/logos/btv-cinema.png" group-title="bTV Cinema", bTV Cinema - Saat 10:00
-http://85.11.144.8/archive/4/20251229-10.mpg
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/vignis/LyngSat-Logo/master/logos/btv-cinema.png" group-title="bTV Cinema", bTV Cinema - Saat /archive/:00
 http://85.11.144.8/archive/4//archive/
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/vignis/LyngSat-Logo/master/logos/diema.png" group-title="Diema", Diema - Saat 11:00
+http://85.11.144.8/archive/5/20260102-11.mpg
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/vignis/LyngSat-Logo/master/logos/diema.png" group-title="Diema", Diema - Saat 10:00
 http://85.11.144.8/archive/5/20260102-10.mpg
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/vignis/LyngSat-Logo/master/logos/diema.png" group-title="Diema", Diema - Saat 09:00
@@ -1003,10 +1005,10 @@ http://85.11.144.8/archive/5/20251229-13.mpg
 http://85.11.144.8/archive/5/20251229-12.mpg
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/vignis/LyngSat-Logo/master/logos/diema.png" group-title="Diema", Diema - Saat 11:00
 http://85.11.144.8/archive/5/20251229-11.mpg
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/vignis/LyngSat-Logo/master/logos/diema.png" group-title="Diema", Diema - Saat 10:00
-http://85.11.144.8/archive/5/20251229-10.mpg
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/vignis/LyngSat-Logo/master/logos/diema.png" group-title="Diema", Diema - Saat /archive/:00
 http://85.11.144.8/archive/5//archive/
+#EXTINF:-1 tvg-logo="" group-title="Channel 6", Channel 6 - Saat 11:00
+http://85.11.144.8/archive/6/20260102-11.mpg
 #EXTINF:-1 tvg-logo="" group-title="Channel 6", Channel 6 - Saat 10:00
 http://85.11.144.8/archive/6/20260102-10.mpg
 #EXTINF:-1 tvg-logo="" group-title="Channel 6", Channel 6 - Saat 09:00
@@ -1103,10 +1105,10 @@ http://85.11.144.8/archive/6/20251231-13.mpg
 http://85.11.144.8/archive/6/20251231-12.mpg
 #EXTINF:-1 tvg-logo="" group-title="Channel 6", Channel 6 - Saat 11:00
 http://85.11.144.8/archive/6/20251231-11.mpg
-#EXTINF:-1 tvg-logo="" group-title="Channel 6", Channel 6 - Saat 10:00
-http://85.11.144.8/archive/6/20251231-10.mpg
 #EXTINF:-1 tvg-logo="" group-title="Channel 6", Channel 6 - Saat /archive/:00
 http://85.11.144.8/archive/6//archive/
+#EXTINF:-1 tvg-logo="" group-title="Channel 7", Channel 7 - Saat 11:00
+http://85.11.144.8/archive/7/20260102-11.mpg
 #EXTINF:-1 tvg-logo="" group-title="Channel 7", Channel 7 - Saat 10:00
 http://85.11.144.8/archive/7/20260102-10.mpg
 #EXTINF:-1 tvg-logo="" group-title="Channel 7", Channel 7 - Saat 09:00
@@ -1299,10 +1301,10 @@ http://85.11.144.8/archive/7/20251229-13.mpg
 http://85.11.144.8/archive/7/20251229-12.mpg
 #EXTINF:-1 tvg-logo="" group-title="Channel 7", Channel 7 - Saat 11:00
 http://85.11.144.8/archive/7/20251229-11.mpg
-#EXTINF:-1 tvg-logo="" group-title="Channel 7", Channel 7 - Saat 10:00
-http://85.11.144.8/archive/7/20251229-10.mpg
 #EXTINF:-1 tvg-logo="" group-title="Channel 7", Channel 7 - Saat /archive/:00
 http://85.11.144.8/archive/7//archive/
+#EXTINF:-1 tvg-logo="" group-title="Channel 8", Channel 8 - Saat 11:00
+http://85.11.144.8/archive/8/20260102-11.mpg
 #EXTINF:-1 tvg-logo="" group-title="Channel 8", Channel 8 - Saat 10:00
 http://85.11.144.8/archive/8/20260102-10.mpg
 #EXTINF:-1 tvg-logo="" group-title="Channel 8", Channel 8 - Saat 09:00
@@ -1495,10 +1497,10 @@ http://85.11.144.8/archive/8/20251229-13.mpg
 http://85.11.144.8/archive/8/20251229-12.mpg
 #EXTINF:-1 tvg-logo="" group-title="Channel 8", Channel 8 - Saat 11:00
 http://85.11.144.8/archive/8/20251229-11.mpg
-#EXTINF:-1 tvg-logo="" group-title="Channel 8", Channel 8 - Saat 10:00
-http://85.11.144.8/archive/8/20251229-10.mpg
 #EXTINF:-1 tvg-logo="" group-title="Channel 8", Channel 8 - Saat /archive/:00
 http://85.11.144.8/archive/8//archive/
+#EXTINF:-1 tvg-logo="" group-title="Channel 9", Channel 9 - Saat 11:00
+http://85.11.144.8/archive/9/20260102-11.mpg
 #EXTINF:-1 tvg-logo="" group-title="Channel 9", Channel 9 - Saat 10:00
 http://85.11.144.8/archive/9/20260102-10.mpg
 #EXTINF:-1 tvg-logo="" group-title="Channel 9", Channel 9 - Saat 09:00
@@ -1691,10 +1693,10 @@ http://85.11.144.8/archive/9/20251229-13.mpg
 http://85.11.144.8/archive/9/20251229-12.mpg
 #EXTINF:-1 tvg-logo="" group-title="Channel 9", Channel 9 - Saat 11:00
 http://85.11.144.8/archive/9/20251229-11.mpg
-#EXTINF:-1 tvg-logo="" group-title="Channel 9", Channel 9 - Saat 10:00
-http://85.11.144.8/archive/9/20251229-10.mpg
 #EXTINF:-1 tvg-logo="" group-title="Channel 9", Channel 9 - Saat /archive/:00
 http://85.11.144.8/archive/9//archive/
+#EXTINF:-1 tvg-logo="" group-title="Channel 10", Channel 10 - Saat 11:00
+http://85.11.144.8/archive/10/20260102-11.mpg
 #EXTINF:-1 tvg-logo="" group-title="Channel 10", Channel 10 - Saat 10:00
 http://85.11.144.8/archive/10/20260102-10.mpg
 #EXTINF:-1 tvg-logo="" group-title="Channel 10", Channel 10 - Saat 09:00
@@ -1887,10 +1889,10 @@ http://85.11.144.8/archive/10/20251229-13.mpg
 http://85.11.144.8/archive/10/20251229-12.mpg
 #EXTINF:-1 tvg-logo="" group-title="Channel 10", Channel 10 - Saat 11:00
 http://85.11.144.8/archive/10/20251229-11.mpg
-#EXTINF:-1 tvg-logo="" group-title="Channel 10", Channel 10 - Saat 10:00
-http://85.11.144.8/archive/10/20251229-10.mpg
 #EXTINF:-1 tvg-logo="" group-title="Channel 10", Channel 10 - Saat /archive/:00
 http://85.11.144.8/archive/10//archive/
+#EXTINF:-1 tvg-logo="" group-title="Channel 11", Channel 11 - Saat 11:00
+http://85.11.144.8/archive/11/20260102-11.mpg
 #EXTINF:-1 tvg-logo="" group-title="Channel 11", Channel 11 - Saat 10:00
 http://85.11.144.8/archive/11/20260102-10.mpg
 #EXTINF:-1 tvg-logo="" group-title="Channel 11", Channel 11 - Saat 09:00
@@ -2083,10 +2085,10 @@ http://85.11.144.8/archive/11/20251229-13.mpg
 http://85.11.144.8/archive/11/20251229-12.mpg
 #EXTINF:-1 tvg-logo="" group-title="Channel 11", Channel 11 - Saat 11:00
 http://85.11.144.8/archive/11/20251229-11.mpg
-#EXTINF:-1 tvg-logo="" group-title="Channel 11", Channel 11 - Saat 10:00
-http://85.11.144.8/archive/11/20251229-10.mpg
 #EXTINF:-1 tvg-logo="" group-title="Channel 11", Channel 11 - Saat /archive/:00
 http://85.11.144.8/archive/11//archive/
+#EXTINF:-1 tvg-logo="" group-title="Channel 12", Channel 12 - Saat 11:00
+http://85.11.144.8/archive/12/20260102-11.mpg
 #EXTINF:-1 tvg-logo="" group-title="Channel 12", Channel 12 - Saat 10:00
 http://85.11.144.8/archive/12/20260102-10.mpg
 #EXTINF:-1 tvg-logo="" group-title="Channel 12", Channel 12 - Saat 09:00
@@ -2279,10 +2281,10 @@ http://85.11.144.8/archive/12/20251229-13.mpg
 http://85.11.144.8/archive/12/20251229-12.mpg
 #EXTINF:-1 tvg-logo="" group-title="Channel 12", Channel 12 - Saat 11:00
 http://85.11.144.8/archive/12/20251229-11.mpg
-#EXTINF:-1 tvg-logo="" group-title="Channel 12", Channel 12 - Saat 10:00
-http://85.11.144.8/archive/12/20251229-10.mpg
 #EXTINF:-1 tvg-logo="" group-title="Channel 12", Channel 12 - Saat /archive/:00
 http://85.11.144.8/archive/12//archive/
+#EXTINF:-1 tvg-logo="" group-title="Channel 13", Channel 13 - Saat 11:00
+http://85.11.144.8/archive/13/20260102-11.mpg
 #EXTINF:-1 tvg-logo="" group-title="Channel 13", Channel 13 - Saat 10:00
 http://85.11.144.8/archive/13/20260102-10.mpg
 #EXTINF:-1 tvg-logo="" group-title="Channel 13", Channel 13 - Saat 09:00
@@ -2475,10 +2477,10 @@ http://85.11.144.8/archive/13/20251229-13.mpg
 http://85.11.144.8/archive/13/20251229-12.mpg
 #EXTINF:-1 tvg-logo="" group-title="Channel 13", Channel 13 - Saat 11:00
 http://85.11.144.8/archive/13/20251229-11.mpg
-#EXTINF:-1 tvg-logo="" group-title="Channel 13", Channel 13 - Saat 10:00
-http://85.11.144.8/archive/13/20251229-10.mpg
 #EXTINF:-1 tvg-logo="" group-title="Channel 13", Channel 13 - Saat /archive/:00
 http://85.11.144.8/archive/13//archive/
+#EXTINF:-1 tvg-logo="" group-title="Channel 14", Channel 14 - Saat 11:00
+http://85.11.144.8/archive/14/20260102-11.mpg
 #EXTINF:-1 tvg-logo="" group-title="Channel 14", Channel 14 - Saat 10:00
 http://85.11.144.8/archive/14/20260102-10.mpg
 #EXTINF:-1 tvg-logo="" group-title="Channel 14", Channel 14 - Saat 09:00
@@ -2671,10 +2673,10 @@ http://85.11.144.8/archive/14/20251229-13.mpg
 http://85.11.144.8/archive/14/20251229-12.mpg
 #EXTINF:-1 tvg-logo="" group-title="Channel 14", Channel 14 - Saat 11:00
 http://85.11.144.8/archive/14/20251229-11.mpg
-#EXTINF:-1 tvg-logo="" group-title="Channel 14", Channel 14 - Saat 10:00
-http://85.11.144.8/archive/14/20251229-10.mpg
 #EXTINF:-1 tvg-logo="" group-title="Channel 14", Channel 14 - Saat /archive/:00
 http://85.11.144.8/archive/14//archive/
+#EXTINF:-1 tvg-logo="" group-title="Channel 15", Channel 15 - Saat 11:00
+http://85.11.144.8/archive/15/20260102-11.mpg
 #EXTINF:-1 tvg-logo="" group-title="Channel 15", Channel 15 - Saat 10:00
 http://85.11.144.8/archive/15/20260102-10.mpg
 #EXTINF:-1 tvg-logo="" group-title="Channel 15", Channel 15 - Saat 09:00
@@ -2867,10 +2869,10 @@ http://85.11.144.8/archive/15/20251229-13.mpg
 http://85.11.144.8/archive/15/20251229-12.mpg
 #EXTINF:-1 tvg-logo="" group-title="Channel 15", Channel 15 - Saat 11:00
 http://85.11.144.8/archive/15/20251229-11.mpg
-#EXTINF:-1 tvg-logo="" group-title="Channel 15", Channel 15 - Saat 10:00
-http://85.11.144.8/archive/15/20251229-10.mpg
 #EXTINF:-1 tvg-logo="" group-title="Channel 15", Channel 15 - Saat /archive/:00
 http://85.11.144.8/archive/15//archive/
+#EXTINF:-1 tvg-logo="" group-title="Channel 16", Channel 16 - Saat 11:00
+http://85.11.144.8/archive/16/20260102-11.mpg
 #EXTINF:-1 tvg-logo="" group-title="Channel 16", Channel 16 - Saat 10:00
 http://85.11.144.8/archive/16/20260102-10.mpg
 #EXTINF:-1 tvg-logo="" group-title="Channel 16", Channel 16 - Saat 09:00
@@ -3063,10 +3065,10 @@ http://85.11.144.8/archive/16/20251229-13.mpg
 http://85.11.144.8/archive/16/20251229-12.mpg
 #EXTINF:-1 tvg-logo="" group-title="Channel 16", Channel 16 - Saat 11:00
 http://85.11.144.8/archive/16/20251229-11.mpg
-#EXTINF:-1 tvg-logo="" group-title="Channel 16", Channel 16 - Saat 10:00
-http://85.11.144.8/archive/16/20251229-10.mpg
 #EXTINF:-1 tvg-logo="" group-title="Channel 16", Channel 16 - Saat /archive/:00
 http://85.11.144.8/archive/16//archive/
+#EXTINF:-1 tvg-logo="" group-title="Channel 17", Channel 17 - Saat 11:00
+http://85.11.144.8/archive/17/20260102-11.mpg
 #EXTINF:-1 tvg-logo="" group-title="Channel 17", Channel 17 - Saat 10:00
 http://85.11.144.8/archive/17/20260102-10.mpg
 #EXTINF:-1 tvg-logo="" group-title="Channel 17", Channel 17 - Saat 09:00
@@ -3259,10 +3261,10 @@ http://85.11.144.8/archive/17/20251229-13.mpg
 http://85.11.144.8/archive/17/20251229-12.mpg
 #EXTINF:-1 tvg-logo="" group-title="Channel 17", Channel 17 - Saat 11:00
 http://85.11.144.8/archive/17/20251229-11.mpg
-#EXTINF:-1 tvg-logo="" group-title="Channel 17", Channel 17 - Saat 10:00
-http://85.11.144.8/archive/17/20251229-10.mpg
 #EXTINF:-1 tvg-logo="" group-title="Channel 17", Channel 17 - Saat /archive/:00
 http://85.11.144.8/archive/17//archive/
+#EXTINF:-1 tvg-logo="" group-title="Channel 18", Channel 18 - Saat 11:00
+http://85.11.144.8/archive/18/20260102-11.mpg
 #EXTINF:-1 tvg-logo="" group-title="Channel 18", Channel 18 - Saat 10:00
 http://85.11.144.8/archive/18/20260102-10.mpg
 #EXTINF:-1 tvg-logo="" group-title="Channel 18", Channel 18 - Saat 09:00
@@ -3455,10 +3457,10 @@ http://85.11.144.8/archive/18/20251229-13.mpg
 http://85.11.144.8/archive/18/20251229-12.mpg
 #EXTINF:-1 tvg-logo="" group-title="Channel 18", Channel 18 - Saat 11:00
 http://85.11.144.8/archive/18/20251229-11.mpg
-#EXTINF:-1 tvg-logo="" group-title="Channel 18", Channel 18 - Saat 10:00
-http://85.11.144.8/archive/18/20251229-10.mpg
 #EXTINF:-1 tvg-logo="" group-title="Channel 18", Channel 18 - Saat /archive/:00
 http://85.11.144.8/archive/18//archive/
+#EXTINF:-1 tvg-logo="" group-title="Channel 20", Channel 20 - Saat 11:00
+http://85.11.144.8/archive/20/20260102-11.mpg
 #EXTINF:-1 tvg-logo="" group-title="Channel 20", Channel 20 - Saat 10:00
 http://85.11.144.8/archive/20/20260102-10.mpg
 #EXTINF:-1 tvg-logo="" group-title="Channel 20", Channel 20 - Saat 09:00
@@ -3531,10 +3533,10 @@ http://85.11.144.8/archive/20/20260101-01.mpg
 http://85.11.144.8/archive/20/20260101-00.mpg
 #EXTINF:-1 tvg-logo="" group-title="Channel 20", Channel 20 - Saat 23:00
 http://85.11.144.8/archive/20/20251231-23.mpg
-#EXTINF:-1 tvg-logo="" group-title="Channel 20", Channel 20 - Saat 22:00
-http://85.11.144.8/archive/20/20251231-22.mpg
 #EXTINF:-1 tvg-logo="" group-title="Channel 20", Channel 20 - Saat /archive/:00
 http://85.11.144.8/archive/20//archive/
+#EXTINF:-1 tvg-logo="" group-title="Channel 21", Channel 21 - Saat 11:00
+http://85.11.144.8/archive/21/20260102-11.mpg
 #EXTINF:-1 tvg-logo="" group-title="Channel 21", Channel 21 - Saat 10:00
 http://85.11.144.8/archive/21/20260102-10.mpg
 #EXTINF:-1 tvg-logo="" group-title="Channel 21", Channel 21 - Saat 09:00
@@ -3631,12 +3633,12 @@ http://85.11.144.8/archive/21/20251231-13.mpg
 http://85.11.144.8/archive/21/20251231-12.mpg
 #EXTINF:-1 tvg-logo="" group-title="Channel 21", Channel 21 - Saat 11:00
 http://85.11.144.8/archive/21/20251231-11.mpg
-#EXTINF:-1 tvg-logo="" group-title="Channel 21", Channel 21 - Saat 10:00
-http://85.11.144.8/archive/21/20251231-10.mpg
 #EXTINF:-1 tvg-logo="" group-title="Channel 21", Channel 21 - Saat /archive/:00
 http://85.11.144.8/archive/21//archive/
 #EXTINF:-1 tvg-logo="" group-title="Channel 28", Channel 28 - Saat /archive/:00
 http://85.11.144.8/archive/28//archive/
+#EXTINF:-1 tvg-logo="" group-title="Channel 29", Channel 29 - Saat 11:00
+http://85.11.144.8/archive/29/20260102-11.mpg
 #EXTINF:-1 tvg-logo="" group-title="Channel 29", Channel 29 - Saat 10:00
 http://85.11.144.8/archive/29/20260102-10.mpg
 #EXTINF:-1 tvg-logo="" group-title="Channel 29", Channel 29 - Saat 09:00
@@ -3709,10 +3711,10 @@ http://85.11.144.8/archive/29/20260101-01.mpg
 http://85.11.144.8/archive/29/20260101-00.mpg
 #EXTINF:-1 tvg-logo="" group-title="Channel 29", Channel 29 - Saat 23:00
 http://85.11.144.8/archive/29/20251231-23.mpg
-#EXTINF:-1 tvg-logo="" group-title="Channel 29", Channel 29 - Saat 22:00
-http://85.11.144.8/archive/29/20251231-22.mpg
 #EXTINF:-1 tvg-logo="" group-title="Channel 29", Channel 29 - Saat /archive/:00
 http://85.11.144.8/archive/29//archive/
+#EXTINF:-1 tvg-logo="" group-title="Channel 34", Channel 34 - Saat 11:00
+http://85.11.144.8/archive/34/20260102-11.mpg
 #EXTINF:-1 tvg-logo="" group-title="Channel 34", Channel 34 - Saat 10:00
 http://85.11.144.8/archive/34/20260102-10.mpg
 #EXTINF:-1 tvg-logo="" group-title="Channel 34", Channel 34 - Saat 09:00
@@ -3809,10 +3811,10 @@ http://85.11.144.8/archive/34/20251231-13.mpg
 http://85.11.144.8/archive/34/20251231-12.mpg
 #EXTINF:-1 tvg-logo="" group-title="Channel 34", Channel 34 - Saat 11:00
 http://85.11.144.8/archive/34/20251231-11.mpg
-#EXTINF:-1 tvg-logo="" group-title="Channel 34", Channel 34 - Saat 10:00
-http://85.11.144.8/archive/34/20251231-10.mpg
 #EXTINF:-1 tvg-logo="" group-title="Channel 34", Channel 34 - Saat /archive/:00
 http://85.11.144.8/archive/34//archive/
+#EXTINF:-1 tvg-logo="" group-title="Channel 38", Channel 38 - Saat 11:00
+http://85.11.144.8/archive/38/20260102-11.mpg
 #EXTINF:-1 tvg-logo="" group-title="Channel 38", Channel 38 - Saat 10:00
 http://85.11.144.8/archive/38/20260102-10.mpg
 #EXTINF:-1 tvg-logo="" group-title="Channel 38", Channel 38 - Saat 09:00
@@ -4005,10 +4007,10 @@ http://85.11.144.8/archive/38/20251229-13.mpg
 http://85.11.144.8/archive/38/20251229-12.mpg
 #EXTINF:-1 tvg-logo="" group-title="Channel 38", Channel 38 - Saat 11:00
 http://85.11.144.8/archive/38/20251229-11.mpg
-#EXTINF:-1 tvg-logo="" group-title="Channel 38", Channel 38 - Saat 10:00
-http://85.11.144.8/archive/38/20251229-10.mpg
 #EXTINF:-1 tvg-logo="" group-title="Channel 38", Channel 38 - Saat /archive/:00
 http://85.11.144.8/archive/38//archive/
+#EXTINF:-1 tvg-logo="" group-title="Channel 43", Channel 43 - Saat 11:00
+http://85.11.144.8/archive/43/20260102-11.mpg
 #EXTINF:-1 tvg-logo="" group-title="Channel 43", Channel 43 - Saat 10:00
 http://85.11.144.8/archive/43/20260102-10.mpg
 #EXTINF:-1 tvg-logo="" group-title="Channel 43", Channel 43 - Saat 09:00
@@ -4201,10 +4203,10 @@ http://85.11.144.8/archive/43/20251229-13.mpg
 http://85.11.144.8/archive/43/20251229-12.mpg
 #EXTINF:-1 tvg-logo="" group-title="Channel 43", Channel 43 - Saat 11:00
 http://85.11.144.8/archive/43/20251229-11.mpg
-#EXTINF:-1 tvg-logo="" group-title="Channel 43", Channel 43 - Saat 10:00
-http://85.11.144.8/archive/43/20251229-10.mpg
 #EXTINF:-1 tvg-logo="" group-title="Channel 43", Channel 43 - Saat /archive/:00
 http://85.11.144.8/archive/43//archive/
+#EXTINF:-1 tvg-logo="" group-title="Channel 46", Channel 46 - Saat 11:00
+http://85.11.144.8/archive/46/20260102-11.mpg
 #EXTINF:-1 tvg-logo="" group-title="Channel 46", Channel 46 - Saat 10:00
 http://85.11.144.8/archive/46/20260102-10.mpg
 #EXTINF:-1 tvg-logo="" group-title="Channel 46", Channel 46 - Saat 09:00
@@ -4277,10 +4279,10 @@ http://85.11.144.8/archive/46/20260101-01.mpg
 http://85.11.144.8/archive/46/20260101-00.mpg
 #EXTINF:-1 tvg-logo="" group-title="Channel 46", Channel 46 - Saat 23:00
 http://85.11.144.8/archive/46/20251231-23.mpg
-#EXTINF:-1 tvg-logo="" group-title="Channel 46", Channel 46 - Saat 22:00
-http://85.11.144.8/archive/46/20251231-22.mpg
 #EXTINF:-1 tvg-logo="" group-title="Channel 46", Channel 46 - Saat /archive/:00
 http://85.11.144.8/archive/46//archive/
+#EXTINF:-1 tvg-logo="" group-title="Channel 47", Channel 47 - Saat 11:00
+http://85.11.144.8/archive/47/20260102-11.mpg
 #EXTINF:-1 tvg-logo="" group-title="Channel 47", Channel 47 - Saat 10:00
 http://85.11.144.8/archive/47/20260102-10.mpg
 #EXTINF:-1 tvg-logo="" group-title="Channel 47", Channel 47 - Saat 09:00
@@ -4473,10 +4475,10 @@ http://85.11.144.8/archive/47/20251229-13.mpg
 http://85.11.144.8/archive/47/20251229-12.mpg
 #EXTINF:-1 tvg-logo="" group-title="Channel 47", Channel 47 - Saat 11:00
 http://85.11.144.8/archive/47/20251229-11.mpg
-#EXTINF:-1 tvg-logo="" group-title="Channel 47", Channel 47 - Saat 10:00
-http://85.11.144.8/archive/47/20251229-10.mpg
 #EXTINF:-1 tvg-logo="" group-title="Channel 47", Channel 47 - Saat /archive/:00
 http://85.11.144.8/archive/47//archive/
+#EXTINF:-1 tvg-logo="" group-title="Channel 48", Channel 48 - Saat 11:00
+http://85.11.144.8/archive/48/20260102-11.mpg
 #EXTINF:-1 tvg-logo="" group-title="Channel 48", Channel 48 - Saat 10:00
 http://85.11.144.8/archive/48/20260102-10.mpg
 #EXTINF:-1 tvg-logo="" group-title="Channel 48", Channel 48 - Saat 09:00
@@ -4669,10 +4671,10 @@ http://85.11.144.8/archive/48/20251229-13.mpg
 http://85.11.144.8/archive/48/20251229-12.mpg
 #EXTINF:-1 tvg-logo="" group-title="Channel 48", Channel 48 - Saat 11:00
 http://85.11.144.8/archive/48/20251229-11.mpg
-#EXTINF:-1 tvg-logo="" group-title="Channel 48", Channel 48 - Saat 10:00
-http://85.11.144.8/archive/48/20251229-10.mpg
 #EXTINF:-1 tvg-logo="" group-title="Channel 48", Channel 48 - Saat /archive/:00
 http://85.11.144.8/archive/48//archive/
+#EXTINF:-1 tvg-logo="" group-title="Channel 49", Channel 49 - Saat 11:00
+http://85.11.144.8/archive/49/20260102-11.mpg
 #EXTINF:-1 tvg-logo="" group-title="Channel 49", Channel 49 - Saat 10:00
 http://85.11.144.8/archive/49/20260102-10.mpg
 #EXTINF:-1 tvg-logo="" group-title="Channel 49", Channel 49 - Saat 09:00
@@ -4769,10 +4771,10 @@ http://85.11.144.8/archive/49/20251231-13.mpg
 http://85.11.144.8/archive/49/20251231-12.mpg
 #EXTINF:-1 tvg-logo="" group-title="Channel 49", Channel 49 - Saat 11:00
 http://85.11.144.8/archive/49/20251231-11.mpg
-#EXTINF:-1 tvg-logo="" group-title="Channel 49", Channel 49 - Saat 10:00
-http://85.11.144.8/archive/49/20251231-10.mpg
 #EXTINF:-1 tvg-logo="" group-title="Channel 49", Channel 49 - Saat /archive/:00
 http://85.11.144.8/archive/49//archive/
+#EXTINF:-1 tvg-logo="" group-title="Channel 54", Channel 54 - Saat 11:00
+http://85.11.144.8/archive/54/20260102-11.mpg
 #EXTINF:-1 tvg-logo="" group-title="Channel 54", Channel 54 - Saat 10:00
 http://85.11.144.8/archive/54/20260102-10.mpg
 #EXTINF:-1 tvg-logo="" group-title="Channel 54", Channel 54 - Saat 09:00
@@ -4965,10 +4967,10 @@ http://85.11.144.8/archive/54/20251229-13.mpg
 http://85.11.144.8/archive/54/20251229-12.mpg
 #EXTINF:-1 tvg-logo="" group-title="Channel 54", Channel 54 - Saat 11:00
 http://85.11.144.8/archive/54/20251229-11.mpg
-#EXTINF:-1 tvg-logo="" group-title="Channel 54", Channel 54 - Saat 10:00
-http://85.11.144.8/archive/54/20251229-10.mpg
 #EXTINF:-1 tvg-logo="" group-title="Channel 54", Channel 54 - Saat /archive/:00
 http://85.11.144.8/archive/54//archive/
+#EXTINF:-1 tvg-logo="" group-title="Channel 56", Channel 56 - Saat 11:00
+http://85.11.144.8/archive/56/20260102-11.mpg
 #EXTINF:-1 tvg-logo="" group-title="Channel 56", Channel 56 - Saat 10:00
 http://85.11.144.8/archive/56/20260102-10.mpg
 #EXTINF:-1 tvg-logo="" group-title="Channel 56", Channel 56 - Saat 09:00
@@ -5113,10 +5115,10 @@ http://85.11.144.8/archive/56/20251230-13.mpg
 http://85.11.144.8/archive/56/20251230-12.mpg
 #EXTINF:-1 tvg-logo="" group-title="Channel 56", Channel 56 - Saat 11:00
 http://85.11.144.8/archive/56/20251230-11.mpg
-#EXTINF:-1 tvg-logo="" group-title="Channel 56", Channel 56 - Saat 10:00
-http://85.11.144.8/archive/56/20251230-10.mpg
 #EXTINF:-1 tvg-logo="" group-title="Channel 56", Channel 56 - Saat /archive/:00
 http://85.11.144.8/archive/56//archive/
+#EXTINF:-1 tvg-logo="" group-title="Channel 57", Channel 57 - Saat 11:00
+http://85.11.144.8/archive/57/20260102-11.mpg
 #EXTINF:-1 tvg-logo="" group-title="Channel 57", Channel 57 - Saat 10:00
 http://85.11.144.8/archive/57/20260102-10.mpg
 #EXTINF:-1 tvg-logo="" group-title="Channel 57", Channel 57 - Saat 09:00
@@ -5261,10 +5263,10 @@ http://85.11.144.8/archive/57/20251230-13.mpg
 http://85.11.144.8/archive/57/20251230-12.mpg
 #EXTINF:-1 tvg-logo="" group-title="Channel 57", Channel 57 - Saat 11:00
 http://85.11.144.8/archive/57/20251230-11.mpg
-#EXTINF:-1 tvg-logo="" group-title="Channel 57", Channel 57 - Saat 10:00
-http://85.11.144.8/archive/57/20251230-10.mpg
 #EXTINF:-1 tvg-logo="" group-title="Channel 57", Channel 57 - Saat /archive/:00
 http://85.11.144.8/archive/57//archive/
+#EXTINF:-1 tvg-logo="" group-title="Channel 58", Channel 58 - Saat 11:00
+http://85.11.144.8/archive/58/20260102-11.mpg
 #EXTINF:-1 tvg-logo="" group-title="Channel 58", Channel 58 - Saat 10:00
 http://85.11.144.8/archive/58/20260102-10.mpg
 #EXTINF:-1 tvg-logo="" group-title="Channel 58", Channel 58 - Saat 09:00
@@ -5409,10 +5411,10 @@ http://85.11.144.8/archive/58/20251230-13.mpg
 http://85.11.144.8/archive/58/20251230-12.mpg
 #EXTINF:-1 tvg-logo="" group-title="Channel 58", Channel 58 - Saat 11:00
 http://85.11.144.8/archive/58/20251230-11.mpg
-#EXTINF:-1 tvg-logo="" group-title="Channel 58", Channel 58 - Saat 10:00
-http://85.11.144.8/archive/58/20251230-10.mpg
 #EXTINF:-1 tvg-logo="" group-title="Channel 58", Channel 58 - Saat /archive/:00
 http://85.11.144.8/archive/58//archive/
+#EXTINF:-1 tvg-logo="" group-title="Channel 59", Channel 59 - Saat 11:00
+http://85.11.144.8/archive/59/20260102-11.mpg
 #EXTINF:-1 tvg-logo="" group-title="Channel 59", Channel 59 - Saat 10:00
 http://85.11.144.8/archive/59/20260102-10.mpg
 #EXTINF:-1 tvg-logo="" group-title="Channel 59", Channel 59 - Saat 09:00
@@ -5509,10 +5511,10 @@ http://85.11.144.8/archive/59/20251231-13.mpg
 http://85.11.144.8/archive/59/20251231-12.mpg
 #EXTINF:-1 tvg-logo="" group-title="Channel 59", Channel 59 - Saat 11:00
 http://85.11.144.8/archive/59/20251231-11.mpg
-#EXTINF:-1 tvg-logo="" group-title="Channel 59", Channel 59 - Saat 10:00
-http://85.11.144.8/archive/59/20251231-10.mpg
 #EXTINF:-1 tvg-logo="" group-title="Channel 59", Channel 59 - Saat /archive/:00
 http://85.11.144.8/archive/59//archive/
+#EXTINF:-1 tvg-logo="" group-title="Channel 65", Channel 65 - Saat 11:00
+http://85.11.144.8/archive/65/20260102-11.mpg
 #EXTINF:-1 tvg-logo="" group-title="Channel 65", Channel 65 - Saat 10:00
 http://85.11.144.8/archive/65/20260102-10.mpg
 #EXTINF:-1 tvg-logo="" group-title="Channel 65", Channel 65 - Saat 09:00
@@ -5609,10 +5611,10 @@ http://85.11.144.8/archive/65/20251231-13.mpg
 http://85.11.144.8/archive/65/20251231-12.mpg
 #EXTINF:-1 tvg-logo="" group-title="Channel 65", Channel 65 - Saat 11:00
 http://85.11.144.8/archive/65/20251231-11.mpg
-#EXTINF:-1 tvg-logo="" group-title="Channel 65", Channel 65 - Saat 10:00
-http://85.11.144.8/archive/65/20251231-10.mpg
 #EXTINF:-1 tvg-logo="" group-title="Channel 65", Channel 65 - Saat /archive/:00
 http://85.11.144.8/archive/65//archive/
+#EXTINF:-1 tvg-logo="" group-title="Channel 66", Channel 66 - Saat 11:00
+http://85.11.144.8/archive/66/20260102-11.mpg
 #EXTINF:-1 tvg-logo="" group-title="Channel 66", Channel 66 - Saat 10:00
 http://85.11.144.8/archive/66/20260102-10.mpg
 #EXTINF:-1 tvg-logo="" group-title="Channel 66", Channel 66 - Saat 09:00
@@ -5709,10 +5711,10 @@ http://85.11.144.8/archive/66/20251231-13.mpg
 http://85.11.144.8/archive/66/20251231-12.mpg
 #EXTINF:-1 tvg-logo="" group-title="Channel 66", Channel 66 - Saat 11:00
 http://85.11.144.8/archive/66/20251231-11.mpg
-#EXTINF:-1 tvg-logo="" group-title="Channel 66", Channel 66 - Saat 10:00
-http://85.11.144.8/archive/66/20251231-10.mpg
 #EXTINF:-1 tvg-logo="" group-title="Channel 66", Channel 66 - Saat /archive/:00
 http://85.11.144.8/archive/66//archive/
+#EXTINF:-1 tvg-logo="" group-title="Channel 76", Channel 76 - Saat 11:00
+http://85.11.144.8/archive/76/20260102-11.mpg
 #EXTINF:-1 tvg-logo="" group-title="Channel 76", Channel 76 - Saat 10:00
 http://85.11.144.8/archive/76/20260102-10.mpg
 #EXTINF:-1 tvg-logo="" group-title="Channel 76", Channel 76 - Saat 09:00
@@ -5809,8 +5811,6 @@ http://85.11.144.8/archive/76/20251231-13.mpg
 http://85.11.144.8/archive/76/20251231-12.mpg
 #EXTINF:-1 tvg-logo="" group-title="Channel 76", Channel 76 - Saat 11:00
 http://85.11.144.8/archive/76/20251231-11.mpg
-#EXTINF:-1 tvg-logo="" group-title="Channel 76", Channel 76 - Saat 10:00
-http://85.11.144.8/archive/76/20251231-10.mpg
 #EXTINF:-1 tvg-logo="" group-title="Channel 76", Channel 76 - Saat /archive/:00
 http://85.11.144.8/archive/76//archive/
 #EXTINF:-1 tvg-logo="" group-title="Channel 79", Channel 79 - Saat 21:00
@@ -5913,6 +5913,8 @@ http://85.11.144.8/archive/79/20250604-03.mpg
 http://85.11.144.8/archive/79/20250604-02.mpg
 #EXTINF:-1 tvg-logo="" group-title="Channel 79", Channel 79 - Saat /archive/:00
 http://85.11.144.8/archive/79//archive/
+#EXTINF:-1 tvg-logo="" group-title="Channel 80", Channel 80 - Saat 11:00
+http://85.11.144.8/archive/80/20260102-11.mpg
 #EXTINF:-1 tvg-logo="" group-title="Channel 80", Channel 80 - Saat 10:00
 http://85.11.144.8/archive/80/20260102-10.mpg
 #EXTINF:-1 tvg-logo="" group-title="Channel 80", Channel 80 - Saat 09:00
@@ -6009,10 +6011,10 @@ http://85.11.144.8/archive/80/20251231-13.mpg
 http://85.11.144.8/archive/80/20251231-12.mpg
 #EXTINF:-1 tvg-logo="" group-title="Channel 80", Channel 80 - Saat 11:00
 http://85.11.144.8/archive/80/20251231-11.mpg
-#EXTINF:-1 tvg-logo="" group-title="Channel 80", Channel 80 - Saat 10:00
-http://85.11.144.8/archive/80/20251231-10.mpg
 #EXTINF:-1 tvg-logo="" group-title="Channel 80", Channel 80 - Saat /archive/:00
 http://85.11.144.8/archive/80//archive/
+#EXTINF:-1 tvg-logo="" group-title="Channel 86", Channel 86 - Saat 11:00
+http://85.11.144.8/archive/86/20260102-11.mpg
 #EXTINF:-1 tvg-logo="" group-title="Channel 86", Channel 86 - Saat 10:00
 http://85.11.144.8/archive/86/20260102-10.mpg
 #EXTINF:-1 tvg-logo="" group-title="Channel 86", Channel 86 - Saat 09:00
@@ -6061,10 +6063,10 @@ http://85.11.144.8/archive/86/20260101-13.mpg
 http://85.11.144.8/archive/86/20260101-12.mpg
 #EXTINF:-1 tvg-logo="" group-title="Channel 86", Channel 86 - Saat 11:00
 http://85.11.144.8/archive/86/20260101-11.mpg
-#EXTINF:-1 tvg-logo="" group-title="Channel 86", Channel 86 - Saat 10:00
-http://85.11.144.8/archive/86/20260101-10.mpg
 #EXTINF:-1 tvg-logo="" group-title="Channel 86", Channel 86 - Saat /archive/:00
 http://85.11.144.8/archive/86//archive/
+#EXTINF:-1 tvg-logo="" group-title="Channel 87", Channel 87 - Saat 11:00
+http://85.11.144.8/archive/87/20260102-11.mpg
 #EXTINF:-1 tvg-logo="" group-title="Channel 87", Channel 87 - Saat 10:00
 http://85.11.144.8/archive/87/20260102-10.mpg
 #EXTINF:-1 tvg-logo="" group-title="Channel 87", Channel 87 - Saat 09:00
@@ -6137,10 +6139,10 @@ http://85.11.144.8/archive/87/20260101-01.mpg
 http://85.11.144.8/archive/87/20260101-00.mpg
 #EXTINF:-1 tvg-logo="" group-title="Channel 87", Channel 87 - Saat 23:00
 http://85.11.144.8/archive/87/20251231-23.mpg
-#EXTINF:-1 tvg-logo="" group-title="Channel 87", Channel 87 - Saat 22:00
-http://85.11.144.8/archive/87/20251231-22.mpg
 #EXTINF:-1 tvg-logo="" group-title="Channel 87", Channel 87 - Saat /archive/:00
 http://85.11.144.8/archive/87//archive/
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/vignis/LyngSat-Logo/master/logos/tv-1000.png" group-title="TV 1000", TV 1000 - Saat 11:00
+http://85.11.144.8/archive/89/20260102-11.mpg
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/vignis/LyngSat-Logo/master/logos/tv-1000.png" group-title="TV 1000", TV 1000 - Saat 10:00
 http://85.11.144.8/archive/89/20260102-10.mpg
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/vignis/LyngSat-Logo/master/logos/tv-1000.png" group-title="TV 1000", TV 1000 - Saat 09:00
@@ -6189,10 +6191,10 @@ http://85.11.144.8/archive/89/20260101-13.mpg
 http://85.11.144.8/archive/89/20260101-12.mpg
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/vignis/LyngSat-Logo/master/logos/tv-1000.png" group-title="TV 1000", TV 1000 - Saat 11:00
 http://85.11.144.8/archive/89/20260101-11.mpg
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/vignis/LyngSat-Logo/master/logos/tv-1000.png" group-title="TV 1000", TV 1000 - Saat 10:00
-http://85.11.144.8/archive/89/20260101-10.mpg
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/vignis/LyngSat-Logo/master/logos/tv-1000.png" group-title="TV 1000", TV 1000 - Saat /archive/:00
 http://85.11.144.8/archive/89//archive/
+#EXTINF:-1 tvg-logo="" group-title="Channel 92", Channel 92 - Saat 11:00
+http://85.11.144.8/archive/92/20260102-11.mpg
 #EXTINF:-1 tvg-logo="" group-title="Channel 92", Channel 92 - Saat 10:00
 http://85.11.144.8/archive/92/20260102-10.mpg
 #EXTINF:-1 tvg-logo="" group-title="Channel 92", Channel 92 - Saat 09:00
@@ -6265,10 +6267,10 @@ http://85.11.144.8/archive/92/20260101-01.mpg
 http://85.11.144.8/archive/92/20260101-00.mpg
 #EXTINF:-1 tvg-logo="" group-title="Channel 92", Channel 92 - Saat 23:00
 http://85.11.144.8/archive/92/20251231-23.mpg
-#EXTINF:-1 tvg-logo="" group-title="Channel 92", Channel 92 - Saat 22:00
-http://85.11.144.8/archive/92/20251231-22.mpg
 #EXTINF:-1 tvg-logo="" group-title="Channel 92", Channel 92 - Saat /archive/:00
 http://85.11.144.8/archive/92//archive/
+#EXTINF:-1 tvg-logo="" group-title="Channel 94", Channel 94 - Saat 11:00
+http://85.11.144.8/archive/94/20260102-11.mpg
 #EXTINF:-1 tvg-logo="" group-title="Channel 94", Channel 94 - Saat 10:00
 http://85.11.144.8/archive/94/20260102-10.mpg
 #EXTINF:-1 tvg-logo="" group-title="Channel 94", Channel 94 - Saat 09:00
@@ -6365,10 +6367,10 @@ http://85.11.144.8/archive/94/20251231-13.mpg
 http://85.11.144.8/archive/94/20251231-12.mpg
 #EXTINF:-1 tvg-logo="" group-title="Channel 94", Channel 94 - Saat 11:00
 http://85.11.144.8/archive/94/20251231-11.mpg
-#EXTINF:-1 tvg-logo="" group-title="Channel 94", Channel 94 - Saat 10:00
-http://85.11.144.8/archive/94/20251231-10.mpg
 #EXTINF:-1 tvg-logo="" group-title="Channel 94", Channel 94 - Saat /archive/:00
 http://85.11.144.8/archive/94//archive/
+#EXTINF:-1 tvg-logo="" group-title="Channel 95", Channel 95 - Saat 11:00
+http://85.11.144.8/archive/95/20260102-11.mpg
 #EXTINF:-1 tvg-logo="" group-title="Channel 95", Channel 95 - Saat 10:00
 http://85.11.144.8/archive/95/20260102-10.mpg
 #EXTINF:-1 tvg-logo="" group-title="Channel 95", Channel 95 - Saat 09:00
@@ -6465,10 +6467,10 @@ http://85.11.144.8/archive/95/20251231-13.mpg
 http://85.11.144.8/archive/95/20251231-12.mpg
 #EXTINF:-1 tvg-logo="" group-title="Channel 95", Channel 95 - Saat 11:00
 http://85.11.144.8/archive/95/20251231-11.mpg
-#EXTINF:-1 tvg-logo="" group-title="Channel 95", Channel 95 - Saat 10:00
-http://85.11.144.8/archive/95/20251231-10.mpg
 #EXTINF:-1 tvg-logo="" group-title="Channel 95", Channel 95 - Saat /archive/:00
 http://85.11.144.8/archive/95//archive/
+#EXTINF:-1 tvg-logo="" group-title="Channel 96", Channel 96 - Saat 11:00
+http://85.11.144.8/archive/96/20260102-11.mpg
 #EXTINF:-1 tvg-logo="" group-title="Channel 96", Channel 96 - Saat 10:00
 http://85.11.144.8/archive/96/20260102-10.mpg
 #EXTINF:-1 tvg-logo="" group-title="Channel 96", Channel 96 - Saat 09:00
@@ -6565,10 +6567,10 @@ http://85.11.144.8/archive/96/20251231-13.mpg
 http://85.11.144.8/archive/96/20251231-12.mpg
 #EXTINF:-1 tvg-logo="" group-title="Channel 96", Channel 96 - Saat 11:00
 http://85.11.144.8/archive/96/20251231-11.mpg
-#EXTINF:-1 tvg-logo="" group-title="Channel 96", Channel 96 - Saat 10:00
-http://85.11.144.8/archive/96/20251231-10.mpg
 #EXTINF:-1 tvg-logo="" group-title="Channel 96", Channel 96 - Saat /archive/:00
 http://85.11.144.8/archive/96//archive/
+#EXTINF:-1 tvg-logo="" group-title="Channel 108", Channel 108 - Saat 11:00
+http://85.11.144.8/archive/108/20260102-11.mpg
 #EXTINF:-1 tvg-logo="" group-title="Channel 108", Channel 108 - Saat 10:00
 http://85.11.144.8/archive/108/20260102-10.mpg
 #EXTINF:-1 tvg-logo="" group-title="Channel 108", Channel 108 - Saat 09:00
@@ -6665,10 +6667,10 @@ http://85.11.144.8/archive/108/20251231-13.mpg
 http://85.11.144.8/archive/108/20251231-12.mpg
 #EXTINF:-1 tvg-logo="" group-title="Channel 108", Channel 108 - Saat 11:00
 http://85.11.144.8/archive/108/20251231-11.mpg
-#EXTINF:-1 tvg-logo="" group-title="Channel 108", Channel 108 - Saat 10:00
-http://85.11.144.8/archive/108/20251231-10.mpg
 #EXTINF:-1 tvg-logo="" group-title="Channel 108", Channel 108 - Saat /archive/:00
 http://85.11.144.8/archive/108//archive/
+#EXTINF:-1 tvg-logo="" group-title="Channel 114", Channel 114 - Saat 11:00
+http://85.11.144.8/archive/114/20260102-11.mpg
 #EXTINF:-1 tvg-logo="" group-title="Channel 114", Channel 114 - Saat 10:00
 http://85.11.144.8/archive/114/20260102-10.mpg
 #EXTINF:-1 tvg-logo="" group-title="Channel 114", Channel 114 - Saat 09:00
@@ -6741,10 +6743,10 @@ http://85.11.144.8/archive/114/20260101-01.mpg
 http://85.11.144.8/archive/114/20260101-00.mpg
 #EXTINF:-1 tvg-logo="" group-title="Channel 114", Channel 114 - Saat 23:00
 http://85.11.144.8/archive/114/20251231-23.mpg
-#EXTINF:-1 tvg-logo="" group-title="Channel 114", Channel 114 - Saat 22:00
-http://85.11.144.8/archive/114/20251231-22.mpg
 #EXTINF:-1 tvg-logo="" group-title="Channel 114", Channel 114 - Saat /archive/:00
 http://85.11.144.8/archive/114//archive/
+#EXTINF:-1 tvg-logo="" group-title="Channel 137", Channel 137 - Saat 11:00
+http://85.11.144.8/archive/137/20260102-11.mpg
 #EXTINF:-1 tvg-logo="" group-title="Channel 137", Channel 137 - Saat 10:00
 http://85.11.144.8/archive/137/20260102-10.mpg
 #EXTINF:-1 tvg-logo="" group-title="Channel 137", Channel 137 - Saat 09:00
@@ -6817,10 +6819,10 @@ http://85.11.144.8/archive/137/20260101-01.mpg
 http://85.11.144.8/archive/137/20260101-00.mpg
 #EXTINF:-1 tvg-logo="" group-title="Channel 137", Channel 137 - Saat 23:00
 http://85.11.144.8/archive/137/20251231-23.mpg
-#EXTINF:-1 tvg-logo="" group-title="Channel 137", Channel 137 - Saat 22:00
-http://85.11.144.8/archive/137/20251231-22.mpg
 #EXTINF:-1 tvg-logo="" group-title="Channel 137", Channel 137 - Saat /archive/:00
 http://85.11.144.8/archive/137//archive/
+#EXTINF:-1 tvg-logo="" group-title="Channel 182", Channel 182 - Saat 11:00
+http://85.11.144.8/archive/182/20260102-11.mpg
 #EXTINF:-1 tvg-logo="" group-title="Channel 182", Channel 182 - Saat 10:00
 http://85.11.144.8/archive/182/20260102-10.mpg
 #EXTINF:-1 tvg-logo="" group-title="Channel 182", Channel 182 - Saat 09:00
@@ -6917,10 +6919,10 @@ http://85.11.144.8/archive/182/20251231-13.mpg
 http://85.11.144.8/archive/182/20251231-12.mpg
 #EXTINF:-1 tvg-logo="" group-title="Channel 182", Channel 182 - Saat 11:00
 http://85.11.144.8/archive/182/20251231-11.mpg
-#EXTINF:-1 tvg-logo="" group-title="Channel 182", Channel 182 - Saat 10:00
-http://85.11.144.8/archive/182/20251231-10.mpg
 #EXTINF:-1 tvg-logo="" group-title="Channel 182", Channel 182 - Saat /archive/:00
 http://85.11.144.8/archive/182//archive/
+#EXTINF:-1 tvg-logo="" group-title="Channel 192", Channel 192 - Saat 11:00
+http://85.11.144.8/archive/192/20260102-11.mpg
 #EXTINF:-1 tvg-logo="" group-title="Channel 192", Channel 192 - Saat 10:00
 http://85.11.144.8/archive/192/20260102-10.mpg
 #EXTINF:-1 tvg-logo="" group-title="Channel 192", Channel 192 - Saat 09:00
@@ -7017,10 +7019,10 @@ http://85.11.144.8/archive/192/20251231-13.mpg
 http://85.11.144.8/archive/192/20251231-12.mpg
 #EXTINF:-1 tvg-logo="" group-title="Channel 192", Channel 192 - Saat 11:00
 http://85.11.144.8/archive/192/20251231-11.mpg
-#EXTINF:-1 tvg-logo="" group-title="Channel 192", Channel 192 - Saat 10:00
-http://85.11.144.8/archive/192/20251231-10.mpg
 #EXTINF:-1 tvg-logo="" group-title="Channel 192", Channel 192 - Saat /archive/:00
 http://85.11.144.8/archive/192//archive/
+#EXTINF:-1 tvg-logo="" group-title="Channel 197", Channel 197 - Saat 11:00
+http://85.11.144.8/archive/197/20260102-11.mpg
 #EXTINF:-1 tvg-logo="" group-title="Channel 197", Channel 197 - Saat 10:00
 http://85.11.144.8/archive/197/20260102-10.mpg
 #EXTINF:-1 tvg-logo="" group-title="Channel 197", Channel 197 - Saat 09:00
@@ -7165,10 +7167,10 @@ http://85.11.144.8/archive/197/20251230-13.mpg
 http://85.11.144.8/archive/197/20251230-12.mpg
 #EXTINF:-1 tvg-logo="" group-title="Channel 197", Channel 197 - Saat 11:00
 http://85.11.144.8/archive/197/20251230-11.mpg
-#EXTINF:-1 tvg-logo="" group-title="Channel 197", Channel 197 - Saat 10:00
-http://85.11.144.8/archive/197/20251230-10.mpg
 #EXTINF:-1 tvg-logo="" group-title="Channel 197", Channel 197 - Saat /archive/:00
 http://85.11.144.8/archive/197//archive/
+#EXTINF:-1 tvg-logo="" group-title="Channel 209", Channel 209 - Saat 11:00
+http://85.11.144.8/archive/209/20260102-11.mpg
 #EXTINF:-1 tvg-logo="" group-title="Channel 209", Channel 209 - Saat 10:00
 http://85.11.144.8/archive/209/20260102-10.mpg
 #EXTINF:-1 tvg-logo="" group-title="Channel 209", Channel 209 - Saat 09:00
@@ -7265,10 +7267,10 @@ http://85.11.144.8/archive/209/20251231-13.mpg
 http://85.11.144.8/archive/209/20251231-12.mpg
 #EXTINF:-1 tvg-logo="" group-title="Channel 209", Channel 209 - Saat 11:00
 http://85.11.144.8/archive/209/20251231-11.mpg
-#EXTINF:-1 tvg-logo="" group-title="Channel 209", Channel 209 - Saat 10:00
-http://85.11.144.8/archive/209/20251231-10.mpg
 #EXTINF:-1 tvg-logo="" group-title="Channel 209", Channel 209 - Saat /archive/:00
 http://85.11.144.8/archive/209//archive/
+#EXTINF:-1 tvg-logo="" group-title="Channel 485", Channel 485 - Saat 11:00
+http://85.11.144.8/archive/485/20260102-11.mpg
 #EXTINF:-1 tvg-logo="" group-title="Channel 485", Channel 485 - Saat 10:00
 http://85.11.144.8/archive/485/20260102-10.mpg
 #EXTINF:-1 tvg-logo="" group-title="Channel 485", Channel 485 - Saat 09:00
@@ -7413,10 +7415,10 @@ http://85.11.144.8/archive/485/20251230-13.mpg
 http://85.11.144.8/archive/485/20251230-12.mpg
 #EXTINF:-1 tvg-logo="" group-title="Channel 485", Channel 485 - Saat 11:00
 http://85.11.144.8/archive/485/20251230-11.mpg
-#EXTINF:-1 tvg-logo="" group-title="Channel 485", Channel 485 - Saat 10:00
-http://85.11.144.8/archive/485/20251230-10.mpg
 #EXTINF:-1 tvg-logo="" group-title="Channel 485", Channel 485 - Saat /archive/:00
 http://85.11.144.8/archive/485//archive/
+#EXTINF:-1 tvg-logo="" group-title="Channel 592", Channel 592 - Saat 11:00
+http://85.11.144.8/archive/592/20260102-11.mpg
 #EXTINF:-1 tvg-logo="" group-title="Channel 592", Channel 592 - Saat 10:00
 http://85.11.144.8/archive/592/20260102-10.mpg
 #EXTINF:-1 tvg-logo="" group-title="Channel 592", Channel 592 - Saat 09:00
@@ -7561,10 +7563,10 @@ http://85.11.144.8/archive/592/20251230-13.mpg
 http://85.11.144.8/archive/592/20251230-12.mpg
 #EXTINF:-1 tvg-logo="" group-title="Channel 592", Channel 592 - Saat 11:00
 http://85.11.144.8/archive/592/20251230-11.mpg
-#EXTINF:-1 tvg-logo="" group-title="Channel 592", Channel 592 - Saat 10:00
-http://85.11.144.8/archive/592/20251230-10.mpg
 #EXTINF:-1 tvg-logo="" group-title="Channel 592", Channel 592 - Saat /archive/:00
 http://85.11.144.8/archive/592//archive/
+#EXTINF:-1 tvg-logo="" group-title="Channel 746", Channel 746 - Saat 11:00
+http://85.11.144.8/archive/746/20260102-11.mpg
 #EXTINF:-1 tvg-logo="" group-title="Channel 746", Channel 746 - Saat 10:00
 http://85.11.144.8/archive/746/20260102-10.mpg
 #EXTINF:-1 tvg-logo="" group-title="Channel 746", Channel 746 - Saat 09:00
@@ -7661,10 +7663,10 @@ http://85.11.144.8/archive/746/20251231-13.mpg
 http://85.11.144.8/archive/746/20251231-12.mpg
 #EXTINF:-1 tvg-logo="" group-title="Channel 746", Channel 746 - Saat 11:00
 http://85.11.144.8/archive/746/20251231-11.mpg
-#EXTINF:-1 tvg-logo="" group-title="Channel 746", Channel 746 - Saat 10:00
-http://85.11.144.8/archive/746/20251231-10.mpg
 #EXTINF:-1 tvg-logo="" group-title="Channel 746", Channel 746 - Saat /archive/:00
 http://85.11.144.8/archive/746//archive/
+#EXTINF:-1 tvg-logo="" group-title="Channel 1049", Channel 1049 - Saat 11:00
+http://85.11.144.8/archive/1049/20260102-11.mpg
 #EXTINF:-1 tvg-logo="" group-title="Channel 1049", Channel 1049 - Saat 10:00
 http://85.11.144.8/archive/1049/20260102-10.mpg
 #EXTINF:-1 tvg-logo="" group-title="Channel 1049", Channel 1049 - Saat 09:00
@@ -7809,10 +7811,10 @@ http://85.11.144.8/archive/1049/20251230-13.mpg
 http://85.11.144.8/archive/1049/20251230-12.mpg
 #EXTINF:-1 tvg-logo="" group-title="Channel 1049", Channel 1049 - Saat 11:00
 http://85.11.144.8/archive/1049/20251230-11.mpg
-#EXTINF:-1 tvg-logo="" group-title="Channel 1049", Channel 1049 - Saat 10:00
-http://85.11.144.8/archive/1049/20251230-10.mpg
 #EXTINF:-1 tvg-logo="" group-title="Channel 1049", Channel 1049 - Saat /archive/:00
 http://85.11.144.8/archive/1049//archive/
+#EXTINF:-1 tvg-logo="" group-title="Channel 1380", Channel 1380 - Saat 11:00
+http://85.11.144.8/archive/1380/20260102-11.mpg
 #EXTINF:-1 tvg-logo="" group-title="Channel 1380", Channel 1380 - Saat 10:00
 http://85.11.144.8/archive/1380/20260102-10.mpg
 #EXTINF:-1 tvg-logo="" group-title="Channel 1380", Channel 1380 - Saat 09:00
@@ -7957,10 +7959,10 @@ http://85.11.144.8/archive/1380/20251230-13.mpg
 http://85.11.144.8/archive/1380/20251230-12.mpg
 #EXTINF:-1 tvg-logo="" group-title="Channel 1380", Channel 1380 - Saat 11:00
 http://85.11.144.8/archive/1380/20251230-11.mpg
-#EXTINF:-1 tvg-logo="" group-title="Channel 1380", Channel 1380 - Saat 10:00
-http://85.11.144.8/archive/1380/20251230-10.mpg
 #EXTINF:-1 tvg-logo="" group-title="Channel 1380", Channel 1380 - Saat /archive/:00
 http://85.11.144.8/archive/1380//archive/
+#EXTINF:-1 tvg-logo="" group-title="Channel 1498", Channel 1498 - Saat 11:00
+http://85.11.144.8/archive/1498/20260102-11.mpg
 #EXTINF:-1 tvg-logo="" group-title="Channel 1498", Channel 1498 - Saat 10:00
 http://85.11.144.8/archive/1498/20260102-10.mpg
 #EXTINF:-1 tvg-logo="" group-title="Channel 1498", Channel 1498 - Saat 09:00
@@ -8105,10 +8107,10 @@ http://85.11.144.8/archive/1498/20251230-13.mpg
 http://85.11.144.8/archive/1498/20251230-12.mpg
 #EXTINF:-1 tvg-logo="" group-title="Channel 1498", Channel 1498 - Saat 11:00
 http://85.11.144.8/archive/1498/20251230-11.mpg
-#EXTINF:-1 tvg-logo="" group-title="Channel 1498", Channel 1498 - Saat 10:00
-http://85.11.144.8/archive/1498/20251230-10.mpg
 #EXTINF:-1 tvg-logo="" group-title="Channel 1498", Channel 1498 - Saat /archive/:00
 http://85.11.144.8/archive/1498//archive/
+#EXTINF:-1 tvg-logo="" group-title="Channel 1670", Channel 1670 - Saat 11:00
+http://85.11.144.8/archive/1670/20260102-11.mpg
 #EXTINF:-1 tvg-logo="" group-title="Channel 1670", Channel 1670 - Saat 10:00
 http://85.11.144.8/archive/1670/20260102-10.mpg
 #EXTINF:-1 tvg-logo="" group-title="Channel 1670", Channel 1670 - Saat 09:00
@@ -8253,10 +8255,10 @@ http://85.11.144.8/archive/1670/20251230-13.mpg
 http://85.11.144.8/archive/1670/20251230-12.mpg
 #EXTINF:-1 tvg-logo="" group-title="Channel 1670", Channel 1670 - Saat 11:00
 http://85.11.144.8/archive/1670/20251230-11.mpg
-#EXTINF:-1 tvg-logo="" group-title="Channel 1670", Channel 1670 - Saat 10:00
-http://85.11.144.8/archive/1670/20251230-10.mpg
 #EXTINF:-1 tvg-logo="" group-title="Channel 1670", Channel 1670 - Saat /archive/:00
 http://85.11.144.8/archive/1670//archive/
+#EXTINF:-1 tvg-logo="" group-title="Channel 1721", Channel 1721 - Saat 11:00
+http://85.11.144.8/archive/1721/20260102-11.mpg
 #EXTINF:-1 tvg-logo="" group-title="Channel 1721", Channel 1721 - Saat 10:00
 http://85.11.144.8/archive/1721/20260102-10.mpg
 #EXTINF:-1 tvg-logo="" group-title="Channel 1721", Channel 1721 - Saat 09:00
@@ -8401,10 +8403,10 @@ http://85.11.144.8/archive/1721/20251230-13.mpg
 http://85.11.144.8/archive/1721/20251230-12.mpg
 #EXTINF:-1 tvg-logo="" group-title="Channel 1721", Channel 1721 - Saat 11:00
 http://85.11.144.8/archive/1721/20251230-11.mpg
-#EXTINF:-1 tvg-logo="" group-title="Channel 1721", Channel 1721 - Saat 10:00
-http://85.11.144.8/archive/1721/20251230-10.mpg
 #EXTINF:-1 tvg-logo="" group-title="Channel 1721", Channel 1721 - Saat /archive/:00
 http://85.11.144.8/archive/1721//archive/
+#EXTINF:-1 tvg-logo="" group-title="Channel 1752", Channel 1752 - Saat 11:00
+http://85.11.144.8/archive/1752/20260102-11.mpg
 #EXTINF:-1 tvg-logo="" group-title="Channel 1752", Channel 1752 - Saat 10:00
 http://85.11.144.8/archive/1752/20260102-10.mpg
 #EXTINF:-1 tvg-logo="" group-title="Channel 1752", Channel 1752 - Saat 09:00
@@ -8549,10 +8551,10 @@ http://85.11.144.8/archive/1752/20251230-13.mpg
 http://85.11.144.8/archive/1752/20251230-12.mpg
 #EXTINF:-1 tvg-logo="" group-title="Channel 1752", Channel 1752 - Saat 11:00
 http://85.11.144.8/archive/1752/20251230-11.mpg
-#EXTINF:-1 tvg-logo="" group-title="Channel 1752", Channel 1752 - Saat 10:00
-http://85.11.144.8/archive/1752/20251230-10.mpg
 #EXTINF:-1 tvg-logo="" group-title="Channel 1752", Channel 1752 - Saat /archive/:00
 http://85.11.144.8/archive/1752//archive/
+#EXTINF:-1 tvg-logo="" group-title="Channel 1931", Channel 1931 - Saat 11:00
+http://85.11.144.8/archive/1931/20260102-11.mpg
 #EXTINF:-1 tvg-logo="" group-title="Channel 1931", Channel 1931 - Saat 10:00
 http://85.11.144.8/archive/1931/20260102-10.mpg
 #EXTINF:-1 tvg-logo="" group-title="Channel 1931", Channel 1931 - Saat 09:00
@@ -8649,10 +8651,10 @@ http://85.11.144.8/archive/1931/20251231-13.mpg
 http://85.11.144.8/archive/1931/20251231-12.mpg
 #EXTINF:-1 tvg-logo="" group-title="Channel 1931", Channel 1931 - Saat 11:00
 http://85.11.144.8/archive/1931/20251231-11.mpg
-#EXTINF:-1 tvg-logo="" group-title="Channel 1931", Channel 1931 - Saat 10:00
-http://85.11.144.8/archive/1931/20251231-10.mpg
 #EXTINF:-1 tvg-logo="" group-title="Channel 1931", Channel 1931 - Saat /archive/:00
 http://85.11.144.8/archive/1931//archive/
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/vignis/LyngSat-Logo/master/logos/bnt-1.png" group-title="BNT 1", BNT 1 - Saat 11:00
+http://85.11.144.8/archive/1932/20260102-11.mpg
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/vignis/LyngSat-Logo/master/logos/bnt-1.png" group-title="BNT 1", BNT 1 - Saat 10:00
 http://85.11.144.8/archive/1932/20260102-10.mpg
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/vignis/LyngSat-Logo/master/logos/bnt-1.png" group-title="BNT 1", BNT 1 - Saat 09:00
@@ -8845,7 +8847,5 @@ http://85.11.144.8/archive/1932/20251229-13.mpg
 http://85.11.144.8/archive/1932/20251229-12.mpg
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/vignis/LyngSat-Logo/master/logos/bnt-1.png" group-title="BNT 1", BNT 1 - Saat 11:00
 http://85.11.144.8/archive/1932/20251229-11.mpg
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/vignis/LyngSat-Logo/master/logos/bnt-1.png" group-title="BNT 1", BNT 1 - Saat 10:00
-http://85.11.144.8/archive/1932/20251229-10.mpg
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/vignis/LyngSat-Logo/master/logos/bnt-1.png" group-title="BNT 1", BNT 1 - Saat /archive/:00
 http://85.11.144.8/archive/1932//archive/
