@@ -8,7 +8,7 @@ from datetime import datetime
 ARCHIVE_URL = "http://85.11.144.8/archive/"
 LOGO_BASE = "https://www.seirsanduk.net/images/tvlogo/"
 
-# Kanal ID'lerine göre İsim ve Logo Eşleştirmeleri
+# Kanal Bilgileri
 CHANNEL_DATA = {
     "2": {"name": "bTV HD", "logo": "btv-hd.png"},
     "3": {"name": "Nova TV HD", "logo": "nova-tv-hd.png"},
@@ -29,6 +29,7 @@ CHANNEL_DATA = {
 def get_links(url):
     try:
         response = requests.get(url, timeout=15)
+        # Sadece temiz linkleri al, parametreli olanları (?C=M vb.) ele
         links = re.findall(r'href="([^?].*?)"', response.text)
         return [l for l in links if l not in ['../', './']]
     except:
@@ -43,22 +44,33 @@ with open(output_file, "w", encoding="utf-8") as f:
     found_folders = get_links(ARCHIVE_URL)
     
     for folder in found_folders:
-        channel_id = folder.replace("/", "")
-        data = CHANNEL_DATA.get(channel_id, {"name": f"Channel {channel_id}", "logo": ""})
+        # Klasör ismindeki / işaretini temizle
+        channel_id = folder.strip("/")
         
-        channel_url = ARCHIVE_URL + folder
-        video_files = get_links(channel_url)
-        
-        if video_files:
-            video_files.reverse() 
+        # Sadece CHANNEL_DATA içindeki kanalları işle (Böylece boş "Channel" isimleri çıkmaz)
+        if channel_id in CHANNEL_DATA:
+            data = CHANNEL_DATA[channel_id]
+            channel_url = ARCHIVE_URL + folder
+            video_files = get_links(channel_url)
             
-            for video_file in video_files:
-                video_url = channel_url + video_file
-                time_label = video_file.split('-')[-1].replace('.mpg', '')
+            if video_files:
+                video_files.reverse() 
                 
-                logo_url = LOGO_BASE + data["logo"] if data["logo"] else ""
-                display_name = f"{data['name']} ({bugun} - {time_label}:00)"
-                
-                # M3U Yazımı
-                f.write(f'#EXTINF:-1 tvg-logo="{logo_url}" group-title="{data["name"]}",{display_name}\n')
-                f.write(f"{video_url}\n")
+                for video_file in video_files:
+                    # Sadece .mpg ile biten gerçek video dosyalarını işle
+                    if not video_file.endswith('.mpg'):
+                        continue
+                        
+                    video_url = channel_url + video_file
+                    
+                    # Saat kısmındaki garip karakterleri (/, ?) temizle
+                    raw_time = video_file.split('-')[-1].replace('.mpg', '')
+                    time_label = "".join(filter(str.isdigit, raw_time)) # Sadece rakamları al
+                    
+                    if not time_label: continue # Eğer rakam yoksa atla
+                    
+                    logo_url = LOGO_BASE + data["logo"]
+                    display_name = f"{data['name']} ({bugun} - {time_label}:00)"
+                    
+                    f.write(f'#EXTINF:-1 tvg-logo="{logo_url}" group-title="{data["name"]}",{display_name}\n')
+                    f.write(f"{video_url}\n")
