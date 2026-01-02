@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://www.seirsanduk.net/images/tvlogo/btv.png" group-title="bTV",bTV (21:00 - 02.01)
+http://85.11.144.8/archive/2/20260102-21.mpg
 #EXTINF:-1 tvg-logo="https://www.seirsanduk.net/images/tvlogo/btv.png" group-title="bTV",bTV (20:00 - 02.01)
 http://85.11.144.8/archive/2/20260102-20.mpg
 #EXTINF:-1 tvg-logo="https://www.seirsanduk.net/images/tvlogo/btv.png" group-title="bTV",bTV (19:00 - 02.01)
@@ -239,8 +241,8 @@ http://85.11.144.8/archive/2/20251228-23.mpg
 http://85.11.144.8/archive/2/20251228-22.mpg
 #EXTINF:-1 tvg-logo="https://www.seirsanduk.net/images/tvlogo/btv.png" group-title="bTV",bTV (21:00 - 02.01)
 http://85.11.144.8/archive/2/20251228-21.mpg
-#EXTINF:-1 tvg-logo="https://www.seirsanduk.net/images/tvlogo/btv.png" group-title="bTV",bTV (20:00 - 02.01)
-http://85.11.144.8/archive/2/20251228-20.mpg
+#EXTINF:-1 tvg-logo="https://www.seirsanduk.net/images/tvlogo/nova.png" group-title="Nova",Nova (21:00 - 02.01)
+http://85.11.144.8/archive/3/20260102-21.mpg
 #EXTINF:-1 tvg-logo="https://www.seirsanduk.net/images/tvlogo/nova.png" group-title="Nova",Nova (20:00 - 02.01)
 http://85.11.144.8/archive/3/20260102-20.mpg
 #EXTINF:-1 tvg-logo="https://www.seirsanduk.net/images/tvlogo/nova.png" group-title="Nova",Nova (19:00 - 02.01)
@@ -481,8 +483,8 @@ http://85.11.144.8/archive/3/20251228-23.mpg
 http://85.11.144.8/archive/3/20251228-22.mpg
 #EXTINF:-1 tvg-logo="https://www.seirsanduk.net/images/tvlogo/nova.png" group-title="Nova",Nova (21:00 - 02.01)
 http://85.11.144.8/archive/3/20251228-21.mpg
-#EXTINF:-1 tvg-logo="https://www.seirsanduk.net/images/tvlogo/nova.png" group-title="Nova",Nova (20:00 - 02.01)
-http://85.11.144.8/archive/3/20251228-20.mpg
+#EXTINF:-1 tvg-logo="https://www.seirsanduk.net/images/tvlogo/btv-cinema.png" group-title="bTV Cinema",bTV Cinema (21:00 - 02.01)
+http://85.11.144.8/archive/4/20260102-21.mpg
 #EXTINF:-1 tvg-logo="https://www.seirsanduk.net/images/tvlogo/btv-cinema.png" group-title="bTV Cinema",bTV Cinema (20:00 - 02.01)
 http://85.11.144.8/archive/4/20260102-20.mpg
 #EXTINF:-1 tvg-logo="https://www.seirsanduk.net/images/tvlogo/btv-cinema.png" group-title="bTV Cinema",bTV Cinema (19:00 - 02.01)
@@ -675,8 +677,8 @@ http://85.11.144.8/archive/4/20251229-23.mpg
 http://85.11.144.8/archive/4/20251229-22.mpg
 #EXTINF:-1 tvg-logo="https://www.seirsanduk.net/images/tvlogo/btv-cinema.png" group-title="bTV Cinema",bTV Cinema (21:00 - 02.01)
 http://85.11.144.8/archive/4/20251229-21.mpg
-#EXTINF:-1 tvg-logo="https://www.seirsanduk.net/images/tvlogo/btv-cinema.png" group-title="bTV Cinema",bTV Cinema (20:00 - 02.01)
-http://85.11.144.8/archive/4/20251229-20.mpg
+#EXTINF:-1 tvg-logo="https://www.seirsanduk.net/images/tvlogo/diema.png" group-title="Diema",Diema (21:00 - 02.01)
+http://85.11.144.8/archive/5/20260102-21.mpg
 #EXTINF:-1 tvg-logo="https://www.seirsanduk.net/images/tvlogo/diema.png" group-title="Diema",Diema (20:00 - 02.01)
 http://85.11.144.8/archive/5/20260102-20.mpg
 #EXTINF:-1 tvg-logo="https://www.seirsanduk.net/images/tvlogo/diema.png" group-title="Diema",Diema (19:00 - 02.01)
@@ -869,8 +871,8 @@ http://85.11.144.8/archive/5/20251229-23.mpg
 http://85.11.144.8/archive/5/20251229-22.mpg
 #EXTINF:-1 tvg-logo="https://www.seirsanduk.net/images/tvlogo/diema.png" group-title="Diema",Diema (21:00 - 02.01)
 http://85.11.144.8/archive/5/20251229-21.mpg
-#EXTINF:-1 tvg-logo="https://www.seirsanduk.net/images/tvlogo/diema.png" group-title="Diema",Diema (20:00 - 02.01)
-http://85.11.144.8/archive/5/20251229-20.mpg
+#EXTINF:-1 tvg-logo="https://www.seirsanduk.net/images/tvlogo/btv-comedy.png" group-title="bTV Comedy",bTV Comedy (21:00 - 02.01)
+http://85.11.144.8/archive/6/20260102-21.mpg
 #EXTINF:-1 tvg-logo="https://www.seirsanduk.net/images/tvlogo/btv-comedy.png" group-title="bTV Comedy",bTV Comedy (20:00 - 02.01)
 http://85.11.144.8/archive/6/20260102-20.mpg
 #EXTINF:-1 tvg-logo="https://www.seirsanduk.net/images/tvlogo/btv-comedy.png" group-title="bTV Comedy",bTV Comedy (19:00 - 02.01)
@@ -967,8 +969,8 @@ http://85.11.144.8/archive/6/20251231-23.mpg
 http://85.11.144.8/archive/6/20251231-22.mpg
 #EXTINF:-1 tvg-logo="https://www.seirsanduk.net/images/tvlogo/btv-comedy.png" group-title="bTV Comedy",bTV Comedy (21:00 - 02.01)
 http://85.11.144.8/archive/6/20251231-21.mpg
-#EXTINF:-1 tvg-logo="https://www.seirsanduk.net/images/tvlogo/btv-comedy.png" group-title="bTV Comedy",bTV Comedy (20:00 - 02.01)
-http://85.11.144.8/archive/6/20251231-20.mpg
+#EXTINF:-1 tvg-logo="https://www.seirsanduk.net/images/tvlogo/hbo-3.png" group-title="HBO 3",HBO 3 (21:00 - 02.01)
+http://85.11.144.8/archive/7/20260102-21.mpg
 #EXTINF:-1 tvg-logo="https://www.seirsanduk.net/images/tvlogo/hbo-3.png" group-title="HBO 3",HBO 3 (20:00 - 02.01)
 http://85.11.144.8/archive/7/20260102-20.mpg
 #EXTINF:-1 tvg-logo="https://www.seirsanduk.net/images/tvlogo/hbo-3.png" group-title="HBO 3",HBO 3 (19:00 - 02.01)
@@ -1161,8 +1163,8 @@ http://85.11.144.8/archive/7/20251229-23.mpg
 http://85.11.144.8/archive/7/20251229-22.mpg
 #EXTINF:-1 tvg-logo="https://www.seirsanduk.net/images/tvlogo/hbo-3.png" group-title="HBO 3",HBO 3 (21:00 - 02.01)
 http://85.11.144.8/archive/7/20251229-21.mpg
-#EXTINF:-1 tvg-logo="https://www.seirsanduk.net/images/tvlogo/hbo-3.png" group-title="HBO 3",HBO 3 (20:00 - 02.01)
-http://85.11.144.8/archive/7/20251229-20.mpg
+#EXTINF:-1 tvg-logo="https://www.seirsanduk.net/images/tvlogo/axn.png" group-title="AXN",AXN (21:00 - 02.01)
+http://85.11.144.8/archive/8/20260102-21.mpg
 #EXTINF:-1 tvg-logo="https://www.seirsanduk.net/images/tvlogo/axn.png" group-title="AXN",AXN (20:00 - 02.01)
 http://85.11.144.8/archive/8/20260102-20.mpg
 #EXTINF:-1 tvg-logo="https://www.seirsanduk.net/images/tvlogo/axn.png" group-title="AXN",AXN (19:00 - 02.01)
@@ -1355,8 +1357,8 @@ http://85.11.144.8/archive/8/20251229-23.mpg
 http://85.11.144.8/archive/8/20251229-22.mpg
 #EXTINF:-1 tvg-logo="https://www.seirsanduk.net/images/tvlogo/axn.png" group-title="AXN",AXN (21:00 - 02.01)
 http://85.11.144.8/archive/8/20251229-21.mpg
-#EXTINF:-1 tvg-logo="https://www.seirsanduk.net/images/tvlogo/axn.png" group-title="AXN",AXN (20:00 - 02.01)
-http://85.11.144.8/archive/8/20251229-20.mpg
+#EXTINF:-1 tvg-logo="https://www.seirsanduk.net/images/tvlogo/kino-nova.png" group-title="Kino Nova",Kino Nova (21:00 - 02.01)
+http://85.11.144.8/archive/9/20260102-21.mpg
 #EXTINF:-1 tvg-logo="https://www.seirsanduk.net/images/tvlogo/kino-nova.png" group-title="Kino Nova",Kino Nova (20:00 - 02.01)
 http://85.11.144.8/archive/9/20260102-20.mpg
 #EXTINF:-1 tvg-logo="https://www.seirsanduk.net/images/tvlogo/kino-nova.png" group-title="Kino Nova",Kino Nova (19:00 - 02.01)
@@ -1549,8 +1551,8 @@ http://85.11.144.8/archive/9/20251229-23.mpg
 http://85.11.144.8/archive/9/20251229-22.mpg
 #EXTINF:-1 tvg-logo="https://www.seirsanduk.net/images/tvlogo/kino-nova.png" group-title="Kino Nova",Kino Nova (21:00 - 02.01)
 http://85.11.144.8/archive/9/20251229-21.mpg
-#EXTINF:-1 tvg-logo="https://www.seirsanduk.net/images/tvlogo/kino-nova.png" group-title="Kino Nova",Kino Nova (20:00 - 02.01)
-http://85.11.144.8/archive/9/20251229-20.mpg
+#EXTINF:-1 tvg-logo="https://www.seirsanduk.net/images/tvlogo/nova-sport.png" group-title="Nova Sport",Nova Sport (21:00 - 02.01)
+http://85.11.144.8/archive/10/20260102-21.mpg
 #EXTINF:-1 tvg-logo="https://www.seirsanduk.net/images/tvlogo/nova-sport.png" group-title="Nova Sport",Nova Sport (20:00 - 02.01)
 http://85.11.144.8/archive/10/20260102-20.mpg
 #EXTINF:-1 tvg-logo="https://www.seirsanduk.net/images/tvlogo/nova-sport.png" group-title="Nova Sport",Nova Sport (19:00 - 02.01)
@@ -1743,8 +1745,8 @@ http://85.11.144.8/archive/10/20251229-23.mpg
 http://85.11.144.8/archive/10/20251229-22.mpg
 #EXTINF:-1 tvg-logo="https://www.seirsanduk.net/images/tvlogo/nova-sport.png" group-title="Nova Sport",Nova Sport (21:00 - 02.01)
 http://85.11.144.8/archive/10/20251229-21.mpg
-#EXTINF:-1 tvg-logo="https://www.seirsanduk.net/images/tvlogo/nova-sport.png" group-title="Nova Sport",Nova Sport (20:00 - 02.01)
-http://85.11.144.8/archive/10/20251229-20.mpg
+#EXTINF:-1 tvg-logo="https://www.seirsanduk.net/images/tvlogo/btv-action.png" group-title="bTV Action",bTV Action (21:00 - 02.01)
+http://85.11.144.8/archive/11/20260102-21.mpg
 #EXTINF:-1 tvg-logo="https://www.seirsanduk.net/images/tvlogo/btv-action.png" group-title="bTV Action",bTV Action (20:00 - 02.01)
 http://85.11.144.8/archive/11/20260102-20.mpg
 #EXTINF:-1 tvg-logo="https://www.seirsanduk.net/images/tvlogo/btv-action.png" group-title="bTV Action",bTV Action (19:00 - 02.01)
@@ -1937,8 +1939,8 @@ http://85.11.144.8/archive/11/20251229-23.mpg
 http://85.11.144.8/archive/11/20251229-22.mpg
 #EXTINF:-1 tvg-logo="https://www.seirsanduk.net/images/tvlogo/btv-action.png" group-title="bTV Action",bTV Action (21:00 - 02.01)
 http://85.11.144.8/archive/11/20251229-21.mpg
-#EXTINF:-1 tvg-logo="https://www.seirsanduk.net/images/tvlogo/btv-action.png" group-title="bTV Action",bTV Action (20:00 - 02.01)
-http://85.11.144.8/archive/11/20251229-20.mpg
+#EXTINF:-1 tvg-logo="https://www.seirsanduk.net/images/tvlogo/diema-family.png" group-title="Diema Family",Diema Family (21:00 - 02.01)
+http://85.11.144.8/archive/12/20260102-21.mpg
 #EXTINF:-1 tvg-logo="https://www.seirsanduk.net/images/tvlogo/diema-family.png" group-title="Diema Family",Diema Family (20:00 - 02.01)
 http://85.11.144.8/archive/12/20260102-20.mpg
 #EXTINF:-1 tvg-logo="https://www.seirsanduk.net/images/tvlogo/diema-family.png" group-title="Diema Family",Diema Family (19:00 - 02.01)
@@ -2131,8 +2133,8 @@ http://85.11.144.8/archive/12/20251229-23.mpg
 http://85.11.144.8/archive/12/20251229-22.mpg
 #EXTINF:-1 tvg-logo="https://www.seirsanduk.net/images/tvlogo/diema-family.png" group-title="Diema Family",Diema Family (21:00 - 02.01)
 http://85.11.144.8/archive/12/20251229-21.mpg
-#EXTINF:-1 tvg-logo="https://www.seirsanduk.net/images/tvlogo/diema-family.png" group-title="Diema Family",Diema Family (20:00 - 02.01)
-http://85.11.144.8/archive/12/20251229-20.mpg
+#EXTINF:-1 tvg-logo="https://www.seirsanduk.net/images/tvlogo/btv-story.png" group-title="bTV Story",bTV Story (21:00 - 02.01)
+http://85.11.144.8/archive/13/20260102-21.mpg
 #EXTINF:-1 tvg-logo="https://www.seirsanduk.net/images/tvlogo/btv-story.png" group-title="bTV Story",bTV Story (20:00 - 02.01)
 http://85.11.144.8/archive/13/20260102-20.mpg
 #EXTINF:-1 tvg-logo="https://www.seirsanduk.net/images/tvlogo/btv-story.png" group-title="bTV Story",bTV Story (19:00 - 02.01)
@@ -2325,8 +2327,8 @@ http://85.11.144.8/archive/13/20251229-23.mpg
 http://85.11.144.8/archive/13/20251229-22.mpg
 #EXTINF:-1 tvg-logo="https://www.seirsanduk.net/images/tvlogo/btv-story.png" group-title="bTV Story",bTV Story (21:00 - 02.01)
 http://85.11.144.8/archive/13/20251229-21.mpg
-#EXTINF:-1 tvg-logo="https://www.seirsanduk.net/images/tvlogo/btv-story.png" group-title="bTV Story",bTV Story (20:00 - 02.01)
-http://85.11.144.8/archive/13/20251229-20.mpg
+#EXTINF:-1 tvg-logo="https://www.seirsanduk.net/images/tvlogo/axn-black.png" group-title="AXN Black",AXN Black (21:00 - 02.01)
+http://85.11.144.8/archive/14/20260102-21.mpg
 #EXTINF:-1 tvg-logo="https://www.seirsanduk.net/images/tvlogo/axn-black.png" group-title="AXN Black",AXN Black (20:00 - 02.01)
 http://85.11.144.8/archive/14/20260102-20.mpg
 #EXTINF:-1 tvg-logo="https://www.seirsanduk.net/images/tvlogo/axn-black.png" group-title="AXN Black",AXN Black (19:00 - 02.01)
@@ -2519,8 +2521,8 @@ http://85.11.144.8/archive/14/20251229-23.mpg
 http://85.11.144.8/archive/14/20251229-22.mpg
 #EXTINF:-1 tvg-logo="https://www.seirsanduk.net/images/tvlogo/axn-black.png" group-title="AXN Black",AXN Black (21:00 - 02.01)
 http://85.11.144.8/archive/14/20251229-21.mpg
-#EXTINF:-1 tvg-logo="https://www.seirsanduk.net/images/tvlogo/axn-black.png" group-title="AXN Black",AXN Black (20:00 - 02.01)
-http://85.11.144.8/archive/14/20251229-20.mpg
+#EXTINF:-1 tvg-logo="https://www.seirsanduk.net/images/tvlogo/axn-white.png" group-title="AXN White",AXN White (21:00 - 02.01)
+http://85.11.144.8/archive/15/20260102-21.mpg
 #EXTINF:-1 tvg-logo="https://www.seirsanduk.net/images/tvlogo/axn-white.png" group-title="AXN White",AXN White (20:00 - 02.01)
 http://85.11.144.8/archive/15/20260102-20.mpg
 #EXTINF:-1 tvg-logo="https://www.seirsanduk.net/images/tvlogo/axn-white.png" group-title="AXN White",AXN White (19:00 - 02.01)
@@ -2713,8 +2715,8 @@ http://85.11.144.8/archive/15/20251229-23.mpg
 http://85.11.144.8/archive/15/20251229-22.mpg
 #EXTINF:-1 tvg-logo="https://www.seirsanduk.net/images/tvlogo/axn-white.png" group-title="AXN White",AXN White (21:00 - 02.01)
 http://85.11.144.8/archive/15/20251229-21.mpg
-#EXTINF:-1 tvg-logo="https://www.seirsanduk.net/images/tvlogo/axn-white.png" group-title="AXN White",AXN White (20:00 - 02.01)
-http://85.11.144.8/archive/15/20251229-20.mpg
+#EXTINF:-1 tvg-logo="https://www.seirsanduk.net/images/tvlogo/bnt-2.png" group-title="BNT 2",BNT 2 (21:00 - 02.01)
+http://85.11.144.8/archive/16/20260102-21.mpg
 #EXTINF:-1 tvg-logo="https://www.seirsanduk.net/images/tvlogo/bnt-2.png" group-title="BNT 2",BNT 2 (20:00 - 02.01)
 http://85.11.144.8/archive/16/20260102-20.mpg
 #EXTINF:-1 tvg-logo="https://www.seirsanduk.net/images/tvlogo/bnt-2.png" group-title="BNT 2",BNT 2 (19:00 - 02.01)
@@ -2907,8 +2909,8 @@ http://85.11.144.8/archive/16/20251229-23.mpg
 http://85.11.144.8/archive/16/20251229-22.mpg
 #EXTINF:-1 tvg-logo="https://www.seirsanduk.net/images/tvlogo/bnt-2.png" group-title="BNT 2",BNT 2 (21:00 - 02.01)
 http://85.11.144.8/archive/16/20251229-21.mpg
-#EXTINF:-1 tvg-logo="https://www.seirsanduk.net/images/tvlogo/bnt-2.png" group-title="BNT 2",BNT 2 (20:00 - 02.01)
-http://85.11.144.8/archive/16/20251229-20.mpg
+#EXTINF:-1 tvg-logo="https://www.seirsanduk.net/images/tvlogo/bnt-4.png" group-title="BNT 4",BNT 4 (21:00 - 02.01)
+http://85.11.144.8/archive/17/20260102-21.mpg
 #EXTINF:-1 tvg-logo="https://www.seirsanduk.net/images/tvlogo/bnt-4.png" group-title="BNT 4",BNT 4 (20:00 - 02.01)
 http://85.11.144.8/archive/17/20260102-20.mpg
 #EXTINF:-1 tvg-logo="https://www.seirsanduk.net/images/tvlogo/bnt-4.png" group-title="BNT 4",BNT 4 (19:00 - 02.01)
@@ -3101,8 +3103,8 @@ http://85.11.144.8/archive/17/20251229-23.mpg
 http://85.11.144.8/archive/17/20251229-22.mpg
 #EXTINF:-1 tvg-logo="https://www.seirsanduk.net/images/tvlogo/bnt-4.png" group-title="BNT 4",BNT 4 (21:00 - 02.01)
 http://85.11.144.8/archive/17/20251229-21.mpg
-#EXTINF:-1 tvg-logo="https://www.seirsanduk.net/images/tvlogo/bnt-4.png" group-title="BNT 4",BNT 4 (20:00 - 02.01)
-http://85.11.144.8/archive/17/20251229-20.mpg
+#EXTINF:-1 tvg-logo="https://www.seirsanduk.net/images/tvlogo/bulgaria-on-air.png" group-title="Bulgaria ON AIR",Bulgaria ON AIR (21:00 - 02.01)
+http://85.11.144.8/archive/18/20260102-21.mpg
 #EXTINF:-1 tvg-logo="https://www.seirsanduk.net/images/tvlogo/bulgaria-on-air.png" group-title="Bulgaria ON AIR",Bulgaria ON AIR (20:00 - 02.01)
 http://85.11.144.8/archive/18/20260102-20.mpg
 #EXTINF:-1 tvg-logo="https://www.seirsanduk.net/images/tvlogo/bulgaria-on-air.png" group-title="Bulgaria ON AIR",Bulgaria ON AIR (19:00 - 02.01)
@@ -3295,8 +3297,8 @@ http://85.11.144.8/archive/18/20251229-23.mpg
 http://85.11.144.8/archive/18/20251229-22.mpg
 #EXTINF:-1 tvg-logo="https://www.seirsanduk.net/images/tvlogo/bulgaria-on-air.png" group-title="Bulgaria ON AIR",Bulgaria ON AIR (21:00 - 02.01)
 http://85.11.144.8/archive/18/20251229-21.mpg
-#EXTINF:-1 tvg-logo="https://www.seirsanduk.net/images/tvlogo/bulgaria-on-air.png" group-title="Bulgaria ON AIR",Bulgaria ON AIR (20:00 - 02.01)
-http://85.11.144.8/archive/18/20251229-20.mpg
+#EXTINF:-1 tvg-logo="https://www.seirsanduk.net/images/tvlogo/alfa.png" group-title="ALFA Ataka",ALFA Ataka (21:00 - 02.01)
+http://85.11.144.8/archive/20/20260102-21.mpg
 #EXTINF:-1 tvg-logo="https://www.seirsanduk.net/images/tvlogo/alfa.png" group-title="ALFA Ataka",ALFA Ataka (20:00 - 02.01)
 http://85.11.144.8/archive/20/20260102-20.mpg
 #EXTINF:-1 tvg-logo="https://www.seirsanduk.net/images/tvlogo/alfa.png" group-title="ALFA Ataka",ALFA Ataka (19:00 - 02.01)
@@ -3369,8 +3371,8 @@ http://85.11.144.8/archive/20/20260101-11.mpg
 http://85.11.144.8/archive/20/20260101-10.mpg
 #EXTINF:-1 tvg-logo="https://www.seirsanduk.net/images/tvlogo/alfa.png" group-title="ALFA Ataka",ALFA Ataka (09:00 - 02.01)
 http://85.11.144.8/archive/20/20260101-09.mpg
-#EXTINF:-1 tvg-logo="https://www.seirsanduk.net/images/tvlogo/alfa.png" group-title="ALFA Ataka",ALFA Ataka (08:00 - 02.01)
-http://85.11.144.8/archive/20/20260101-08.mpg
+#EXTINF:-1 tvg-logo="https://www.seirsanduk.net/images/tvlogo/animal-planet.png" group-title="Animal Planet",Animal Planet (21:00 - 02.01)
+http://85.11.144.8/archive/21/20260102-21.mpg
 #EXTINF:-1 tvg-logo="https://www.seirsanduk.net/images/tvlogo/animal-planet.png" group-title="Animal Planet",Animal Planet (20:00 - 02.01)
 http://85.11.144.8/archive/21/20260102-20.mpg
 #EXTINF:-1 tvg-logo="https://www.seirsanduk.net/images/tvlogo/animal-planet.png" group-title="Animal Planet",Animal Planet (19:00 - 02.01)
@@ -3467,8 +3469,8 @@ http://85.11.144.8/archive/21/20251231-23.mpg
 http://85.11.144.8/archive/21/20251231-22.mpg
 #EXTINF:-1 tvg-logo="https://www.seirsanduk.net/images/tvlogo/animal-planet.png" group-title="Animal Planet",Animal Planet (21:00 - 02.01)
 http://85.11.144.8/archive/21/20251231-21.mpg
-#EXTINF:-1 tvg-logo="https://www.seirsanduk.net/images/tvlogo/animal-planet.png" group-title="Animal Planet",Animal Planet (20:00 - 02.01)
-http://85.11.144.8/archive/21/20251231-20.mpg
+#EXTINF:-1 tvg-logo="https://www.seirsanduk.net/images/tvlogo/cartoonito.png" group-title="Cartoonito",Cartoonito (21:00 - 02.01)
+http://85.11.144.8/archive/29/20260102-21.mpg
 #EXTINF:-1 tvg-logo="https://www.seirsanduk.net/images/tvlogo/cartoonito.png" group-title="Cartoonito",Cartoonito (20:00 - 02.01)
 http://85.11.144.8/archive/29/20260102-20.mpg
 #EXTINF:-1 tvg-logo="https://www.seirsanduk.net/images/tvlogo/cartoonito.png" group-title="Cartoonito",Cartoonito (19:00 - 02.01)
@@ -3541,8 +3543,8 @@ http://85.11.144.8/archive/29/20260101-11.mpg
 http://85.11.144.8/archive/29/20260101-10.mpg
 #EXTINF:-1 tvg-logo="https://www.seirsanduk.net/images/tvlogo/cartoonito.png" group-title="Cartoonito",Cartoonito (09:00 - 02.01)
 http://85.11.144.8/archive/29/20260101-09.mpg
-#EXTINF:-1 tvg-logo="https://www.seirsanduk.net/images/tvlogo/cartoonito.png" group-title="Cartoonito",Cartoonito (08:00 - 02.01)
-http://85.11.144.8/archive/29/20260101-08.mpg
+#EXTINF:-1 tvg-logo="https://www.seirsanduk.net/images/tvlogo/cartoon-network.png" group-title="Cartoon Network",Cartoon Network (21:00 - 02.01)
+http://85.11.144.8/archive/34/20260102-21.mpg
 #EXTINF:-1 tvg-logo="https://www.seirsanduk.net/images/tvlogo/cartoon-network.png" group-title="Cartoon Network",Cartoon Network (20:00 - 02.01)
 http://85.11.144.8/archive/34/20260102-20.mpg
 #EXTINF:-1 tvg-logo="https://www.seirsanduk.net/images/tvlogo/cartoon-network.png" group-title="Cartoon Network",Cartoon Network (19:00 - 02.01)
@@ -3639,8 +3641,8 @@ http://85.11.144.8/archive/34/20251231-23.mpg
 http://85.11.144.8/archive/34/20251231-22.mpg
 #EXTINF:-1 tvg-logo="https://www.seirsanduk.net/images/tvlogo/cartoon-network.png" group-title="Cartoon Network",Cartoon Network (21:00 - 02.01)
 http://85.11.144.8/archive/34/20251231-21.mpg
-#EXTINF:-1 tvg-logo="https://www.seirsanduk.net/images/tvlogo/cartoon-network.png" group-title="Cartoon Network",Cartoon Network (20:00 - 02.01)
-http://85.11.144.8/archive/34/20251231-20.mpg
+#EXTINF:-1 tvg-logo="https://www.seirsanduk.net/images/tvlogo/discovery.png" group-title="Discovery",Discovery (21:00 - 02.01)
+http://85.11.144.8/archive/38/20260102-21.mpg
 #EXTINF:-1 tvg-logo="https://www.seirsanduk.net/images/tvlogo/discovery.png" group-title="Discovery",Discovery (20:00 - 02.01)
 http://85.11.144.8/archive/38/20260102-20.mpg
 #EXTINF:-1 tvg-logo="https://www.seirsanduk.net/images/tvlogo/discovery.png" group-title="Discovery",Discovery (19:00 - 02.01)
@@ -3833,8 +3835,8 @@ http://85.11.144.8/archive/38/20251229-23.mpg
 http://85.11.144.8/archive/38/20251229-22.mpg
 #EXTINF:-1 tvg-logo="https://www.seirsanduk.net/images/tvlogo/discovery.png" group-title="Discovery",Discovery (21:00 - 02.01)
 http://85.11.144.8/archive/38/20251229-21.mpg
-#EXTINF:-1 tvg-logo="https://www.seirsanduk.net/images/tvlogo/discovery.png" group-title="Discovery",Discovery (20:00 - 02.01)
-http://85.11.144.8/archive/38/20251229-20.mpg
+#EXTINF:-1 tvg-logo="https://www.seirsanduk.net/images/tvlogo/nova-news.png" group-title="Nova News",Nova News (21:00 - 02.01)
+http://85.11.144.8/archive/43/20260102-21.mpg
 #EXTINF:-1 tvg-logo="https://www.seirsanduk.net/images/tvlogo/nova-news.png" group-title="Nova News",Nova News (20:00 - 02.01)
 http://85.11.144.8/archive/43/20260102-20.mpg
 #EXTINF:-1 tvg-logo="https://www.seirsanduk.net/images/tvlogo/nova-news.png" group-title="Nova News",Nova News (19:00 - 02.01)
@@ -4027,8 +4029,8 @@ http://85.11.144.8/archive/43/20251229-23.mpg
 http://85.11.144.8/archive/43/20251229-22.mpg
 #EXTINF:-1 tvg-logo="https://www.seirsanduk.net/images/tvlogo/nova-news.png" group-title="Nova News",Nova News (21:00 - 02.01)
 http://85.11.144.8/archive/43/20251229-21.mpg
-#EXTINF:-1 tvg-logo="https://www.seirsanduk.net/images/tvlogo/nova-news.png" group-title="Nova News",Nova News (20:00 - 02.01)
-http://85.11.144.8/archive/43/20251229-20.mpg
+#EXTINF:-1 tvg-logo="https://www.seirsanduk.net/images/tvlogo/ekids.png" group-title="EKids",EKids (21:00 - 02.01)
+http://85.11.144.8/archive/46/20260102-21.mpg
 #EXTINF:-1 tvg-logo="https://www.seirsanduk.net/images/tvlogo/ekids.png" group-title="EKids",EKids (20:00 - 02.01)
 http://85.11.144.8/archive/46/20260102-20.mpg
 #EXTINF:-1 tvg-logo="https://www.seirsanduk.net/images/tvlogo/ekids.png" group-title="EKids",EKids (19:00 - 02.01)
@@ -4101,8 +4103,8 @@ http://85.11.144.8/archive/46/20260101-11.mpg
 http://85.11.144.8/archive/46/20260101-10.mpg
 #EXTINF:-1 tvg-logo="https://www.seirsanduk.net/images/tvlogo/ekids.png" group-title="EKids",EKids (09:00 - 02.01)
 http://85.11.144.8/archive/46/20260101-09.mpg
-#EXTINF:-1 tvg-logo="https://www.seirsanduk.net/images/tvlogo/ekids.png" group-title="EKids",EKids (08:00 - 02.01)
-http://85.11.144.8/archive/46/20260101-08.mpg
+#EXTINF:-1 tvg-logo="https://www.seirsanduk.net/images/tvlogo/eurosport-1.png" group-title="Eurosport 1",Eurosport 1 (21:00 - 02.01)
+http://85.11.144.8/archive/47/20260102-21.mpg
 #EXTINF:-1 tvg-logo="https://www.seirsanduk.net/images/tvlogo/eurosport-1.png" group-title="Eurosport 1",Eurosport 1 (20:00 - 02.01)
 http://85.11.144.8/archive/47/20260102-20.mpg
 #EXTINF:-1 tvg-logo="https://www.seirsanduk.net/images/tvlogo/eurosport-1.png" group-title="Eurosport 1",Eurosport 1 (19:00 - 02.01)
@@ -4295,8 +4297,8 @@ http://85.11.144.8/archive/47/20251229-23.mpg
 http://85.11.144.8/archive/47/20251229-22.mpg
 #EXTINF:-1 tvg-logo="https://www.seirsanduk.net/images/tvlogo/eurosport-1.png" group-title="Eurosport 1",Eurosport 1 (21:00 - 02.01)
 http://85.11.144.8/archive/47/20251229-21.mpg
-#EXTINF:-1 tvg-logo="https://www.seirsanduk.net/images/tvlogo/eurosport-1.png" group-title="Eurosport 1",Eurosport 1 (20:00 - 02.01)
-http://85.11.144.8/archive/47/20251229-20.mpg
+#EXTINF:-1 tvg-logo="https://www.seirsanduk.net/images/tvlogo/eurosport-2.png" group-title="Eurosport 2",Eurosport 2 (21:00 - 02.01)
+http://85.11.144.8/archive/48/20260102-21.mpg
 #EXTINF:-1 tvg-logo="https://www.seirsanduk.net/images/tvlogo/eurosport-2.png" group-title="Eurosport 2",Eurosport 2 (20:00 - 02.01)
 http://85.11.144.8/archive/48/20260102-20.mpg
 #EXTINF:-1 tvg-logo="https://www.seirsanduk.net/images/tvlogo/eurosport-2.png" group-title="Eurosport 2",Eurosport 2 (19:00 - 02.01)
@@ -4489,8 +4491,8 @@ http://85.11.144.8/archive/48/20251229-23.mpg
 http://85.11.144.8/archive/48/20251229-22.mpg
 #EXTINF:-1 tvg-logo="https://www.seirsanduk.net/images/tvlogo/eurosport-2.png" group-title="Eurosport 2",Eurosport 2 (21:00 - 02.01)
 http://85.11.144.8/archive/48/20251229-21.mpg
-#EXTINF:-1 tvg-logo="https://www.seirsanduk.net/images/tvlogo/eurosport-2.png" group-title="Eurosport 2",Eurosport 2 (20:00 - 02.01)
-http://85.11.144.8/archive/48/20251229-20.mpg
+#EXTINF:-1 tvg-logo="https://www.seirsanduk.net/images/tvlogo/evrokom.png" group-title="Evrokom",Evrokom (21:00 - 02.01)
+http://85.11.144.8/archive/49/20260102-21.mpg
 #EXTINF:-1 tvg-logo="https://www.seirsanduk.net/images/tvlogo/evrokom.png" group-title="Evrokom",Evrokom (20:00 - 02.01)
 http://85.11.144.8/archive/49/20260102-20.mpg
 #EXTINF:-1 tvg-logo="https://www.seirsanduk.net/images/tvlogo/evrokom.png" group-title="Evrokom",Evrokom (19:00 - 02.01)
@@ -4587,8 +4589,8 @@ http://85.11.144.8/archive/49/20251231-23.mpg
 http://85.11.144.8/archive/49/20251231-22.mpg
 #EXTINF:-1 tvg-logo="https://www.seirsanduk.net/images/tvlogo/evrokom.png" group-title="Evrokom",Evrokom (21:00 - 02.01)
 http://85.11.144.8/archive/49/20251231-21.mpg
-#EXTINF:-1 tvg-logo="https://www.seirsanduk.net/images/tvlogo/evrokom.png" group-title="Evrokom",Evrokom (20:00 - 02.01)
-http://85.11.144.8/archive/49/20251231-20.mpg
+#EXTINF:-1 tvg-logo="https://www.seirsanduk.net/images/tvlogo/bnt-3.png" group-title="BNT 3",BNT 3 (21:00 - 02.01)
+http://85.11.144.8/archive/54/20260102-21.mpg
 #EXTINF:-1 tvg-logo="https://www.seirsanduk.net/images/tvlogo/bnt-3.png" group-title="BNT 3",BNT 3 (20:00 - 02.01)
 http://85.11.144.8/archive/54/20260102-20.mpg
 #EXTINF:-1 tvg-logo="https://www.seirsanduk.net/images/tvlogo/bnt-3.png" group-title="BNT 3",BNT 3 (19:00 - 02.01)
@@ -4781,8 +4783,8 @@ http://85.11.144.8/archive/54/20251229-23.mpg
 http://85.11.144.8/archive/54/20251229-22.mpg
 #EXTINF:-1 tvg-logo="https://www.seirsanduk.net/images/tvlogo/bnt-3.png" group-title="BNT 3",BNT 3 (21:00 - 02.01)
 http://85.11.144.8/archive/54/20251229-21.mpg
-#EXTINF:-1 tvg-logo="https://www.seirsanduk.net/images/tvlogo/bnt-3.png" group-title="BNT 3",BNT 3 (20:00 - 02.01)
-http://85.11.144.8/archive/54/20251229-20.mpg
+#EXTINF:-1 tvg-logo="https://www.seirsanduk.net/images/tvlogo/star-channel.png" group-title="STAR Channel",STAR Channel (21:00 - 02.01)
+http://85.11.144.8/archive/56/20260102-21.mpg
 #EXTINF:-1 tvg-logo="https://www.seirsanduk.net/images/tvlogo/star-channel.png" group-title="STAR Channel",STAR Channel (20:00 - 02.01)
 http://85.11.144.8/archive/56/20260102-20.mpg
 #EXTINF:-1 tvg-logo="https://www.seirsanduk.net/images/tvlogo/star-channel.png" group-title="STAR Channel",STAR Channel (19:00 - 02.01)
@@ -4927,8 +4929,8 @@ http://85.11.144.8/archive/56/20251230-23.mpg
 http://85.11.144.8/archive/56/20251230-22.mpg
 #EXTINF:-1 tvg-logo="https://www.seirsanduk.net/images/tvlogo/star-channel.png" group-title="STAR Channel",STAR Channel (21:00 - 02.01)
 http://85.11.144.8/archive/56/20251230-21.mpg
-#EXTINF:-1 tvg-logo="https://www.seirsanduk.net/images/tvlogo/star-channel.png" group-title="STAR Channel",STAR Channel (20:00 - 02.01)
-http://85.11.144.8/archive/56/20251230-20.mpg
+#EXTINF:-1 tvg-logo="https://www.seirsanduk.net/images/tvlogo/star-crime.png" group-title="STAR Crime",STAR Crime (21:00 - 02.01)
+http://85.11.144.8/archive/57/20260102-21.mpg
 #EXTINF:-1 tvg-logo="https://www.seirsanduk.net/images/tvlogo/star-crime.png" group-title="STAR Crime",STAR Crime (20:00 - 02.01)
 http://85.11.144.8/archive/57/20260102-20.mpg
 #EXTINF:-1 tvg-logo="https://www.seirsanduk.net/images/tvlogo/star-crime.png" group-title="STAR Crime",STAR Crime (19:00 - 02.01)
@@ -5073,8 +5075,8 @@ http://85.11.144.8/archive/57/20251230-23.mpg
 http://85.11.144.8/archive/57/20251230-22.mpg
 #EXTINF:-1 tvg-logo="https://www.seirsanduk.net/images/tvlogo/star-crime.png" group-title="STAR Crime",STAR Crime (21:00 - 02.01)
 http://85.11.144.8/archive/57/20251230-21.mpg
-#EXTINF:-1 tvg-logo="https://www.seirsanduk.net/images/tvlogo/star-crime.png" group-title="STAR Crime",STAR Crime (20:00 - 02.01)
-http://85.11.144.8/archive/57/20251230-20.mpg
+#EXTINF:-1 tvg-logo="https://www.seirsanduk.net/images/tvlogo/star-life.png" group-title="STAR Life",STAR Life (21:00 - 02.01)
+http://85.11.144.8/archive/58/20260102-21.mpg
 #EXTINF:-1 tvg-logo="https://www.seirsanduk.net/images/tvlogo/star-life.png" group-title="STAR Life",STAR Life (20:00 - 02.01)
 http://85.11.144.8/archive/58/20260102-20.mpg
 #EXTINF:-1 tvg-logo="https://www.seirsanduk.net/images/tvlogo/star-life.png" group-title="STAR Life",STAR Life (19:00 - 02.01)
@@ -5219,8 +5221,8 @@ http://85.11.144.8/archive/58/20251230-23.mpg
 http://85.11.144.8/archive/58/20251230-22.mpg
 #EXTINF:-1 tvg-logo="https://www.seirsanduk.net/images/tvlogo/star-life.png" group-title="STAR Life",STAR Life (21:00 - 02.01)
 http://85.11.144.8/archive/58/20251230-21.mpg
-#EXTINF:-1 tvg-logo="https://www.seirsanduk.net/images/tvlogo/star-life.png" group-title="STAR Life",STAR Life (20:00 - 02.01)
-http://85.11.144.8/archive/58/20251230-20.mpg
+#EXTINF:-1 tvg-logo="https://www.seirsanduk.net/images/tvlogo/hbo.png" group-title="HBO",HBO (21:00 - 02.01)
+http://85.11.144.8/archive/59/20260102-21.mpg
 #EXTINF:-1 tvg-logo="https://www.seirsanduk.net/images/tvlogo/hbo.png" group-title="HBO",HBO (20:00 - 02.01)
 http://85.11.144.8/archive/59/20260102-20.mpg
 #EXTINF:-1 tvg-logo="https://www.seirsanduk.net/images/tvlogo/hbo.png" group-title="HBO",HBO (19:00 - 02.01)
@@ -5317,8 +5319,8 @@ http://85.11.144.8/archive/59/20251231-23.mpg
 http://85.11.144.8/archive/59/20251231-22.mpg
 #EXTINF:-1 tvg-logo="https://www.seirsanduk.net/images/tvlogo/hbo.png" group-title="HBO",HBO (21:00 - 02.01)
 http://85.11.144.8/archive/59/20251231-21.mpg
-#EXTINF:-1 tvg-logo="https://www.seirsanduk.net/images/tvlogo/hbo.png" group-title="HBO",HBO (20:00 - 02.01)
-http://85.11.144.8/archive/59/20251231-20.mpg
+#EXTINF:-1 tvg-logo="https://www.seirsanduk.net/images/tvlogo/nat-geo-wild.png" group-title="NatGeo Wild",NatGeo Wild (21:00 - 02.01)
+http://85.11.144.8/archive/65/20260102-21.mpg
 #EXTINF:-1 tvg-logo="https://www.seirsanduk.net/images/tvlogo/nat-geo-wild.png" group-title="NatGeo Wild",NatGeo Wild (20:00 - 02.01)
 http://85.11.144.8/archive/65/20260102-20.mpg
 #EXTINF:-1 tvg-logo="https://www.seirsanduk.net/images/tvlogo/nat-geo-wild.png" group-title="NatGeo Wild",NatGeo Wild (19:00 - 02.01)
@@ -5415,8 +5417,8 @@ http://85.11.144.8/archive/65/20251231-23.mpg
 http://85.11.144.8/archive/65/20251231-22.mpg
 #EXTINF:-1 tvg-logo="https://www.seirsanduk.net/images/tvlogo/nat-geo-wild.png" group-title="NatGeo Wild",NatGeo Wild (21:00 - 02.01)
 http://85.11.144.8/archive/65/20251231-21.mpg
-#EXTINF:-1 tvg-logo="https://www.seirsanduk.net/images/tvlogo/nat-geo-wild.png" group-title="NatGeo Wild",NatGeo Wild (20:00 - 02.01)
-http://85.11.144.8/archive/65/20251231-20.mpg
+#EXTINF:-1 tvg-logo="https://www.seirsanduk.net/images/tvlogo/nat-geo.png" group-title="National Geographic",National Geographic (21:00 - 02.01)
+http://85.11.144.8/archive/66/20260102-21.mpg
 #EXTINF:-1 tvg-logo="https://www.seirsanduk.net/images/tvlogo/nat-geo.png" group-title="National Geographic",National Geographic (20:00 - 02.01)
 http://85.11.144.8/archive/66/20260102-20.mpg
 #EXTINF:-1 tvg-logo="https://www.seirsanduk.net/images/tvlogo/nat-geo.png" group-title="National Geographic",National Geographic (19:00 - 02.01)
@@ -5513,8 +5515,8 @@ http://85.11.144.8/archive/66/20251231-23.mpg
 http://85.11.144.8/archive/66/20251231-22.mpg
 #EXTINF:-1 tvg-logo="https://www.seirsanduk.net/images/tvlogo/nat-geo.png" group-title="National Geographic",National Geographic (21:00 - 02.01)
 http://85.11.144.8/archive/66/20251231-21.mpg
-#EXTINF:-1 tvg-logo="https://www.seirsanduk.net/images/tvlogo/nat-geo.png" group-title="National Geographic",National Geographic (20:00 - 02.01)
-http://85.11.144.8/archive/66/20251231-20.mpg
+#EXTINF:-1 tvg-logo="https://www.seirsanduk.net/images/tvlogo/ring.png" group-title="Ring",Ring (21:00 - 02.01)
+http://85.11.144.8/archive/76/20260102-21.mpg
 #EXTINF:-1 tvg-logo="https://www.seirsanduk.net/images/tvlogo/ring.png" group-title="Ring",Ring (20:00 - 02.01)
 http://85.11.144.8/archive/76/20260102-20.mpg
 #EXTINF:-1 tvg-logo="https://www.seirsanduk.net/images/tvlogo/ring.png" group-title="Ring",Ring (19:00 - 02.01)
@@ -5611,8 +5613,6 @@ http://85.11.144.8/archive/76/20251231-23.mpg
 http://85.11.144.8/archive/76/20251231-22.mpg
 #EXTINF:-1 tvg-logo="https://www.seirsanduk.net/images/tvlogo/ring.png" group-title="Ring",Ring (21:00 - 02.01)
 http://85.11.144.8/archive/76/20251231-21.mpg
-#EXTINF:-1 tvg-logo="https://www.seirsanduk.net/images/tvlogo/ring.png" group-title="Ring",Ring (20:00 - 02.01)
-http://85.11.144.8/archive/76/20251231-20.mpg
 #EXTINF:-1 tvg-logo="" group-title="PULS TV",PULS TV (21:00 - 02.01)
 http://85.11.144.8/archive/79/20251127-21.mpg
 #EXTINF:-1 tvg-logo="" group-title="PULS TV",PULS TV (01:00 - 02.01)
@@ -5711,6 +5711,8 @@ http://85.11.144.8/archive/79/20250604-04.mpg
 http://85.11.144.8/archive/79/20250604-03.mpg
 #EXTINF:-1 tvg-logo="" group-title="PULS TV",PULS TV (02:00 - 02.01)
 http://85.11.144.8/archive/79/20250604-02.mpg
+#EXTINF:-1 tvg-logo="https://www.seirsanduk.net/images/tvlogo/skat.png" group-title="Skat TV",Skat TV (21:00 - 02.01)
+http://85.11.144.8/archive/80/20260102-21.mpg
 #EXTINF:-1 tvg-logo="https://www.seirsanduk.net/images/tvlogo/skat.png" group-title="Skat TV",Skat TV (20:00 - 02.01)
 http://85.11.144.8/archive/80/20260102-20.mpg
 #EXTINF:-1 tvg-logo="https://www.seirsanduk.net/images/tvlogo/skat.png" group-title="Skat TV",Skat TV (19:00 - 02.01)
@@ -5807,8 +5809,8 @@ http://85.11.144.8/archive/80/20251231-23.mpg
 http://85.11.144.8/archive/80/20251231-22.mpg
 #EXTINF:-1 tvg-logo="https://www.seirsanduk.net/images/tvlogo/skat.png" group-title="Skat TV",Skat TV (21:00 - 02.01)
 http://85.11.144.8/archive/80/20251231-21.mpg
-#EXTINF:-1 tvg-logo="https://www.seirsanduk.net/images/tvlogo/skat.png" group-title="Skat TV",Skat TV (20:00 - 02.01)
-http://85.11.144.8/archive/80/20251231-20.mpg
+#EXTINF:-1 tvg-logo="https://www.seirsanduk.net/images/tvlogo/tlc.png" group-title="TLC",TLC (21:00 - 02.01)
+http://85.11.144.8/archive/86/20260102-21.mpg
 #EXTINF:-1 tvg-logo="https://www.seirsanduk.net/images/tvlogo/tlc.png" group-title="TLC",TLC (20:00 - 02.01)
 http://85.11.144.8/archive/86/20260102-20.mpg
 #EXTINF:-1 tvg-logo="https://www.seirsanduk.net/images/tvlogo/tlc.png" group-title="TLC",TLC (19:00 - 02.01)
@@ -5857,8 +5859,8 @@ http://85.11.144.8/archive/86/20260101-23.mpg
 http://85.11.144.8/archive/86/20260101-22.mpg
 #EXTINF:-1 tvg-logo="https://www.seirsanduk.net/images/tvlogo/tlc.png" group-title="TLC",TLC (21:00 - 02.01)
 http://85.11.144.8/archive/86/20260101-21.mpg
-#EXTINF:-1 tvg-logo="https://www.seirsanduk.net/images/tvlogo/tlc.png" group-title="TLC",TLC (20:00 - 02.01)
-http://85.11.144.8/archive/86/20260101-20.mpg
+#EXTINF:-1 tvg-logo="https://www.seirsanduk.net/images/tvlogo/euronews.png" group-title="Euronews",Euronews (21:00 - 02.01)
+http://85.11.144.8/archive/87/20260102-21.mpg
 #EXTINF:-1 tvg-logo="https://www.seirsanduk.net/images/tvlogo/euronews.png" group-title="Euronews",Euronews (20:00 - 02.01)
 http://85.11.144.8/archive/87/20260102-20.mpg
 #EXTINF:-1 tvg-logo="https://www.seirsanduk.net/images/tvlogo/euronews.png" group-title="Euronews",Euronews (19:00 - 02.01)
@@ -5931,8 +5933,8 @@ http://85.11.144.8/archive/87/20260101-11.mpg
 http://85.11.144.8/archive/87/20260101-10.mpg
 #EXTINF:-1 tvg-logo="https://www.seirsanduk.net/images/tvlogo/euronews.png" group-title="Euronews",Euronews (09:00 - 02.01)
 http://85.11.144.8/archive/87/20260101-09.mpg
-#EXTINF:-1 tvg-logo="https://www.seirsanduk.net/images/tvlogo/euronews.png" group-title="Euronews",Euronews (08:00 - 02.01)
-http://85.11.144.8/archive/87/20260101-08.mpg
+#EXTINF:-1 tvg-logo="https://www.seirsanduk.net/images/tvlogo/tv-1000.png" group-title="TV 1000",TV 1000 (21:00 - 02.01)
+http://85.11.144.8/archive/89/20260102-21.mpg
 #EXTINF:-1 tvg-logo="https://www.seirsanduk.net/images/tvlogo/tv-1000.png" group-title="TV 1000",TV 1000 (20:00 - 02.01)
 http://85.11.144.8/archive/89/20260102-20.mpg
 #EXTINF:-1 tvg-logo="https://www.seirsanduk.net/images/tvlogo/tv-1000.png" group-title="TV 1000",TV 1000 (19:00 - 02.01)
@@ -5981,8 +5983,8 @@ http://85.11.144.8/archive/89/20260101-23.mpg
 http://85.11.144.8/archive/89/20260101-22.mpg
 #EXTINF:-1 tvg-logo="https://www.seirsanduk.net/images/tvlogo/tv-1000.png" group-title="TV 1000",TV 1000 (21:00 - 02.01)
 http://85.11.144.8/archive/89/20260101-21.mpg
-#EXTINF:-1 tvg-logo="https://www.seirsanduk.net/images/tvlogo/tv-1000.png" group-title="TV 1000",TV 1000 (20:00 - 02.01)
-http://85.11.144.8/archive/89/20260101-20.mpg
+#EXTINF:-1 tvg-logo="https://www.seirsanduk.net/images/tvlogo/tvt.png" group-title="TVT",TVT (21:00 - 02.01)
+http://85.11.144.8/archive/92/20260102-21.mpg
 #EXTINF:-1 tvg-logo="https://www.seirsanduk.net/images/tvlogo/tvt.png" group-title="TVT",TVT (20:00 - 02.01)
 http://85.11.144.8/archive/92/20260102-20.mpg
 #EXTINF:-1 tvg-logo="https://www.seirsanduk.net/images/tvlogo/tvt.png" group-title="TVT",TVT (19:00 - 02.01)
@@ -6055,8 +6057,8 @@ http://85.11.144.8/archive/92/20260101-11.mpg
 http://85.11.144.8/archive/92/20260101-10.mpg
 #EXTINF:-1 tvg-logo="https://www.seirsanduk.net/images/tvlogo/tvt.png" group-title="TVT",TVT (09:00 - 02.01)
 http://85.11.144.8/archive/92/20260101-09.mpg
-#EXTINF:-1 tvg-logo="https://www.seirsanduk.net/images/tvlogo/tvt.png" group-title="TVT",TVT (08:00 - 02.01)
-http://85.11.144.8/archive/92/20260101-08.mpg
+#EXTINF:-1 tvg-logo="https://www.seirsanduk.net/images/tvlogo/viasat-explore.png" group-title="Viasat Explore",Viasat Explore (21:00 - 02.01)
+http://85.11.144.8/archive/94/20260102-21.mpg
 #EXTINF:-1 tvg-logo="https://www.seirsanduk.net/images/tvlogo/viasat-explore.png" group-title="Viasat Explore",Viasat Explore (20:00 - 02.01)
 http://85.11.144.8/archive/94/20260102-20.mpg
 #EXTINF:-1 tvg-logo="https://www.seirsanduk.net/images/tvlogo/viasat-explore.png" group-title="Viasat Explore",Viasat Explore (19:00 - 02.01)
@@ -6153,8 +6155,8 @@ http://85.11.144.8/archive/94/20251231-23.mpg
 http://85.11.144.8/archive/94/20251231-22.mpg
 #EXTINF:-1 tvg-logo="https://www.seirsanduk.net/images/tvlogo/viasat-explore.png" group-title="Viasat Explore",Viasat Explore (21:00 - 02.01)
 http://85.11.144.8/archive/94/20251231-21.mpg
-#EXTINF:-1 tvg-logo="https://www.seirsanduk.net/images/tvlogo/viasat-explore.png" group-title="Viasat Explore",Viasat Explore (20:00 - 02.01)
-http://85.11.144.8/archive/94/20251231-20.mpg
+#EXTINF:-1 tvg-logo="https://www.seirsanduk.net/images/tvlogo/viasat-history.png" group-title="Viasat History",Viasat History (21:00 - 02.01)
+http://85.11.144.8/archive/95/20260102-21.mpg
 #EXTINF:-1 tvg-logo="https://www.seirsanduk.net/images/tvlogo/viasat-history.png" group-title="Viasat History",Viasat History (20:00 - 02.01)
 http://85.11.144.8/archive/95/20260102-20.mpg
 #EXTINF:-1 tvg-logo="https://www.seirsanduk.net/images/tvlogo/viasat-history.png" group-title="Viasat History",Viasat History (19:00 - 02.01)
@@ -6251,8 +6253,8 @@ http://85.11.144.8/archive/95/20251231-23.mpg
 http://85.11.144.8/archive/95/20251231-22.mpg
 #EXTINF:-1 tvg-logo="https://www.seirsanduk.net/images/tvlogo/viasat-history.png" group-title="Viasat History",Viasat History (21:00 - 02.01)
 http://85.11.144.8/archive/95/20251231-21.mpg
-#EXTINF:-1 tvg-logo="https://www.seirsanduk.net/images/tvlogo/viasat-history.png" group-title="Viasat History",Viasat History (20:00 - 02.01)
-http://85.11.144.8/archive/95/20251231-20.mpg
+#EXTINF:-1 tvg-logo="https://www.seirsanduk.net/images/tvlogo/viasat-nature.png" group-title="Viasat Nature",Viasat Nature (21:00 - 02.01)
+http://85.11.144.8/archive/96/20260102-21.mpg
 #EXTINF:-1 tvg-logo="https://www.seirsanduk.net/images/tvlogo/viasat-nature.png" group-title="Viasat Nature",Viasat Nature (20:00 - 02.01)
 http://85.11.144.8/archive/96/20260102-20.mpg
 #EXTINF:-1 tvg-logo="https://www.seirsanduk.net/images/tvlogo/viasat-nature.png" group-title="Viasat Nature",Viasat Nature (19:00 - 02.01)
@@ -6349,8 +6351,8 @@ http://85.11.144.8/archive/96/20251231-23.mpg
 http://85.11.144.8/archive/96/20251231-22.mpg
 #EXTINF:-1 tvg-logo="https://www.seirsanduk.net/images/tvlogo/viasat-nature.png" group-title="Viasat Nature",Viasat Nature (21:00 - 02.01)
 http://85.11.144.8/archive/96/20251231-21.mpg
-#EXTINF:-1 tvg-logo="https://www.seirsanduk.net/images/tvlogo/viasat-nature.png" group-title="Viasat Nature",Viasat Nature (20:00 - 02.01)
-http://85.11.144.8/archive/96/20251231-20.mpg
+#EXTINF:-1 tvg-logo="" group-title="108 TV",108 TV (21:00 - 02.01)
+http://85.11.144.8/archive/108/20260102-21.mpg
 #EXTINF:-1 tvg-logo="" group-title="108 TV",108 TV (20:00 - 02.01)
 http://85.11.144.8/archive/108/20260102-20.mpg
 #EXTINF:-1 tvg-logo="" group-title="108 TV",108 TV (19:00 - 02.01)
@@ -6447,8 +6449,8 @@ http://85.11.144.8/archive/108/20251231-23.mpg
 http://85.11.144.8/archive/108/20251231-22.mpg
 #EXTINF:-1 tvg-logo="" group-title="108 TV",108 TV (21:00 - 02.01)
 http://85.11.144.8/archive/108/20251231-21.mpg
-#EXTINF:-1 tvg-logo="" group-title="108 TV",108 TV (20:00 - 02.01)
-http://85.11.144.8/archive/108/20251231-20.mpg
+#EXTINF:-1 tvg-logo="https://www.seirsanduk.net/images/tvlogo/agro-tv.png" group-title="Agro TV",Agro TV (21:00 - 02.01)
+http://85.11.144.8/archive/114/20260102-21.mpg
 #EXTINF:-1 tvg-logo="https://www.seirsanduk.net/images/tvlogo/agro-tv.png" group-title="Agro TV",Agro TV (20:00 - 02.01)
 http://85.11.144.8/archive/114/20260102-20.mpg
 #EXTINF:-1 tvg-logo="https://www.seirsanduk.net/images/tvlogo/agro-tv.png" group-title="Agro TV",Agro TV (19:00 - 02.01)
@@ -6521,8 +6523,8 @@ http://85.11.144.8/archive/114/20260101-11.mpg
 http://85.11.144.8/archive/114/20260101-10.mpg
 #EXTINF:-1 tvg-logo="https://www.seirsanduk.net/images/tvlogo/agro-tv.png" group-title="Agro TV",Agro TV (09:00 - 02.01)
 http://85.11.144.8/archive/114/20260101-09.mpg
-#EXTINF:-1 tvg-logo="https://www.seirsanduk.net/images/tvlogo/agro-tv.png" group-title="Agro TV",Agro TV (08:00 - 02.01)
-http://85.11.144.8/archive/114/20260101-08.mpg
+#EXTINF:-1 tvg-logo="https://www.seirsanduk.net/images/tvlogo/hbo-2.png" group-title="HBO 2",HBO 2 (21:00 - 02.01)
+http://85.11.144.8/archive/137/20260102-21.mpg
 #EXTINF:-1 tvg-logo="https://www.seirsanduk.net/images/tvlogo/hbo-2.png" group-title="HBO 2",HBO 2 (20:00 - 02.01)
 http://85.11.144.8/archive/137/20260102-20.mpg
 #EXTINF:-1 tvg-logo="https://www.seirsanduk.net/images/tvlogo/hbo-2.png" group-title="HBO 2",HBO 2 (19:00 - 02.01)
@@ -6595,8 +6597,8 @@ http://85.11.144.8/archive/137/20260101-11.mpg
 http://85.11.144.8/archive/137/20260101-10.mpg
 #EXTINF:-1 tvg-logo="https://www.seirsanduk.net/images/tvlogo/hbo-2.png" group-title="HBO 2",HBO 2 (09:00 - 02.01)
 http://85.11.144.8/archive/137/20260101-09.mpg
-#EXTINF:-1 tvg-logo="https://www.seirsanduk.net/images/tvlogo/hbo-2.png" group-title="HBO 2",HBO 2 (08:00 - 02.01)
-http://85.11.144.8/archive/137/20260101-08.mpg
+#EXTINF:-1 tvg-logo="" group-title="182 TV",182 TV (21:00 - 02.01)
+http://85.11.144.8/archive/182/20260102-21.mpg
 #EXTINF:-1 tvg-logo="" group-title="182 TV",182 TV (20:00 - 02.01)
 http://85.11.144.8/archive/182/20260102-20.mpg
 #EXTINF:-1 tvg-logo="" group-title="182 TV",182 TV (19:00 - 02.01)
@@ -6693,8 +6695,8 @@ http://85.11.144.8/archive/182/20251231-23.mpg
 http://85.11.144.8/archive/182/20251231-22.mpg
 #EXTINF:-1 tvg-logo="" group-title="182 TV",182 TV (21:00 - 02.01)
 http://85.11.144.8/archive/182/20251231-21.mpg
-#EXTINF:-1 tvg-logo="" group-title="182 TV",182 TV (20:00 - 02.01)
-http://85.11.144.8/archive/182/20251231-20.mpg
+#EXTINF:-1 tvg-logo="https://www.seirsanduk.net/images/tvlogo/nick-jr.png" group-title="Nick Jr",Nick Jr (21:00 - 02.01)
+http://85.11.144.8/archive/192/20260102-21.mpg
 #EXTINF:-1 tvg-logo="https://www.seirsanduk.net/images/tvlogo/nick-jr.png" group-title="Nick Jr",Nick Jr (20:00 - 02.01)
 http://85.11.144.8/archive/192/20260102-20.mpg
 #EXTINF:-1 tvg-logo="https://www.seirsanduk.net/images/tvlogo/nick-jr.png" group-title="Nick Jr",Nick Jr (19:00 - 02.01)
@@ -6791,8 +6793,8 @@ http://85.11.144.8/archive/192/20251231-23.mpg
 http://85.11.144.8/archive/192/20251231-22.mpg
 #EXTINF:-1 tvg-logo="https://www.seirsanduk.net/images/tvlogo/nick-jr.png" group-title="Nick Jr",Nick Jr (21:00 - 02.01)
 http://85.11.144.8/archive/192/20251231-21.mpg
-#EXTINF:-1 tvg-logo="https://www.seirsanduk.net/images/tvlogo/nick-jr.png" group-title="Nick Jr",Nick Jr (20:00 - 02.01)
-http://85.11.144.8/archive/192/20251231-20.mpg
+#EXTINF:-1 tvg-logo="https://www.seirsanduk.net/images/tvlogo/7-8-tv.png" group-title="7/8 TV",7/8 TV (21:00 - 02.01)
+http://85.11.144.8/archive/197/20260102-21.mpg
 #EXTINF:-1 tvg-logo="https://www.seirsanduk.net/images/tvlogo/7-8-tv.png" group-title="7/8 TV",7/8 TV (20:00 - 02.01)
 http://85.11.144.8/archive/197/20260102-20.mpg
 #EXTINF:-1 tvg-logo="https://www.seirsanduk.net/images/tvlogo/7-8-tv.png" group-title="7/8 TV",7/8 TV (19:00 - 02.01)
@@ -6937,8 +6939,8 @@ http://85.11.144.8/archive/197/20251230-23.mpg
 http://85.11.144.8/archive/197/20251230-22.mpg
 #EXTINF:-1 tvg-logo="https://www.seirsanduk.net/images/tvlogo/7-8-tv.png" group-title="7/8 TV",7/8 TV (21:00 - 02.01)
 http://85.11.144.8/archive/197/20251230-21.mpg
-#EXTINF:-1 tvg-logo="https://www.seirsanduk.net/images/tvlogo/7-8-tv.png" group-title="7/8 TV",7/8 TV (20:00 - 02.01)
-http://85.11.144.8/archive/197/20251230-20.mpg
+#EXTINF:-1 tvg-logo="https://www.seirsanduk.net/images/tvlogo/nickelodeon.png" group-title="Nickelodeon",Nickelodeon (21:00 - 02.01)
+http://85.11.144.8/archive/209/20260102-21.mpg
 #EXTINF:-1 tvg-logo="https://www.seirsanduk.net/images/tvlogo/nickelodeon.png" group-title="Nickelodeon",Nickelodeon (20:00 - 02.01)
 http://85.11.144.8/archive/209/20260102-20.mpg
 #EXTINF:-1 tvg-logo="https://www.seirsanduk.net/images/tvlogo/nickelodeon.png" group-title="Nickelodeon",Nickelodeon (19:00 - 02.01)
@@ -7035,8 +7037,8 @@ http://85.11.144.8/archive/209/20251231-23.mpg
 http://85.11.144.8/archive/209/20251231-22.mpg
 #EXTINF:-1 tvg-logo="https://www.seirsanduk.net/images/tvlogo/nickelodeon.png" group-title="Nickelodeon",Nickelodeon (21:00 - 02.01)
 http://85.11.144.8/archive/209/20251231-21.mpg
-#EXTINF:-1 tvg-logo="https://www.seirsanduk.net/images/tvlogo/nickelodeon.png" group-title="Nickelodeon",Nickelodeon (20:00 - 02.01)
-http://85.11.144.8/archive/209/20251231-20.mpg
+#EXTINF:-1 tvg-logo="https://www.seirsanduk.net/images/tvlogo/diema-sport.png" group-title="Diema Sport",Diema Sport (21:00 - 02.01)
+http://85.11.144.8/archive/485/20260102-21.mpg
 #EXTINF:-1 tvg-logo="https://www.seirsanduk.net/images/tvlogo/diema-sport.png" group-title="Diema Sport",Diema Sport (20:00 - 02.01)
 http://85.11.144.8/archive/485/20260102-20.mpg
 #EXTINF:-1 tvg-logo="https://www.seirsanduk.net/images/tvlogo/diema-sport.png" group-title="Diema Sport",Diema Sport (19:00 - 02.01)
@@ -7181,8 +7183,8 @@ http://85.11.144.8/archive/485/20251230-23.mpg
 http://85.11.144.8/archive/485/20251230-22.mpg
 #EXTINF:-1 tvg-logo="https://www.seirsanduk.net/images/tvlogo/diema-sport.png" group-title="Diema Sport",Diema Sport (21:00 - 02.01)
 http://85.11.144.8/archive/485/20251230-21.mpg
-#EXTINF:-1 tvg-logo="https://www.seirsanduk.net/images/tvlogo/diema-sport.png" group-title="Diema Sport",Diema Sport (20:00 - 02.01)
-http://85.11.144.8/archive/485/20251230-20.mpg
+#EXTINF:-1 tvg-logo="https://www.seirsanduk.net/images/tvlogo/diema-sport-2.png" group-title="Diema Sport 2",Diema Sport 2 (21:00 - 02.01)
+http://85.11.144.8/archive/592/20260102-21.mpg
 #EXTINF:-1 tvg-logo="https://www.seirsanduk.net/images/tvlogo/diema-sport-2.png" group-title="Diema Sport 2",Diema Sport 2 (20:00 - 02.01)
 http://85.11.144.8/archive/592/20260102-20.mpg
 #EXTINF:-1 tvg-logo="https://www.seirsanduk.net/images/tvlogo/diema-sport-2.png" group-title="Diema Sport 2",Diema Sport 2 (19:00 - 02.01)
@@ -7327,8 +7329,8 @@ http://85.11.144.8/archive/592/20251230-23.mpg
 http://85.11.144.8/archive/592/20251230-22.mpg
 #EXTINF:-1 tvg-logo="https://www.seirsanduk.net/images/tvlogo/diema-sport-2.png" group-title="Diema Sport 2",Diema Sport 2 (21:00 - 02.01)
 http://85.11.144.8/archive/592/20251230-21.mpg
-#EXTINF:-1 tvg-logo="https://www.seirsanduk.net/images/tvlogo/diema-sport-2.png" group-title="Diema Sport 2",Diema Sport 2 (20:00 - 02.01)
-http://85.11.144.8/archive/592/20251230-20.mpg
+#EXTINF:-1 tvg-logo="https://www.seirsanduk.net/images/tvlogo/24-kitchen.png" group-title="24 Kitchen",24 Kitchen (21:00 - 02.01)
+http://85.11.144.8/archive/746/20260102-21.mpg
 #EXTINF:-1 tvg-logo="https://www.seirsanduk.net/images/tvlogo/24-kitchen.png" group-title="24 Kitchen",24 Kitchen (20:00 - 02.01)
 http://85.11.144.8/archive/746/20260102-20.mpg
 #EXTINF:-1 tvg-logo="https://www.seirsanduk.net/images/tvlogo/24-kitchen.png" group-title="24 Kitchen",24 Kitchen (19:00 - 02.01)
@@ -7425,8 +7427,8 @@ http://85.11.144.8/archive/746/20251231-23.mpg
 http://85.11.144.8/archive/746/20251231-22.mpg
 #EXTINF:-1 tvg-logo="https://www.seirsanduk.net/images/tvlogo/24-kitchen.png" group-title="24 Kitchen",24 Kitchen (21:00 - 02.01)
 http://85.11.144.8/archive/746/20251231-21.mpg
-#EXTINF:-1 tvg-logo="https://www.seirsanduk.net/images/tvlogo/24-kitchen.png" group-title="24 Kitchen",24 Kitchen (20:00 - 02.01)
-http://85.11.144.8/archive/746/20251231-20.mpg
+#EXTINF:-1 tvg-logo="https://www.seirsanduk.net/images/tvlogo/max-sport-1.png" group-title="MAX Sport 1",MAX Sport 1 (21:00 - 02.01)
+http://85.11.144.8/archive/1049/20260102-21.mpg
 #EXTINF:-1 tvg-logo="https://www.seirsanduk.net/images/tvlogo/max-sport-1.png" group-title="MAX Sport 1",MAX Sport 1 (20:00 - 02.01)
 http://85.11.144.8/archive/1049/20260102-20.mpg
 #EXTINF:-1 tvg-logo="https://www.seirsanduk.net/images/tvlogo/max-sport-1.png" group-title="MAX Sport 1",MAX Sport 1 (19:00 - 02.01)
@@ -7571,8 +7573,8 @@ http://85.11.144.8/archive/1049/20251230-23.mpg
 http://85.11.144.8/archive/1049/20251230-22.mpg
 #EXTINF:-1 tvg-logo="https://www.seirsanduk.net/images/tvlogo/max-sport-1.png" group-title="MAX Sport 1",MAX Sport 1 (21:00 - 02.01)
 http://85.11.144.8/archive/1049/20251230-21.mpg
-#EXTINF:-1 tvg-logo="https://www.seirsanduk.net/images/tvlogo/max-sport-1.png" group-title="MAX Sport 1",MAX Sport 1 (20:00 - 02.01)
-http://85.11.144.8/archive/1049/20251230-20.mpg
+#EXTINF:-1 tvg-logo="https://www.seirsanduk.net/images/tvlogo/diema-sport-3.png" group-title="Diema Sport 3",Diema Sport 3 (21:00 - 02.01)
+http://85.11.144.8/archive/1380/20260102-21.mpg
 #EXTINF:-1 tvg-logo="https://www.seirsanduk.net/images/tvlogo/diema-sport-3.png" group-title="Diema Sport 3",Diema Sport 3 (20:00 - 02.01)
 http://85.11.144.8/archive/1380/20260102-20.mpg
 #EXTINF:-1 tvg-logo="https://www.seirsanduk.net/images/tvlogo/diema-sport-3.png" group-title="Diema Sport 3",Diema Sport 3 (19:00 - 02.01)
@@ -7717,8 +7719,8 @@ http://85.11.144.8/archive/1380/20251230-23.mpg
 http://85.11.144.8/archive/1380/20251230-22.mpg
 #EXTINF:-1 tvg-logo="https://www.seirsanduk.net/images/tvlogo/diema-sport-3.png" group-title="Diema Sport 3",Diema Sport 3 (21:00 - 02.01)
 http://85.11.144.8/archive/1380/20251230-21.mpg
-#EXTINF:-1 tvg-logo="https://www.seirsanduk.net/images/tvlogo/diema-sport-3.png" group-title="Diema Sport 3",Diema Sport 3 (20:00 - 02.01)
-http://85.11.144.8/archive/1380/20251230-20.mpg
+#EXTINF:-1 tvg-logo="https://www.seirsanduk.net/images/tvlogo/max-sport-2.png" group-title="MAX Sport 2",MAX Sport 2 (21:00 - 02.01)
+http://85.11.144.8/archive/1498/20260102-21.mpg
 #EXTINF:-1 tvg-logo="https://www.seirsanduk.net/images/tvlogo/max-sport-2.png" group-title="MAX Sport 2",MAX Sport 2 (20:00 - 02.01)
 http://85.11.144.8/archive/1498/20260102-20.mpg
 #EXTINF:-1 tvg-logo="https://www.seirsanduk.net/images/tvlogo/max-sport-2.png" group-title="MAX Sport 2",MAX Sport 2 (19:00 - 02.01)
@@ -7863,8 +7865,8 @@ http://85.11.144.8/archive/1498/20251230-23.mpg
 http://85.11.144.8/archive/1498/20251230-22.mpg
 #EXTINF:-1 tvg-logo="https://www.seirsanduk.net/images/tvlogo/max-sport-2.png" group-title="MAX Sport 2",MAX Sport 2 (21:00 - 02.01)
 http://85.11.144.8/archive/1498/20251230-21.mpg
-#EXTINF:-1 tvg-logo="https://www.seirsanduk.net/images/tvlogo/max-sport-2.png" group-title="MAX Sport 2",MAX Sport 2 (20:00 - 02.01)
-http://85.11.144.8/archive/1498/20251230-20.mpg
+#EXTINF:-1 tvg-logo="" group-title="1670 TV",1670 TV (21:00 - 02.01)
+http://85.11.144.8/archive/1670/20260102-21.mpg
 #EXTINF:-1 tvg-logo="" group-title="1670 TV",1670 TV (20:00 - 02.01)
 http://85.11.144.8/archive/1670/20260102-20.mpg
 #EXTINF:-1 tvg-logo="" group-title="1670 TV",1670 TV (19:00 - 02.01)
@@ -8009,8 +8011,8 @@ http://85.11.144.8/archive/1670/20251230-23.mpg
 http://85.11.144.8/archive/1670/20251230-22.mpg
 #EXTINF:-1 tvg-logo="" group-title="1670 TV",1670 TV (21:00 - 02.01)
 http://85.11.144.8/archive/1670/20251230-21.mpg
-#EXTINF:-1 tvg-logo="" group-title="1670 TV",1670 TV (20:00 - 02.01)
-http://85.11.144.8/archive/1670/20251230-20.mpg
+#EXTINF:-1 tvg-logo="https://www.seirsanduk.net/images/tvlogo/max-sport-3.png" group-title="MAX Sport 3",MAX Sport 3 (21:00 - 02.01)
+http://85.11.144.8/archive/1721/20260102-21.mpg
 #EXTINF:-1 tvg-logo="https://www.seirsanduk.net/images/tvlogo/max-sport-3.png" group-title="MAX Sport 3",MAX Sport 3 (20:00 - 02.01)
 http://85.11.144.8/archive/1721/20260102-20.mpg
 #EXTINF:-1 tvg-logo="https://www.seirsanduk.net/images/tvlogo/max-sport-3.png" group-title="MAX Sport 3",MAX Sport 3 (19:00 - 02.01)
@@ -8155,8 +8157,8 @@ http://85.11.144.8/archive/1721/20251230-23.mpg
 http://85.11.144.8/archive/1721/20251230-22.mpg
 #EXTINF:-1 tvg-logo="https://www.seirsanduk.net/images/tvlogo/max-sport-3.png" group-title="MAX Sport 3",MAX Sport 3 (21:00 - 02.01)
 http://85.11.144.8/archive/1721/20251230-21.mpg
-#EXTINF:-1 tvg-logo="https://www.seirsanduk.net/images/tvlogo/max-sport-3.png" group-title="MAX Sport 3",MAX Sport 3 (20:00 - 02.01)
-http://85.11.144.8/archive/1721/20251230-20.mpg
+#EXTINF:-1 tvg-logo="https://www.seirsanduk.net/images/tvlogo/max-sport-4.png" group-title="MAX Sport 4",MAX Sport 4 (21:00 - 02.01)
+http://85.11.144.8/archive/1752/20260102-21.mpg
 #EXTINF:-1 tvg-logo="https://www.seirsanduk.net/images/tvlogo/max-sport-4.png" group-title="MAX Sport 4",MAX Sport 4 (20:00 - 02.01)
 http://85.11.144.8/archive/1752/20260102-20.mpg
 #EXTINF:-1 tvg-logo="https://www.seirsanduk.net/images/tvlogo/max-sport-4.png" group-title="MAX Sport 4",MAX Sport 4 (19:00 - 02.01)
@@ -8301,8 +8303,8 @@ http://85.11.144.8/archive/1752/20251230-23.mpg
 http://85.11.144.8/archive/1752/20251230-22.mpg
 #EXTINF:-1 tvg-logo="https://www.seirsanduk.net/images/tvlogo/max-sport-4.png" group-title="MAX Sport 4",MAX Sport 4 (21:00 - 02.01)
 http://85.11.144.8/archive/1752/20251230-21.mpg
-#EXTINF:-1 tvg-logo="https://www.seirsanduk.net/images/tvlogo/max-sport-4.png" group-title="MAX Sport 4",MAX Sport 4 (20:00 - 02.01)
-http://85.11.144.8/archive/1752/20251230-20.mpg
+#EXTINF:-1 tvg-logo="https://www.seirsanduk.net/images/tvlogo/disney.png" group-title="Disney Channel",Disney Channel (21:00 - 02.01)
+http://85.11.144.8/archive/1931/20260102-21.mpg
 #EXTINF:-1 tvg-logo="https://www.seirsanduk.net/images/tvlogo/disney.png" group-title="Disney Channel",Disney Channel (20:00 - 02.01)
 http://85.11.144.8/archive/1931/20260102-20.mpg
 #EXTINF:-1 tvg-logo="https://www.seirsanduk.net/images/tvlogo/disney.png" group-title="Disney Channel",Disney Channel (19:00 - 02.01)
@@ -8399,8 +8401,8 @@ http://85.11.144.8/archive/1931/20251231-23.mpg
 http://85.11.144.8/archive/1931/20251231-22.mpg
 #EXTINF:-1 tvg-logo="https://www.seirsanduk.net/images/tvlogo/disney.png" group-title="Disney Channel",Disney Channel (21:00 - 02.01)
 http://85.11.144.8/archive/1931/20251231-21.mpg
-#EXTINF:-1 tvg-logo="https://www.seirsanduk.net/images/tvlogo/disney.png" group-title="Disney Channel",Disney Channel (20:00 - 02.01)
-http://85.11.144.8/archive/1931/20251231-20.mpg
+#EXTINF:-1 tvg-logo="https://www.seirsanduk.net/images/tvlogo/bnt-1.png" group-title="BNT 1",BNT 1 (21:00 - 02.01)
+http://85.11.144.8/archive/1932/20260102-21.mpg
 #EXTINF:-1 tvg-logo="https://www.seirsanduk.net/images/tvlogo/bnt-1.png" group-title="BNT 1",BNT 1 (20:00 - 02.01)
 http://85.11.144.8/archive/1932/20260102-20.mpg
 #EXTINF:-1 tvg-logo="https://www.seirsanduk.net/images/tvlogo/bnt-1.png" group-title="BNT 1",BNT 1 (19:00 - 02.01)
@@ -8593,5 +8595,3 @@ http://85.11.144.8/archive/1932/20251229-23.mpg
 http://85.11.144.8/archive/1932/20251229-22.mpg
 #EXTINF:-1 tvg-logo="https://www.seirsanduk.net/images/tvlogo/bnt-1.png" group-title="BNT 1",BNT 1 (21:00 - 02.01)
 http://85.11.144.8/archive/1932/20251229-21.mpg
-#EXTINF:-1 tvg-logo="https://www.seirsanduk.net/images/tvlogo/bnt-1.png" group-title="BNT 1",BNT 1 (20:00 - 02.01)
-http://85.11.144.8/archive/1932/20251229-20.mpg
