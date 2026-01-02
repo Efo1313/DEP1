@@ -6,9 +6,10 @@ from datetime import datetime
 
 # AYARLAR
 ARCHIVE_URL = "http://85.11.144.8/archive/"
+# Onayladığın logo sunucusu
 LOGO_BASE = "https://www.seirsanduk.net/images/tvlogo/"
 
-# Özel Logolu Kanallar
+# Özel Logolu Kanallar (Bu listedekiler logolu, diğerleri numara ile gelecek)
 CHANNEL_DATA = {
     "2": {"name": "bTV HD", "logo": "btv-hd.png"},
     "3": {"name": "Nova TV HD", "logo": "nova-tv-hd.png"},
@@ -29,12 +30,14 @@ CHANNEL_DATA = {
 def get_links(url):
     try:
         response = requests.get(url, timeout=15)
+        # Sadece temiz linkleri al
         links = re.findall(r'href="([^?].*?)"', response.text)
         return [l for l in links if l not in ['../', './']]
     except:
         return []
 
 output_file = "seyir_sandigi.m3u"
+# Bugünün tarihini al (Gün.Ay)
 bugun = datetime.now().strftime("%d.%m")
 
 with open(output_file, "w", encoding="utf-8") as f:
@@ -43,9 +46,10 @@ with open(output_file, "w", encoding="utf-8") as f:
     found_folders = get_links(ARCHIVE_URL)
     
     for folder in found_folders:
+        # Klasör ismindeki / işaretini temizle
         channel_id = folder.strip("/")
         
-        # Kanal ismi belirleme
+        # Kanal ismi ve Logo belirleme
         if channel_id in CHANNEL_DATA:
             name = CHANNEL_DATA[channel_id]["name"]
             logo = LOGO_BASE + CHANNEL_DATA[channel_id]["logo"]
@@ -57,23 +61,28 @@ with open(output_file, "w", encoding="utf-8") as f:
         video_files = get_links(channel_url)
         
         if video_files:
+            # En yeni videoları en üste al
             video_files.reverse() 
             
             for video_file in video_files:
+                # Sadece .mpg uzantılı dosyaları al
                 if not video_file.endswith('.mpg'):
                     continue
                     
                 video_url = channel_url + video_file
                 
-                # Saati temizle ve sadece rakamları al
+                # Saat bilgisini temizle (Sadece rakamları al)
                 raw_time = video_file.split('-')[-1].replace('.mpg', '')
                 time_label = "".join(filter(str.isdigit, raw_time))
                 
-                if not time_label: continue
+                if not time_label:
+                    continue
                 
-                # YENİ GÖRÜNÜM: Saat başa, tarih sona (Örn: 18:00 - 02.01)
+                # GÖRÜNÜM: Saat başa, Tarih sona (Örn: 18:00 - 02.01)
                 display_name = f"{name} ({time_label}:00 - {bugun})"
                 
-                # M3U Yazımı
+                # M3U Formatına Yaz
                 f.write(f'#EXTINF:-1 tvg-logo="{logo}" group-title="{name}",{display_name}\n')
                 f.write(f"{video_url}\n")
+
+print(f"Bitti! {output_file} başarıyla oluşturuldu.")
