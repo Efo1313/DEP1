@@ -1,38 +1,37 @@
-name: Saatlik Guncelleme
+name: Saatlik IPTV Guncelleme
 
 on:
   schedule:
-    - cron: '0 * * * *'
-  workflow_dispatch: 
+    - cron: '0 * * * *'  # Her saat başı otomatik çalışır
+  workflow_dispatch:      # İstediğinde manuel başlatma butonu
 
 jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - name: Depoyu kopyala
+      - name: Depoyu Kopyala
         uses: actions/checkout@v3
 
       - name: Python Kurulumu
         uses: actions/setup-python@v4
         with:
-          python-version: '3.9'
+          python-version: '3.10'
 
-      - name: Gerekli kütüphaneleri yükle
+      - name: Kutuphaneleri Yukle
         run: |
-          pip install requests yt-dlp  # Buraya yt-dlp eklendi!
+          pip install yt-dlp requests
 
       - name: YouTube Listesini Calistir
-        run: |
-          python main.py  # YouTube listesini yapan dosya
+        run: python main.py
 
-      - name: Arsir Listesini Calistir
-        run: |
-          python archive.py  # Bulgaristan arşivini yapan dosya
+      - name: Seyir Sandigi Arsirini Calistir
+        run: python archive.py
 
-      - name: Degisiklikleri Kaydet ve Paylas
+      - name: Degisiklikleri Kaydet
         run: |
-          git config --local user.email "action@github.com"
-          git config --local user.name "GitHub Action"
-          git add live.m3u seyir_sandigi.m3u  # İki dosyayı da kaydediyoruz
-          git commit -m "Saatlik otomatik guncelleme (YouTube + Arşiv)" || exit 0
+          git config --global user.email "action@github.com"
+          git config --global user.name "GitHub Action"
+          # Oluşan tüm m3u dosyalarını buraya ekliyoruz
+          git add yayinlarim.m3u seyir_sandigi.m3u live.m3u
+          git commit -m "Saatlik Guncelleme Tamamlandi" || exit 0
           git push
