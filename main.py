@@ -2,7 +2,7 @@
 import os
 import datetime
 
-# Kanal listesi (İsim|KanalID)
+# Kanal listesi
 channels = [
     "CNN Turk|UCV6zcRug6Hqp1UX_FdyUeBg",
     "Haber Turk|UCn6dNfiRE_Xunu7iMyvD7AA",
@@ -28,9 +28,9 @@ channels = [
     "Korku Filmleri TV|UCsbpTjR1Vh0L3gvBg9d0Dbg"
 ]
 
-print(f"YouTube Listesi Olusturuluyor: {datetime.datetime.now()}")
+print(f"Guncelleme Saati: {datetime.datetime.now()}")
 
-# User Agent tanımlayarak YouTube engelini aşmaya çalışıyoruz
+# Gercekci bir User-Agent
 UA = "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
 
 with open("yayinlarim.m3u", "w", encoding="utf-8") as f:
@@ -40,16 +40,17 @@ with open("yayinlarim.m3u", "w", encoding="utf-8") as f:
         name, channel_id = channel.split("|")
         live_url = f"https://www.youtube.com/channel/{channel_id}/live"
         
-        # yt-dlp ile ham m3u8 linkini çekmeyi dene
-        cmd = f"yt-dlp --geo-bypass --user-agent '{UA}' -g {live_url}"
+        # yt-dlp komutunu daha agresif ve net hale getirdik
+        # -f 95/94/best: Belirli kalite formatlarini zorlar
+        cmd = f"yt-dlp --geo-bypass --user-agent '{UA}' -f 95/94/best -g {live_url}"
         m3u8_link = os.popen(cmd).read().strip()
         
         if m3u8_link and "m3u8" in m3u8_link:
             f.write(f"#EXTINF:-1,{name}\n{m3u8_link}\n")
-            print(f"BAŞARILI: {name}")
+            print(f"OK: {name}")
         else:
-            # Ham link alınamazsa direkt sayfa linkini koy (Liste boş kalmasın)
+            # Yedek link
             f.write(f"#EXTINF:-1,{name} (Direkt Link)\n{live_url}\n")
-            print(f"UYARI: {name} için m3u8 alınamadı, sayfa linki eklendi.")
+            print(f"FAILED: {name} (Yedek link eklendi)")
 
-print("İşlem Tamamlandı.")
+print("Yayinlarim.m3u listesi tamamlandi.")
