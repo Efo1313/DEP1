@@ -23,11 +23,11 @@ CHANNEL_DATA = {
     "14": {"name": "AXN Black", "logo": "https://i.hizliresim.com/ovngoqt.png"},
     "15": {"name": "AXN White", "logo": "https://i.hizliresim.com/1jgzk8r.png"},
     "16": {"name": "BNT 2", "logo": "https://i.hizliresim.com/rk2853y.png"},
-    "17": {"name": "BNT 4", "logo": ""}, # Listende yoktu, istersen ekleyebilirsin
+    "17": {"name": "BNT 4", "logo": "https://i.hizliresim.com/8tz6ugw.png"},
     "18": {"name": "Bulgaria ON AIR", "logo": "https://i.hizliresim.com/66jre4l.png"},
     "20": {"name": "ALFA Ataka", "logo": "https://i.hizliresim.com/ka3h7hz.png"},
     "21": {"name": "Animal Planet", "logo": "https://i.hizliresim.com/95spf00.png"},
-    "29": {"name": "Cartoonito", "logo": ""},
+    "29": {"name": "Cartoonito", "logo": "https://i.hizliresim.com/8tvmxda.png"},
     "34": {"name": "Cartoon Network", "logo": "https://i.hizliresim.com/tsuodvd.png"},
     "38": {"name": "Discovery", "logo": "https://i.hizliresim.com/sif2sjf.png"},
     "43": {"name": "Nova News", "logo": "https://i.hizliresim.com/s1g6ly9.png"},
