@@ -1,7 +1,8 @@
+# -*- coding: utf-8 -*-
 import os
 import datetime
 
-# Kanal listesi
+# Kanal listesi (İsim|KanalID)
 channels = [
     "CNN Turk|UCV6zcRug6Hqp1UX_FdyUeBg",
     "Haber Turk|UCn6dNfiRE_Xunu7iMyvD7AA",
@@ -27,26 +28,28 @@ channels = [
     "Korku Filmleri TV|UCsbpTjR1Vh0L3gvBg9d0Dbg"
 ]
 
-print(f"YouTube Guncellemesi Basladi: {datetime.datetime.now()}")
+print(f"YouTube Listesi Olusturuluyor: {datetime.datetime.now()}")
+
+# User Agent tanımlayarak YouTube engelini aşmaya çalışıyoruz
+UA = "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
 
 with open("yayinlarim.m3u", "w", encoding="utf-8") as f:
     f.write("#EXTM3U\n")
     
     for channel in channels:
         name, channel_id = channel.split("|")
-        # YouTube Canlı Yayın Sayfası
         live_url = f"https://www.youtube.com/channel/{channel_id}/live"
         
         # yt-dlp ile ham m3u8 linkini çekmeyi dene
-        # --geo-bypass ekledik ki bölge engeline takılmasın
-        m3u8_link = os.popen(f"yt-dlp --geo-bypass -g {live_url}").read().strip()
+        cmd = f"yt-dlp --geo-bypass --user-agent '{UA}' -g {live_url}"
+        m3u8_link = os.popen(cmd).read().strip()
         
         if m3u8_link and "m3u8" in m3u8_link:
             f.write(f"#EXTINF:-1,{name}\n{m3u8_link}\n")
-            print(f"Basarili: {name}")
+            print(f"BAŞARILI: {name}")
         else:
-            # Eğer m3u8 linki alınamazsa, direkt YouTube linkini koy (Bazı oynatıcılar bunu da açar)
+            # Ham link alınamazsa direkt sayfa linkini koy (Liste boş kalmasın)
             f.write(f"#EXTINF:-1,{name} (Direkt Link)\n{live_url}\n")
-            print(f"Uyari: {name} icin ham link alinamadi, sayfa linki eklendi.")
+            print(f"UYARI: {name} için m3u8 alınamadı, sayfa linki eklendi.")
 
-print("YouTube Listesi Olusturuldu.")
+print("İşlem Tamamlandı.")
