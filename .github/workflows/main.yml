@@ -8,7 +8,6 @@ on:
 jobs:
   build:
     runs-on: ubuntu-latest
-    # Eğer çakışma olursa önceki işlemi durdurup yenisini başlatır
     concurrency:
       group: ${{ github.workflow }}-${{ github.ref }}
       cancel-in-progress: true
@@ -17,7 +16,7 @@ jobs:
       - name: Depoyu Kopyala
         uses: actions/checkout@v3
         with:
-          fetch-depth: 0 # Tüm geçmişi çeker, hata payını azaltır
+          fetch-depth: 0
 
       - name: Python Kurulumu
         uses: actions/setup-python@v4
@@ -39,12 +38,11 @@ jobs:
           git config --global user.email "action@github.com"
           git config --global user.name "GitHub Action"
           
-          # Tüm m3u dosyalarını ekle
-          git add yayinlarim.m3u seyir_sandigi.m3u live.m3u
+          # Sadece mevcut olan dosyaları ekliyoruz (live.m3u çıkarıldı)
+          git add yayinlarim.m3u seyir_sandigi.m3u
           
-          # Değişiklik varsa commit yap, yoksa geç
           git commit -m "Saatlik Guncelleme: YouTube + Arsir" || exit 0
           
-          # Çakışmayı önlemek için önce çek, sonra it
+          # Çakışmaları engellemek için pull ve push
           git pull --rebase origin main
           git push origin main
