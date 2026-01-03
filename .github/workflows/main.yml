@@ -2,14 +2,16 @@ name: Saatlik IPTV Guncelleme
 
 on:
   schedule:
-    - cron: '0 * * * *'
-  workflow_dispatch: 
+    - cron: '0 * * * *'  # Her saat başı
+  workflow_dispatch:      # Manuel başlatma
 
 jobs:
   build:
     runs-on: ubuntu-latest
+    # Yazma izinlerini buradan kesin olarak veriyoruz
     permissions:
-      contents: write # Dosya yazma yetkisini buradan da zorluyoruz
+      contents: write
+    
     concurrency:
       group: ${{ github.workflow }}-${{ github.ref }}
       cancel-in-progress: true
@@ -29,22 +31,25 @@ jobs:
         run: |
           pip install yt-dlp requests
 
-      - name: YouTube Listesini Calistir
-        run: python main.py
+      - name: Listeleri Olustur (YouTube + Seyir Sandigi)
+        run: |
+          python main.py
+          python archive.py
 
-      - name: Seyir Sandigi Arsirini Calistir
-        run: python archive.py
-
-      - name: Dosyalari Kesin Kaydet
+      - name: Degisiklikleri Kontrol Et ve Kesin Kaydet
         run: |
           git config --global user.email "action@github.com"
           git config --global user.name "GitHub Action"
           
-          # Mevcut m3u dosyalarını listeye al
+          # Dosyaların oluştuğundan emin olalım
+          ls -la *.m3u
+          
+          # Tüm değişiklikleri ekle
           git add yayinlarim.m3u seyir_sandigi.m3u
           
-          # Değişiklik varsa kaydet
-          git commit -m "Oto Guncelleme: $(date +'%d-%m-%Y %H:%M')" || exit 0
+          # Tarih damgalı yeni bir kayıt oluştur (Değişiklik yoksa bile zorlamaz)
+          git commit -m "Oto Guncelleme: $(date +'%Y-%m-%d %H:%M')" || echo "Degisiklik yok"
           
-          # Zorlayarak gönder
-          git push origin main --force
+          # Çakışmaları önleyerek gönder
+          git pull --rebase origin main
+          git push origin main
