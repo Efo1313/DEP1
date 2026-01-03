@@ -2,12 +2,14 @@ name: Saatlik IPTV Guncelleme
 
 on:
   schedule:
-    - cron: '0 * * * *'  # Her saat başı çalışır
-  workflow_dispatch:      # İstediğinde elinle başlatabilirsin
+    - cron: '0 * * * *'
+  workflow_dispatch: 
 
 jobs:
   build:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write # Dosya yazma yetkisini buradan da zorluyoruz
     concurrency:
       group: ${{ github.workflow }}-${{ github.ref }}
       cancel-in-progress: true
@@ -33,16 +35,16 @@ jobs:
       - name: Seyir Sandigi Arsirini Calistir
         run: python archive.py
 
-      - name: Degisiklikleri Kaydet ve Zorla Gonder
+      - name: Dosyalari Kesin Kaydet
         run: |
           git config --global user.email "action@github.com"
           git config --global user.name "GitHub Action"
           
-          # Sadece mevcut olan dosyaları ekliyoruz (live.m3u çıkarıldı)
+          # Mevcut m3u dosyalarını listeye al
           git add yayinlarim.m3u seyir_sandigi.m3u
           
-          git commit -m "Saatlik Guncelleme: YouTube + Arsir" || exit 0
+          # Değişiklik varsa kaydet
+          git commit -m "Oto Guncelleme: $(date +'%d-%m-%Y %H:%M')" || exit 0
           
-          # Çakışmaları engellemek için pull ve push
-          git pull --rebase origin main
-          git push origin main
+          # Zorlayarak gönder
+          git push origin main --force
