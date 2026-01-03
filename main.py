@@ -1,8 +1,6 @@
-# -*- coding: utf-8 -*-
 import os
 import datetime
 
-# Kanal listesi
 channels = [
     "CNN Turk|UCV6zcRug6Hqp1UX_FdyUeBg",
     "Haber Turk|UCn6dNfiRE_Xunu7iMyvD7AA",
@@ -28,29 +26,17 @@ channels = [
     "Korku Filmleri TV|UCsbpTjR1Vh0L3gvBg9d0Dbg"
 ]
 
-print(f"Guncelleme Saati: {datetime.datetime.now()}")
-
-# Gercekci bir User-Agent
-UA = "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+now = datetime.datetime.now().strftime("%d.%m.%Y %H:%M")
 
 with open("yayinlarim.m3u", "w", encoding="utf-8") as f:
-    f.write("#EXTM3U\n")
+    f.write(f"#EXTM3U\n# Guncelleme: {now}\n") # Zaman damgası eklendi
     
     for channel in channels:
         name, channel_id = channel.split("|")
         live_url = f"https://www.youtube.com/channel/{channel_id}/live"
-        
-        # yt-dlp komutunu daha agresif ve net hale getirdik
-        # -f 95/94/best: Belirli kalite formatlarini zorlar
-        cmd = f"yt-dlp --geo-bypass --user-agent '{UA}' -f 95/94/best -g {live_url}"
-        m3u8_link = os.popen(cmd).read().strip()
+        m3u8_link = os.popen(f"yt-dlp --geo-bypass -g {live_url}").read().strip()
         
         if m3u8_link and "m3u8" in m3u8_link:
             f.write(f"#EXTINF:-1,{name}\n{m3u8_link}\n")
-            print(f"OK: {name}")
         else:
-            # Yedek link
             f.write(f"#EXTINF:-1,{name} (Direkt Link)\n{live_url}\n")
-            print(f"FAILED: {name} (Yedek link eklendi)")
-
-print("Yayinlarim.m3u listesi tamamlandi.")
