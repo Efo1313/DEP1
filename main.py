@@ -1,6 +1,6 @@
 import os
 
-# Daha önce 3 taneydi, şimdi paylaştığın listedeki tüm kanalları ekliyoruz
+# Kanal listesi (İsim|ID formatında)
 channels = [
     # --- HABER KANALLARI ---
     "CNN Turk|UCV6zcRug6Hqp1UX_FdyUeBg",
@@ -31,7 +31,7 @@ channels = [
     "Korku Filmleri TV|UCsbpTjR1Vh0L3gvBg9d0Dbg"
 ]
 
-# IPTV Listesini oluşturmaya başlıyoruz
+# IPTV Listesini oluşturuyoruz
 with open("yayinlarim.m3u", "w", encoding="utf-8") as f:
     f.write("#EXTM3U\n")
     
@@ -39,14 +39,13 @@ with open("yayinlarim.m3u", "w", encoding="utf-8") as f:
         name, channel_id = channel.split("|")
         print(f"{name} için link alınıyor...")
         
-        # YouTube canlı yayın adresini oluştur
+        # YouTube canlı yayın adresi
         url = f"https://www.youtube.com/channel/{channel_id}/live"
         
-        # Daha önce yaptığımız gibi yt-dlp ile ham linki çekiyoruz
+        # yt-dlp ile ham m3u8 linkini çekiyoruz (-g komutu linki verir)
         m3u8_url = os.popen(f"yt-dlp -g {url}").read().strip()
         
         if m3u8_url:
-            # M3U formatına uygun şekilde yazıyoruz
             f.write(f"#EXTINF:-1,{name}\n{m3u8_url}\n")
 
-print("İşlem tamam! Yeni listen hazır.")
+print("İşlem tamam! yayinlarim.m3u dosyası oluşturuldu.")
