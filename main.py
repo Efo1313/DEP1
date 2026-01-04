@@ -1,42 +1,48 @@
 import os
 import datetime
 import requests
-import re
 
-channels = [
-    "CNN Turk|UCV6zcRug6Hqp1UX_FdyUeBg",
-    "Haber Turk|UCn6dNfiRE_Xunu7iMyvD7AA",
-    "NTV|UC9TDTjbOjFB9jADmPhSAPsw",
-    "Haber Global|UCtc-a9ZUIg0_5HpsPxEO7Qg",
-    "TRT Haber|UCBgTP2LOFVPmq15W-RH-WXA",
-    "A Spor|UCJElRTCNEmLemgirqvsW63Q",
-    "Now Spor|UCHowoDxzhyCPQBzhOpeP4-w",
-    "CNBC-e|UCaO-M1dXacMwtyg0Pvovk4w",
-    "Bein Sport Haber|UCPe9vNjHF1kEExT5kHwc7aw",
-    "TJK TV|UC_8NgeVv0Ccl96U6C7E_fSg"
-]
-
+# Zaman damgası
 now = datetime.datetime.now().strftime("%d.%m.%Y %H:%M")
-print(f"Islem basladi: {now}")
+
+def get_fallback_links():
+    """Eğer YouTube engellerse, internetteki açık kaynaklı m3u8 linklerini çekmeye çalışır."""
+    try:
+        # Örnek bir açık kaynaklı liste (Alternatif kanal havuzu)
+        url = "https://raw.githubusercontent.com/iptv-org/iptv/master/streams/tr.m3u"
+        response = requests.get(url, timeout=10)
+        if response.status_code == 200:
+            return response.text
+    except:
+        return ""
+    return ""
+
+print(f"İşlem başladı: {now}")
 
 with open("yayinlarim.m3u", "w", encoding="utf-8") as f:
     f.write(f"#EXTM3U\n# Guncelleme: {now}\n")
     
+    # Kendi kanal listemizi de eklemeye çalışalım
+    channels = [
+        "CNN Turk|UCV6zcRug6Hqp1UX_FdyUeBg",
+        "Haber Turk|UCn6dNfiRE_Xunu7iMyvD7AA",
+        "NTV|UC9TDTjbOjFB9jADmPhSAPsw",
+        "TRT Haber|UCBgTP2LOFVPmq15W-RH-WXA",
+        "A Spor|UCJElRTCNEmLemgirqvsW63Q"
+    ]
+
     for channel in channels:
         name, channel_id = channel.split("|")
-        # YouTube Video ID'sini bulmak icin embed sayfasini tara
-        try:
-            url = f"https://www.youtube.com/embed/live_stream?channel={channel_id}"
-            # yt-dlp'ye ek parametreler ekleyerek (hls-prefer-native) zorluyoruz
-            cmd = f"yt-dlp --geo-bypass --user-agent 'Mozilla/5.0' --no-check-certificate --quiet -g {url}"
-            m3u8_link = os.popen(cmd).read().strip()
-            
-            if m3u8_link and "m3u8" in m3u8_link:
-                f.write(f"#EXTINF:-1,{name}\n{m3u8_link}\n")
-                print(f"Basarili: {name}")
-            else:
-                print(f"Uyari: {name} icin link dondurulemedi.")
-        except Exception as e:
-            print(f"Hata olustu {name}: {e}")
+        url = f"https://www.youtube.com/embed/live_stream?channel={channel_id}"
+        cmd = f"yt-dlp --geo-bypass -g {url}"
+        m3u8_link = os.popen(cmd).read().strip()
+        
+        if m3u8_link and "m3u8" in m3u8_link:
+            f.write(f"#EXTINF:-1,{name}\n{m3u8_link}\n")
+            print(f"Başarılı: {name}")
 
-print("Liste guncellendi.")
+    # Eğer YouTube engellediyse ve liste çok kısaysa yedek havuzdan ekleme yap
+    f.write("\n# --- YEDEK KANALLAR ---\n")
+    f.write(get_fallback_links())
+
+print("Liste güncellendi.")
