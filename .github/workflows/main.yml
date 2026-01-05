@@ -8,7 +8,6 @@ on:
 jobs:
   build:
     runs-on: ubuntu-latest
-    # Yazma izinlerini buradan kesin olarak veriyoruz
     permissions:
       contents: write
     
@@ -31,9 +30,9 @@ jobs:
         run: |
           pip install yt-dlp requests
 
-      - name: Listeleri Olustur (YouTube + Seyir Sandigi)
+      - name: Listeleri Olustur (Sadece Seyir Sandigi)
         run: |
-          python main.py
+          # python main.py satırı kaldırıldı
           python archive.py
 
       - name: Degisiklikleri Kontrol Et ve Kesin Kaydet
@@ -41,15 +40,13 @@ jobs:
           git config --global user.email "action@github.com"
           git config --global user.name "GitHub Action"
           
-          # Dosyaların oluştuğundan emin olalım
-          ls -la *.m3u
+          # Sadece seyir_sandigi dosyasını kontrol ediyoruz
+          ls -la seyir_sandigi.m3u
           
-          # Tüm değişiklikleri ekle
-          git add yayinlarim.m3u seyir_sandigi.m3u
+          # yayinlarim.m3u buradan çıkarıldı, sadece seyir_sandigi kaldı
+          git add seyir_sandigi.m3u
           
-          # Tarih damgalı yeni bir kayıt oluştur (Değişiklik yoksa bile zorlamaz)
           git commit -m "Oto Guncelleme: $(date +'%Y-%m-%d %H:%M')" || echo "Degisiklik yok"
           
-          # Çakışmaları önleyerek gönder
           git pull --rebase origin main
           git push origin main
