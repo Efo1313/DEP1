@@ -8,6 +8,7 @@ ARCHIVE_URL = "http://85.11.144.8/archive/"
 
 # YENİ LOGO LİSTESİ (Hizliresim linkleri entegre edildi)
 CHANNEL_DATA = {
+    "1932": {"name": "BNT 1", "logo": "https://i.hizliresim.com/2ub474j.png"}
     "2": {"name": "bTV", "logo": "https://i.hizliresim.com/otlg64v.png"},
     "3": {"name": "Nova", "logo": "https://i.hizliresim.com/2bq59u9.png"},
     "4": {"name": "bTV Cinema", "logo": "https://i.hizliresim.com/9b6i9by.png"},
