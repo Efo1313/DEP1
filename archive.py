@@ -61,7 +61,7 @@ CHANNEL_DATA = {
     "20": {"name": "ALFA Ataka", "logo": "https://i.hizliresim.com/ka3h7hz.png"},
     "21": {"name": "Animal Planet", "logo": "https://i.hizliresim.com/95spf00.png"},
     "29": {"name": "Cartoonito", "logo": "https://i.hizliresim.com/8tvmxda.png"},
-    "89": {"name": "TV 1000", "logo": "https://i.hizliresim.com/j9obm2h.png"},
+    "89": {"name": "Viasat KİNO", "logo": "https://i.hizliresim.com/89wvm54.png"},
     "92": {"name": "TVT", "logo": "https://i.hizliresim.com/6fxoukd.png"},
     "94": {"name": "Viasat Explore", "logo": "https://i.hizliresim.com/s2403gs.png"},
     "95": {"name": "Viasat History", "logo": "https://i.hizliresim.com/lb9mlqx.png"},
