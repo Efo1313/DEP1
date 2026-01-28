@@ -45,7 +45,7 @@ CHANNEL_DATA = {
     "1498": {"name": "MAX Sport 2", "logo": "https://i.hizliresim.com/18djvhy.png"},
     "1721": {"name": "MAX Sport 3", "logo": "https://i.hizliresim.com/kayjpc2.png"},
     "1752": {"name": "MAX Sport 4", "logo": "https://i.hizliresim.com/45c5pf1.png"},
-    "76": {"name": "Ring", "logo": "https://i.hizliresim.com/palwmce.png"},
+    "76": {"name": "RING", "logo": "https://i.hizliresim.com/palwmce.png"},
     "10": {"name": "Nova Sport", "logo": "https://i.hizliresim.com/jr6z84f.png"},
     "49": {"name": "Evrokom", "logo": "https://i.hizliresim.com/ovtv2we.png"},
     "197": {"name": "7/8 TV", "logo": "https://i.hizliresim.com/4w9htsr.png"},
