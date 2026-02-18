@@ -1,0 +1,31 @@
+name: Canli Liste Guncelle
+on:
+  schedule:
+    - cron: '0 * * * *' # Her saat başı otomatik çalışır
+  workflow_dispatch: # Manuel (elle) çalıştırma butonu ekler
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Depoyu Kopyala
+        uses: actions/checkout@v3
+
+      - name: Python Kur
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.9'
+
+      - name: Gerekli Kutuphaneleri Yukle
+        run: pip install requests
+
+      - name: Listeyi Olustur
+        run: python build_list.py
+
+      - name: Degisiklikleri Kaydet
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          git add canli_tv.m3u
+          git commit -m "Canli M3U listesi guncellendi" || echo "Degisiklik yok"
+          git push
