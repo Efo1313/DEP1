@@ -1,4 +1,8 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/2ub474j.png" group-title="BNT 1",BNT 1 (22:00 - 20.09)
+http://85.11.144.8/archive/1932/20260920-22.mpg
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/2ub474j.png" group-title="BNT 1",BNT 1 (21:00 - 20.09)
+http://85.11.144.8/archive/1932/20260920-21.mpg
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/2ub474j.png" group-title="BNT 1",BNT 1 (20:00 - 20.09)
 http://85.11.144.8/archive/1932/20260920-20.mpg
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/2ub474j.png" group-title="BNT 1",BNT 1 (19:00 - 20.09)
@@ -91,10 +95,10 @@ http://85.11.144.8/archive/1932/20260919-01.mpg
 http://85.11.144.8/archive/1932/20260919-00.mpg
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/2ub474j.png" group-title="BNT 1",BNT 1 (23:00 - 18.09)
 http://85.11.144.8/archive/1932/20260918-23.mpg
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/2ub474j.png" group-title="BNT 1",BNT 1 (22:00 - 18.09)
-http://85.11.144.8/archive/1932/20260918-22.mpg
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/2ub474j.png" group-title="BNT 1",BNT 1 (21:00 - 18.09)
-http://85.11.144.8/archive/1932/20260918-21.mpg
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/rk2853y.png" group-title="BNT 2",BNT 2 (22:00 - 20.09)
+http://85.11.144.8/archive/16/20260920-22.mpg
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/rk2853y.png" group-title="BNT 2",BNT 2 (21:00 - 20.09)
+http://85.11.144.8/archive/16/20260920-21.mpg
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/rk2853y.png" group-title="BNT 2",BNT 2 (20:00 - 20.09)
 http://85.11.144.8/archive/16/20260920-20.mpg
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/rk2853y.png" group-title="BNT 2",BNT 2 (19:00 - 20.09)
@@ -165,10 +169,10 @@ http://85.11.144.8/archive/16/20260919-12.mpg
 http://85.11.144.8/archive/16/20260919-11.mpg
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/rk2853y.png" group-title="BNT 2",BNT 2 (10:00 - 19.09)
 http://85.11.144.8/archive/16/20260919-10.mpg
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/rk2853y.png" group-title="BNT 2",BNT 2 (09:00 - 19.09)
-http://85.11.144.8/archive/16/20260919-09.mpg
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/rk2853y.png" group-title="BNT 2",BNT 2 (08:00 - 19.09)
-http://85.11.144.8/archive/16/20260919-08.mpg
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/39lts6a.png" group-title="BNT 3",BNT 3 (22:00 - 20.09)
+http://85.11.144.8/archive/54/20260920-22.mpg
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/39lts6a.png" group-title="BNT 3",BNT 3 (21:00 - 20.09)
+http://85.11.144.8/archive/54/20260920-21.mpg
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/39lts6a.png" group-title="BNT 3",BNT 3 (20:00 - 20.09)
 http://85.11.144.8/archive/54/20260920-20.mpg
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/39lts6a.png" group-title="BNT 3",BNT 3 (19:00 - 20.09)
@@ -261,10 +265,10 @@ http://85.11.144.8/archive/54/20260919-01.mpg
 http://85.11.144.8/archive/54/20260919-00.mpg
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/39lts6a.png" group-title="BNT 3",BNT 3 (23:00 - 18.09)
 http://85.11.144.8/archive/54/20260918-23.mpg
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/39lts6a.png" group-title="BNT 3",BNT 3 (22:00 - 18.09)
-http://85.11.144.8/archive/54/20260918-22.mpg
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/39lts6a.png" group-title="BNT 3",BNT 3 (21:00 - 18.09)
-http://85.11.144.8/archive/54/20260918-21.mpg
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/8tz6ugw.png" group-title="BNT 4",BNT 4 (22:00 - 20.09)
+http://85.11.144.8/archive/17/20260920-22.mpg
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/8tz6ugw.png" group-title="BNT 4",BNT 4 (21:00 - 20.09)
+http://85.11.144.8/archive/17/20260920-21.mpg
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/8tz6ugw.png" group-title="BNT 4",BNT 4 (20:00 - 20.09)
 http://85.11.144.8/archive/17/20260920-20.mpg
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/8tz6ugw.png" group-title="BNT 4",BNT 4 (19:00 - 20.09)
@@ -335,10 +339,10 @@ http://85.11.144.8/archive/17/20260919-12.mpg
 http://85.11.144.8/archive/17/20260919-11.mpg
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/8tz6ugw.png" group-title="BNT 4",BNT 4 (10:00 - 19.09)
 http://85.11.144.8/archive/17/20260919-10.mpg
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/8tz6ugw.png" group-title="BNT 4",BNT 4 (09:00 - 19.09)
-http://85.11.144.8/archive/17/20260919-09.mpg
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/8tz6ugw.png" group-title="BNT 4",BNT 4 (08:00 - 19.09)
-http://85.11.144.8/archive/17/20260919-08.mpg
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/2bq59u9.png" group-title="Nova",Nova (22:00 - 20.09)
+http://85.11.144.8/archive/3/20260920-22.mpg
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/2bq59u9.png" group-title="Nova",Nova (21:00 - 20.09)
+http://85.11.144.8/archive/3/20260920-21.mpg
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/2bq59u9.png" group-title="Nova",Nova (20:00 - 20.09)
 http://85.11.144.8/archive/3/20260920-20.mpg
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/2bq59u9.png" group-title="Nova",Nova (19:00 - 20.09)
@@ -431,10 +435,10 @@ http://85.11.144.8/archive/3/20260919-01.mpg
 http://85.11.144.8/archive/3/20260919-00.mpg
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/2bq59u9.png" group-title="Nova",Nova (23:00 - 18.09)
 http://85.11.144.8/archive/3/20260918-23.mpg
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/2bq59u9.png" group-title="Nova",Nova (22:00 - 18.09)
-http://85.11.144.8/archive/3/20260918-22.mpg
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/2bq59u9.png" group-title="Nova",Nova (21:00 - 18.09)
-http://85.11.144.8/archive/3/20260918-21.mpg
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/s1g6ly9.png" group-title="Nova News",Nova News (22:00 - 20.09)
+http://85.11.144.8/archive/43/20260920-22.mpg
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/s1g6ly9.png" group-title="Nova News",Nova News (21:00 - 20.09)
+http://85.11.144.8/archive/43/20260920-21.mpg
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/s1g6ly9.png" group-title="Nova News",Nova News (20:00 - 20.09)
 http://85.11.144.8/archive/43/20260920-20.mpg
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/s1g6ly9.png" group-title="Nova News",Nova News (19:00 - 20.09)
@@ -527,10 +531,10 @@ http://85.11.144.8/archive/43/20260919-01.mpg
 http://85.11.144.8/archive/43/20260919-00.mpg
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/s1g6ly9.png" group-title="Nova News",Nova News (23:00 - 18.09)
 http://85.11.144.8/archive/43/20260918-23.mpg
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/s1g6ly9.png" group-title="Nova News",Nova News (22:00 - 18.09)
-http://85.11.144.8/archive/43/20260918-22.mpg
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/s1g6ly9.png" group-title="Nova News",Nova News (21:00 - 18.09)
-http://85.11.144.8/archive/43/20260918-21.mpg
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/otlg64v.png" group-title="bTV",bTV (22:00 - 20.09)
+http://85.11.144.8/archive/2/20260920-22.mpg
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/otlg64v.png" group-title="bTV",bTV (21:00 - 20.09)
+http://85.11.144.8/archive/2/20260920-21.mpg
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/otlg64v.png" group-title="bTV",bTV (20:00 - 20.09)
 http://85.11.144.8/archive/2/20260920-20.mpg
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/otlg64v.png" group-title="bTV",bTV (19:00 - 20.09)
@@ -623,10 +627,10 @@ http://85.11.144.8/archive/2/20260919-01.mpg
 http://85.11.144.8/archive/2/20260919-00.mpg
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/otlg64v.png" group-title="bTV",bTV (23:00 - 18.09)
 http://85.11.144.8/archive/2/20260918-23.mpg
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/otlg64v.png" group-title="bTV",bTV (22:00 - 18.09)
-http://85.11.144.8/archive/2/20260918-22.mpg
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/otlg64v.png" group-title="bTV",bTV (21:00 - 18.09)
-http://85.11.144.8/archive/2/20260918-21.mpg
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/66jre4l.png" group-title="Bulgaria ON AIR",Bulgaria ON AIR (22:00 - 20.09)
+http://85.11.144.8/archive/18/20260920-22.mpg
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/66jre4l.png" group-title="Bulgaria ON AIR",Bulgaria ON AIR (21:00 - 20.09)
+http://85.11.144.8/archive/18/20260920-21.mpg
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/66jre4l.png" group-title="Bulgaria ON AIR",Bulgaria ON AIR (20:00 - 20.09)
 http://85.11.144.8/archive/18/20260920-20.mpg
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/66jre4l.png" group-title="Bulgaria ON AIR",Bulgaria ON AIR (19:00 - 20.09)
@@ -719,10 +723,10 @@ http://85.11.144.8/archive/18/20260919-01.mpg
 http://85.11.144.8/archive/18/20260919-00.mpg
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/66jre4l.png" group-title="Bulgaria ON AIR",Bulgaria ON AIR (23:00 - 18.09)
 http://85.11.144.8/archive/18/20260918-23.mpg
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/66jre4l.png" group-title="Bulgaria ON AIR",Bulgaria ON AIR (22:00 - 18.09)
-http://85.11.144.8/archive/18/20260918-22.mpg
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/66jre4l.png" group-title="Bulgaria ON AIR",Bulgaria ON AIR (21:00 - 18.09)
-http://85.11.144.8/archive/18/20260918-21.mpg
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/fco0mxc.png" group-title="Euronews",Euronews (22:00 - 20.09)
+http://85.11.144.8/archive/87/20260920-22.mpg
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/fco0mxc.png" group-title="Euronews",Euronews (21:00 - 20.09)
+http://85.11.144.8/archive/87/20260920-21.mpg
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/fco0mxc.png" group-title="Euronews",Euronews (20:00 - 20.09)
 http://85.11.144.8/archive/87/20260920-20.mpg
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/fco0mxc.png" group-title="Euronews",Euronews (19:00 - 20.09)
@@ -793,10 +797,10 @@ http://85.11.144.8/archive/87/20260919-12.mpg
 http://85.11.144.8/archive/87/20260919-11.mpg
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/fco0mxc.png" group-title="Euronews",Euronews (10:00 - 19.09)
 http://85.11.144.8/archive/87/20260919-10.mpg
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/fco0mxc.png" group-title="Euronews",Euronews (09:00 - 19.09)
-http://85.11.144.8/archive/87/20260919-09.mpg
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/fco0mxc.png" group-title="Euronews",Euronews (08:00 - 19.09)
-http://85.11.144.8/archive/87/20260919-08.mpg
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/ge6news.png" group-title="bTV Action",bTV Action (22:00 - 20.09)
+http://85.11.144.8/archive/11/20260920-22.mpg
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/ge6news.png" group-title="bTV Action",bTV Action (21:00 - 20.09)
+http://85.11.144.8/archive/11/20260920-21.mpg
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/ge6news.png" group-title="bTV Action",bTV Action (20:00 - 20.09)
 http://85.11.144.8/archive/11/20260920-20.mpg
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/ge6news.png" group-title="bTV Action",bTV Action (19:00 - 20.09)
@@ -889,10 +893,10 @@ http://85.11.144.8/archive/11/20260919-01.mpg
 http://85.11.144.8/archive/11/20260919-00.mpg
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/ge6news.png" group-title="bTV Action",bTV Action (23:00 - 18.09)
 http://85.11.144.8/archive/11/20260918-23.mpg
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/ge6news.png" group-title="bTV Action",bTV Action (22:00 - 18.09)
-http://85.11.144.8/archive/11/20260918-22.mpg
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/ge6news.png" group-title="bTV Action",bTV Action (21:00 - 18.09)
-http://85.11.144.8/archive/11/20260918-21.mpg
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/9b6i9by.png" group-title="bTV Cinema",bTV Cinema (22:00 - 20.09)
+http://85.11.144.8/archive/4/20260920-22.mpg
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/9b6i9by.png" group-title="bTV Cinema",bTV Cinema (21:00 - 20.09)
+http://85.11.144.8/archive/4/20260920-21.mpg
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/9b6i9by.png" group-title="bTV Cinema",bTV Cinema (20:00 - 20.09)
 http://85.11.144.8/archive/4/20260920-20.mpg
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/9b6i9by.png" group-title="bTV Cinema",bTV Cinema (19:00 - 20.09)
@@ -985,10 +989,10 @@ http://85.11.144.8/archive/4/20260919-01.mpg
 http://85.11.144.8/archive/4/20260919-00.mpg
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/9b6i9by.png" group-title="bTV Cinema",bTV Cinema (23:00 - 18.09)
 http://85.11.144.8/archive/4/20260918-23.mpg
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/9b6i9by.png" group-title="bTV Cinema",bTV Cinema (22:00 - 18.09)
-http://85.11.144.8/archive/4/20260918-22.mpg
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/9b6i9by.png" group-title="bTV Cinema",bTV Cinema (21:00 - 18.09)
-http://85.11.144.8/archive/4/20260918-21.mpg
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/streq9v.png" group-title="bTV Comedy",bTV Comedy (22:00 - 20.09)
+http://85.11.144.8/archive/6/20260920-22.mpg
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/streq9v.png" group-title="bTV Comedy",bTV Comedy (21:00 - 20.09)
+http://85.11.144.8/archive/6/20260920-21.mpg
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/streq9v.png" group-title="bTV Comedy",bTV Comedy (20:00 - 20.09)
 http://85.11.144.8/archive/6/20260920-20.mpg
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/streq9v.png" group-title="bTV Comedy",bTV Comedy (19:00 - 20.09)
@@ -1081,10 +1085,10 @@ http://85.11.144.8/archive/6/20260919-01.mpg
 http://85.11.144.8/archive/6/20260919-00.mpg
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/streq9v.png" group-title="bTV Comedy",bTV Comedy (23:00 - 18.09)
 http://85.11.144.8/archive/6/20260918-23.mpg
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/streq9v.png" group-title="bTV Comedy",bTV Comedy (22:00 - 18.09)
-http://85.11.144.8/archive/6/20260918-22.mpg
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/streq9v.png" group-title="bTV Comedy",bTV Comedy (21:00 - 18.09)
-http://85.11.144.8/archive/6/20260918-21.mpg
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/86a7ix8.png" group-title="bTV Story",bTV Story (22:00 - 20.09)
+http://85.11.144.8/archive/13/20260920-22.mpg
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/86a7ix8.png" group-title="bTV Story",bTV Story (21:00 - 20.09)
+http://85.11.144.8/archive/13/20260920-21.mpg
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/86a7ix8.png" group-title="bTV Story",bTV Story (20:00 - 20.09)
 http://85.11.144.8/archive/13/20260920-20.mpg
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/86a7ix8.png" group-title="bTV Story",bTV Story (19:00 - 20.09)
@@ -1177,10 +1181,10 @@ http://85.11.144.8/archive/13/20260919-01.mpg
 http://85.11.144.8/archive/13/20260919-00.mpg
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/86a7ix8.png" group-title="bTV Story",bTV Story (23:00 - 18.09)
 http://85.11.144.8/archive/13/20260918-23.mpg
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/86a7ix8.png" group-title="bTV Story",bTV Story (22:00 - 18.09)
-http://85.11.144.8/archive/13/20260918-22.mpg
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/86a7ix8.png" group-title="bTV Story",bTV Story (21:00 - 18.09)
-http://85.11.144.8/archive/13/20260918-21.mpg
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/tpuby2q.png" group-title="Diema",Diema (22:00 - 20.09)
+http://85.11.144.8/archive/5/20260920-22.mpg
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/tpuby2q.png" group-title="Diema",Diema (21:00 - 20.09)
+http://85.11.144.8/archive/5/20260920-21.mpg
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/tpuby2q.png" group-title="Diema",Diema (20:00 - 20.09)
 http://85.11.144.8/archive/5/20260920-20.mpg
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/tpuby2q.png" group-title="Diema",Diema (19:00 - 20.09)
@@ -1273,10 +1277,10 @@ http://85.11.144.8/archive/5/20260919-01.mpg
 http://85.11.144.8/archive/5/20260919-00.mpg
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/tpuby2q.png" group-title="Diema",Diema (23:00 - 18.09)
 http://85.11.144.8/archive/5/20260918-23.mpg
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/tpuby2q.png" group-title="Diema",Diema (22:00 - 18.09)
-http://85.11.144.8/archive/5/20260918-22.mpg
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/tpuby2q.png" group-title="Diema",Diema (21:00 - 18.09)
-http://85.11.144.8/archive/5/20260918-21.mpg
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/s6j1299.png" group-title="Diema Family",Diema Family (22:00 - 20.09)
+http://85.11.144.8/archive/12/20260920-22.mpg
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/s6j1299.png" group-title="Diema Family",Diema Family (21:00 - 20.09)
+http://85.11.144.8/archive/12/20260920-21.mpg
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/s6j1299.png" group-title="Diema Family",Diema Family (20:00 - 20.09)
 http://85.11.144.8/archive/12/20260920-20.mpg
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/s6j1299.png" group-title="Diema Family",Diema Family (19:00 - 20.09)
@@ -1369,10 +1373,10 @@ http://85.11.144.8/archive/12/20260919-01.mpg
 http://85.11.144.8/archive/12/20260919-00.mpg
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/s6j1299.png" group-title="Diema Family",Diema Family (23:00 - 18.09)
 http://85.11.144.8/archive/12/20260918-23.mpg
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/s6j1299.png" group-title="Diema Family",Diema Family (22:00 - 18.09)
-http://85.11.144.8/archive/12/20260918-22.mpg
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/s6j1299.png" group-title="Diema Family",Diema Family (21:00 - 18.09)
-http://85.11.144.8/archive/12/20260918-21.mpg
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/8z6j0zq.png" group-title="Kino Nova",Kino Nova (22:00 - 20.09)
+http://85.11.144.8/archive/9/20260920-22.mpg
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/8z6j0zq.png" group-title="Kino Nova",Kino Nova (21:00 - 20.09)
+http://85.11.144.8/archive/9/20260920-21.mpg
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/8z6j0zq.png" group-title="Kino Nova",Kino Nova (20:00 - 20.09)
 http://85.11.144.8/archive/9/20260920-20.mpg
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/8z6j0zq.png" group-title="Kino Nova",Kino Nova (19:00 - 20.09)
@@ -1465,10 +1469,10 @@ http://85.11.144.8/archive/9/20260919-01.mpg
 http://85.11.144.8/archive/9/20260919-00.mpg
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/8z6j0zq.png" group-title="Kino Nova",Kino Nova (23:00 - 18.09)
 http://85.11.144.8/archive/9/20260918-23.mpg
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/8z6j0zq.png" group-title="Kino Nova",Kino Nova (22:00 - 18.09)
-http://85.11.144.8/archive/9/20260918-22.mpg
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/8z6j0zq.png" group-title="Kino Nova",Kino Nova (21:00 - 18.09)
-http://85.11.144.8/archive/9/20260918-21.mpg
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/ci9hsbx.png" group-title="STAR Crime",STAR Crime (22:00 - 20.09)
+http://85.11.144.8/archive/57/20260920-22.mpg
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/ci9hsbx.png" group-title="STAR Crime",STAR Crime (21:00 - 20.09)
+http://85.11.144.8/archive/57/20260920-21.mpg
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/ci9hsbx.png" group-title="STAR Crime",STAR Crime (20:00 - 20.09)
 http://85.11.144.8/archive/57/20260920-20.mpg
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/ci9hsbx.png" group-title="STAR Crime",STAR Crime (19:00 - 20.09)
@@ -1561,10 +1565,10 @@ http://85.11.144.8/archive/57/20260919-01.mpg
 http://85.11.144.8/archive/57/20260919-00.mpg
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/ci9hsbx.png" group-title="STAR Crime",STAR Crime (23:00 - 18.09)
 http://85.11.144.8/archive/57/20260918-23.mpg
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/ci9hsbx.png" group-title="STAR Crime",STAR Crime (22:00 - 18.09)
-http://85.11.144.8/archive/57/20260918-22.mpg
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/ci9hsbx.png" group-title="STAR Crime",STAR Crime (21:00 - 18.09)
-http://85.11.144.8/archive/57/20260918-21.mpg
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/8t89vy4.png" group-title="STAR Channel",STAR Channel (22:00 - 20.09)
+http://85.11.144.8/archive/56/20260920-22.mpg
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/8t89vy4.png" group-title="STAR Channel",STAR Channel (21:00 - 20.09)
+http://85.11.144.8/archive/56/20260920-21.mpg
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/8t89vy4.png" group-title="STAR Channel",STAR Channel (20:00 - 20.09)
 http://85.11.144.8/archive/56/20260920-20.mpg
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/8t89vy4.png" group-title="STAR Channel",STAR Channel (19:00 - 20.09)
@@ -1657,10 +1661,10 @@ http://85.11.144.8/archive/56/20260919-01.mpg
 http://85.11.144.8/archive/56/20260919-00.mpg
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/8t89vy4.png" group-title="STAR Channel",STAR Channel (23:00 - 18.09)
 http://85.11.144.8/archive/56/20260918-23.mpg
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/8t89vy4.png" group-title="STAR Channel",STAR Channel (22:00 - 18.09)
-http://85.11.144.8/archive/56/20260918-22.mpg
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/8t89vy4.png" group-title="STAR Channel",STAR Channel (21:00 - 18.09)
-http://85.11.144.8/archive/56/20260918-21.mpg
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/nk4g37t.png" group-title="STAR Life",STAR Life (22:00 - 20.09)
+http://85.11.144.8/archive/58/20260920-22.mpg
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/nk4g37t.png" group-title="STAR Life",STAR Life (21:00 - 20.09)
+http://85.11.144.8/archive/58/20260920-21.mpg
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/nk4g37t.png" group-title="STAR Life",STAR Life (20:00 - 20.09)
 http://85.11.144.8/archive/58/20260920-20.mpg
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/nk4g37t.png" group-title="STAR Life",STAR Life (19:00 - 20.09)
@@ -1753,10 +1757,10 @@ http://85.11.144.8/archive/58/20260919-01.mpg
 http://85.11.144.8/archive/58/20260919-00.mpg
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/nk4g37t.png" group-title="STAR Life",STAR Life (23:00 - 18.09)
 http://85.11.144.8/archive/58/20260918-23.mpg
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/nk4g37t.png" group-title="STAR Life",STAR Life (22:00 - 18.09)
-http://85.11.144.8/archive/58/20260918-22.mpg
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/nk4g37t.png" group-title="STAR Life",STAR Life (21:00 - 18.09)
-http://85.11.144.8/archive/58/20260918-21.mpg
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/89wvm54.png" group-title="Viasat KİNO",Viasat KİNO (22:00 - 20.09)
+http://85.11.144.8/archive/89/20260920-22.mpg
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/89wvm54.png" group-title="Viasat KİNO",Viasat KİNO (21:00 - 20.09)
+http://85.11.144.8/archive/89/20260920-21.mpg
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/89wvm54.png" group-title="Viasat KİNO",Viasat KİNO (20:00 - 20.09)
 http://85.11.144.8/archive/89/20260920-20.mpg
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/89wvm54.png" group-title="Viasat KİNO",Viasat KİNO (19:00 - 20.09)
@@ -1803,10 +1807,10 @@ http://85.11.144.8/archive/89/20260920-00.mpg
 http://85.11.144.8/archive/89/20260919-23.mpg
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/89wvm54.png" group-title="Viasat KİNO",Viasat KİNO (22:00 - 19.09)
 http://85.11.144.8/archive/89/20260919-22.mpg
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/89wvm54.png" group-title="Viasat KİNO",Viasat KİNO (21:00 - 19.09)
-http://85.11.144.8/archive/89/20260919-21.mpg
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/89wvm54.png" group-title="Viasat KİNO",Viasat KİNO (20:00 - 19.09)
-http://85.11.144.8/archive/89/20260919-20.mpg
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/ea7kaop.png" group-title="HBO",HBO (22:00 - 20.09)
+http://85.11.144.8/archive/59/20260920-22.mpg
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/ea7kaop.png" group-title="HBO",HBO (21:00 - 20.09)
+http://85.11.144.8/archive/59/20260920-21.mpg
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/ea7kaop.png" group-title="HBO",HBO (20:00 - 20.09)
 http://85.11.144.8/archive/59/20260920-20.mpg
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/ea7kaop.png" group-title="HBO",HBO (19:00 - 20.09)
@@ -1899,10 +1903,10 @@ http://85.11.144.8/archive/59/20260919-01.mpg
 http://85.11.144.8/archive/59/20260919-00.mpg
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/ea7kaop.png" group-title="HBO",HBO (23:00 - 18.09)
 http://85.11.144.8/archive/59/20260918-23.mpg
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/ea7kaop.png" group-title="HBO",HBO (22:00 - 18.09)
-http://85.11.144.8/archive/59/20260918-22.mpg
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/ea7kaop.png" group-title="HBO",HBO (21:00 - 18.09)
-http://85.11.144.8/archive/59/20260918-21.mpg
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/g4v1cop.png" group-title="HBO 2",HBO 2 (22:00 - 20.09)
+http://85.11.144.8/archive/137/20260920-22.mpg
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/g4v1cop.png" group-title="HBO 2",HBO 2 (21:00 - 20.09)
+http://85.11.144.8/archive/137/20260920-21.mpg
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/g4v1cop.png" group-title="HBO 2",HBO 2 (20:00 - 20.09)
 http://85.11.144.8/archive/137/20260920-20.mpg
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/g4v1cop.png" group-title="HBO 2",HBO 2 (19:00 - 20.09)
@@ -1973,10 +1977,10 @@ http://85.11.144.8/archive/137/20260919-12.mpg
 http://85.11.144.8/archive/137/20260919-11.mpg
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/g4v1cop.png" group-title="HBO 2",HBO 2 (10:00 - 19.09)
 http://85.11.144.8/archive/137/20260919-10.mpg
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/g4v1cop.png" group-title="HBO 2",HBO 2 (09:00 - 19.09)
-http://85.11.144.8/archive/137/20260919-09.mpg
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/g4v1cop.png" group-title="HBO 2",HBO 2 (08:00 - 19.09)
-http://85.11.144.8/archive/137/20260919-08.mpg
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/d5qdqb3.png" group-title="HBO 3",HBO 3 (22:00 - 20.09)
+http://85.11.144.8/archive/7/20260920-22.mpg
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/d5qdqb3.png" group-title="HBO 3",HBO 3 (21:00 - 20.09)
+http://85.11.144.8/archive/7/20260920-21.mpg
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/d5qdqb3.png" group-title="HBO 3",HBO 3 (20:00 - 20.09)
 http://85.11.144.8/archive/7/20260920-20.mpg
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/d5qdqb3.png" group-title="HBO 3",HBO 3 (19:00 - 20.09)
@@ -2069,10 +2073,10 @@ http://85.11.144.8/archive/7/20260919-01.mpg
 http://85.11.144.8/archive/7/20260919-00.mpg
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/d5qdqb3.png" group-title="HBO 3",HBO 3 (23:00 - 18.09)
 http://85.11.144.8/archive/7/20260918-23.mpg
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/d5qdqb3.png" group-title="HBO 3",HBO 3 (22:00 - 18.09)
-http://85.11.144.8/archive/7/20260918-22.mpg
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/d5qdqb3.png" group-title="HBO 3",HBO 3 (21:00 - 18.09)
-http://85.11.144.8/archive/7/20260918-21.mpg
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/k5wyvth.png" group-title="AXN",AXN (22:00 - 20.09)
+http://85.11.144.8/archive/8/20260920-22.mpg
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/k5wyvth.png" group-title="AXN",AXN (21:00 - 20.09)
+http://85.11.144.8/archive/8/20260920-21.mpg
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/k5wyvth.png" group-title="AXN",AXN (20:00 - 20.09)
 http://85.11.144.8/archive/8/20260920-20.mpg
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/k5wyvth.png" group-title="AXN",AXN (19:00 - 20.09)
@@ -2143,10 +2147,10 @@ http://85.11.144.8/archive/8/20260919-12.mpg
 http://85.11.144.8/archive/8/20260919-11.mpg
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/k5wyvth.png" group-title="AXN",AXN (10:00 - 19.09)
 http://85.11.144.8/archive/8/20260919-10.mpg
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/k5wyvth.png" group-title="AXN",AXN (09:00 - 19.09)
-http://85.11.144.8/archive/8/20260919-09.mpg
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/k5wyvth.png" group-title="AXN",AXN (08:00 - 19.09)
-http://85.11.144.8/archive/8/20260919-08.mpg
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/ovngoqt.png" group-title="AXN Black",AXN Black (22:00 - 20.09)
+http://85.11.144.8/archive/14/20260920-22.mpg
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/ovngoqt.png" group-title="AXN Black",AXN Black (21:00 - 20.09)
+http://85.11.144.8/archive/14/20260920-21.mpg
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/ovngoqt.png" group-title="AXN Black",AXN Black (20:00 - 20.09)
 http://85.11.144.8/archive/14/20260920-20.mpg
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/ovngoqt.png" group-title="AXN Black",AXN Black (19:00 - 20.09)
@@ -2217,10 +2221,10 @@ http://85.11.144.8/archive/14/20260919-12.mpg
 http://85.11.144.8/archive/14/20260919-11.mpg
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/ovngoqt.png" group-title="AXN Black",AXN Black (10:00 - 19.09)
 http://85.11.144.8/archive/14/20260919-10.mpg
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/ovngoqt.png" group-title="AXN Black",AXN Black (09:00 - 19.09)
-http://85.11.144.8/archive/14/20260919-09.mpg
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/ovngoqt.png" group-title="AXN Black",AXN Black (08:00 - 19.09)
-http://85.11.144.8/archive/14/20260919-08.mpg
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/1jgzk8r.png" group-title="AXN White",AXN White (22:00 - 20.09)
+http://85.11.144.8/archive/15/20260920-22.mpg
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/1jgzk8r.png" group-title="AXN White",AXN White (21:00 - 20.09)
+http://85.11.144.8/archive/15/20260920-21.mpg
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/1jgzk8r.png" group-title="AXN White",AXN White (20:00 - 20.09)
 http://85.11.144.8/archive/15/20260920-20.mpg
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/1jgzk8r.png" group-title="AXN White",AXN White (19:00 - 20.09)
@@ -2291,10 +2295,10 @@ http://85.11.144.8/archive/15/20260919-12.mpg
 http://85.11.144.8/archive/15/20260919-11.mpg
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/1jgzk8r.png" group-title="AXN White",AXN White (10:00 - 19.09)
 http://85.11.144.8/archive/15/20260919-10.mpg
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/1jgzk8r.png" group-title="AXN White",AXN White (09:00 - 19.09)
-http://85.11.144.8/archive/15/20260919-09.mpg
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/1jgzk8r.png" group-title="AXN White",AXN White (08:00 - 19.09)
-http://85.11.144.8/archive/15/20260919-08.mpg
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/417bgpy.png" group-title="Nat Geo",Nat Geo (22:00 - 20.09)
+http://85.11.144.8/archive/66/20260920-22.mpg
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/417bgpy.png" group-title="Nat Geo",Nat Geo (21:00 - 20.09)
+http://85.11.144.8/archive/66/20260920-21.mpg
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/417bgpy.png" group-title="Nat Geo",Nat Geo (20:00 - 20.09)
 http://85.11.144.8/archive/66/20260920-20.mpg
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/417bgpy.png" group-title="Nat Geo",Nat Geo (19:00 - 20.09)
@@ -2387,10 +2391,10 @@ http://85.11.144.8/archive/66/20260919-01.mpg
 http://85.11.144.8/archive/66/20260919-00.mpg
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/417bgpy.png" group-title="Nat Geo",Nat Geo (23:00 - 18.09)
 http://85.11.144.8/archive/66/20260918-23.mpg
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/417bgpy.png" group-title="Nat Geo",Nat Geo (22:00 - 18.09)
-http://85.11.144.8/archive/66/20260918-22.mpg
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/417bgpy.png" group-title="Nat Geo",Nat Geo (21:00 - 18.09)
-http://85.11.144.8/archive/66/20260918-21.mpg
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/dvw80ug.png" group-title="Nat Geo Wild",Nat Geo Wild (22:00 - 20.09)
+http://85.11.144.8/archive/65/20260920-22.mpg
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/dvw80ug.png" group-title="Nat Geo Wild",Nat Geo Wild (21:00 - 20.09)
+http://85.11.144.8/archive/65/20260920-21.mpg
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/dvw80ug.png" group-title="Nat Geo Wild",Nat Geo Wild (20:00 - 20.09)
 http://85.11.144.8/archive/65/20260920-20.mpg
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/dvw80ug.png" group-title="Nat Geo Wild",Nat Geo Wild (19:00 - 20.09)
@@ -2483,10 +2487,10 @@ http://85.11.144.8/archive/65/20260919-01.mpg
 http://85.11.144.8/archive/65/20260919-00.mpg
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/dvw80ug.png" group-title="Nat Geo Wild",Nat Geo Wild (23:00 - 18.09)
 http://85.11.144.8/archive/65/20260918-23.mpg
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/dvw80ug.png" group-title="Nat Geo Wild",Nat Geo Wild (22:00 - 18.09)
-http://85.11.144.8/archive/65/20260918-22.mpg
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/dvw80ug.png" group-title="Nat Geo Wild",Nat Geo Wild (21:00 - 18.09)
-http://85.11.144.8/archive/65/20260918-21.mpg
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/95spf00.png" group-title="Animal Planet",Animal Planet (22:00 - 20.09)
+http://85.11.144.8/archive/21/20260920-22.mpg
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/95spf00.png" group-title="Animal Planet",Animal Planet (21:00 - 20.09)
+http://85.11.144.8/archive/21/20260920-21.mpg
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/95spf00.png" group-title="Animal Planet",Animal Planet (20:00 - 20.09)
 http://85.11.144.8/archive/21/20260920-20.mpg
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/95spf00.png" group-title="Animal Planet",Animal Planet (19:00 - 20.09)
@@ -2579,10 +2583,10 @@ http://85.11.144.8/archive/21/20260919-01.mpg
 http://85.11.144.8/archive/21/20260919-00.mpg
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/95spf00.png" group-title="Animal Planet",Animal Planet (23:00 - 18.09)
 http://85.11.144.8/archive/21/20260918-23.mpg
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/95spf00.png" group-title="Animal Planet",Animal Planet (22:00 - 18.09)
-http://85.11.144.8/archive/21/20260918-22.mpg
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/95spf00.png" group-title="Animal Planet",Animal Planet (21:00 - 18.09)
-http://85.11.144.8/archive/21/20260918-21.mpg
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/sif2sjf.png" group-title="Discovery",Discovery (22:00 - 20.09)
+http://85.11.144.8/archive/38/20260920-22.mpg
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/sif2sjf.png" group-title="Discovery",Discovery (21:00 - 20.09)
+http://85.11.144.8/archive/38/20260920-21.mpg
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/sif2sjf.png" group-title="Discovery",Discovery (20:00 - 20.09)
 http://85.11.144.8/archive/38/20260920-20.mpg
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/sif2sjf.png" group-title="Discovery",Discovery (19:00 - 20.09)
@@ -2675,10 +2679,10 @@ http://85.11.144.8/archive/38/20260919-01.mpg
 http://85.11.144.8/archive/38/20260919-00.mpg
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/sif2sjf.png" group-title="Discovery",Discovery (23:00 - 18.09)
 http://85.11.144.8/archive/38/20260918-23.mpg
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/sif2sjf.png" group-title="Discovery",Discovery (22:00 - 18.09)
-http://85.11.144.8/archive/38/20260918-22.mpg
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/sif2sjf.png" group-title="Discovery",Discovery (21:00 - 18.09)
-http://85.11.144.8/archive/38/20260918-21.mpg
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/lb9mlqx.png" group-title="Viasat History",Viasat History (22:00 - 20.09)
+http://85.11.144.8/archive/95/20260920-22.mpg
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/lb9mlqx.png" group-title="Viasat History",Viasat History (21:00 - 20.09)
+http://85.11.144.8/archive/95/20260920-21.mpg
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/lb9mlqx.png" group-title="Viasat History",Viasat History (20:00 - 20.09)
 http://85.11.144.8/archive/95/20260920-20.mpg
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/lb9mlqx.png" group-title="Viasat History",Viasat History (19:00 - 20.09)
@@ -2771,10 +2775,10 @@ http://85.11.144.8/archive/95/20260919-01.mpg
 http://85.11.144.8/archive/95/20260919-00.mpg
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/lb9mlqx.png" group-title="Viasat History",Viasat History (23:00 - 18.09)
 http://85.11.144.8/archive/95/20260918-23.mpg
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/lb9mlqx.png" group-title="Viasat History",Viasat History (22:00 - 18.09)
-http://85.11.144.8/archive/95/20260918-22.mpg
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/lb9mlqx.png" group-title="Viasat History",Viasat History (21:00 - 18.09)
-http://85.11.144.8/archive/95/20260918-21.mpg
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/s2403gs.png" group-title="Viasat Explore",Viasat Explore (22:00 - 20.09)
+http://85.11.144.8/archive/94/20260920-22.mpg
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/s2403gs.png" group-title="Viasat Explore",Viasat Explore (21:00 - 20.09)
+http://85.11.144.8/archive/94/20260920-21.mpg
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/s2403gs.png" group-title="Viasat Explore",Viasat Explore (20:00 - 20.09)
 http://85.11.144.8/archive/94/20260920-20.mpg
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/s2403gs.png" group-title="Viasat Explore",Viasat Explore (19:00 - 20.09)
@@ -2867,10 +2871,10 @@ http://85.11.144.8/archive/94/20260919-01.mpg
 http://85.11.144.8/archive/94/20260919-00.mpg
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/s2403gs.png" group-title="Viasat Explore",Viasat Explore (23:00 - 18.09)
 http://85.11.144.8/archive/94/20260918-23.mpg
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/s2403gs.png" group-title="Viasat Explore",Viasat Explore (22:00 - 18.09)
-http://85.11.144.8/archive/94/20260918-22.mpg
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/s2403gs.png" group-title="Viasat Explore",Viasat Explore (21:00 - 18.09)
-http://85.11.144.8/archive/94/20260918-21.mpg
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/aolr613.png" group-title="Viasat Nature",Viasat Nature (22:00 - 20.09)
+http://85.11.144.8/archive/96/20260920-22.mpg
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/aolr613.png" group-title="Viasat Nature",Viasat Nature (21:00 - 20.09)
+http://85.11.144.8/archive/96/20260920-21.mpg
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/aolr613.png" group-title="Viasat Nature",Viasat Nature (20:00 - 20.09)
 http://85.11.144.8/archive/96/20260920-20.mpg
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/aolr613.png" group-title="Viasat Nature",Viasat Nature (19:00 - 20.09)
@@ -2963,10 +2967,10 @@ http://85.11.144.8/archive/96/20260919-01.mpg
 http://85.11.144.8/archive/96/20260919-00.mpg
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/aolr613.png" group-title="Viasat Nature",Viasat Nature (23:00 - 18.09)
 http://85.11.144.8/archive/96/20260918-23.mpg
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/aolr613.png" group-title="Viasat Nature",Viasat Nature (22:00 - 18.09)
-http://85.11.144.8/archive/96/20260918-22.mpg
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/aolr613.png" group-title="Viasat Nature",Viasat Nature (21:00 - 18.09)
-http://85.11.144.8/archive/96/20260918-21.mpg
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/34ti4tu.png" group-title="24 Kitchen",24 Kitchen (22:00 - 20.09)
+http://85.11.144.8/archive/746/20260920-22.mpg
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/34ti4tu.png" group-title="24 Kitchen",24 Kitchen (21:00 - 20.09)
+http://85.11.144.8/archive/746/20260920-21.mpg
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/34ti4tu.png" group-title="24 Kitchen",24 Kitchen (20:00 - 20.09)
 http://85.11.144.8/archive/746/20260920-20.mpg
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/34ti4tu.png" group-title="24 Kitchen",24 Kitchen (19:00 - 20.09)
@@ -3059,10 +3063,10 @@ http://85.11.144.8/archive/746/20260919-01.mpg
 http://85.11.144.8/archive/746/20260919-00.mpg
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/34ti4tu.png" group-title="24 Kitchen",24 Kitchen (23:00 - 18.09)
 http://85.11.144.8/archive/746/20260918-23.mpg
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/34ti4tu.png" group-title="24 Kitchen",24 Kitchen (22:00 - 18.09)
-http://85.11.144.8/archive/746/20260918-22.mpg
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/34ti4tu.png" group-title="24 Kitchen",24 Kitchen (21:00 - 18.09)
-http://85.11.144.8/archive/746/20260918-21.mpg
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/jwzxbvd.png" group-title="TLC",TLC (22:00 - 20.09)
+http://85.11.144.8/archive/86/20260920-22.mpg
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/jwzxbvd.png" group-title="TLC",TLC (21:00 - 20.09)
+http://85.11.144.8/archive/86/20260920-21.mpg
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/jwzxbvd.png" group-title="TLC",TLC (20:00 - 20.09)
 http://85.11.144.8/archive/86/20260920-20.mpg
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/jwzxbvd.png" group-title="TLC",TLC (19:00 - 20.09)
@@ -3109,10 +3113,10 @@ http://85.11.144.8/archive/86/20260920-00.mpg
 http://85.11.144.8/archive/86/20260919-23.mpg
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/jwzxbvd.png" group-title="TLC",TLC (22:00 - 19.09)
 http://85.11.144.8/archive/86/20260919-22.mpg
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/jwzxbvd.png" group-title="TLC",TLC (21:00 - 19.09)
-http://85.11.144.8/archive/86/20260919-21.mpg
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/jwzxbvd.png" group-title="TLC",TLC (20:00 - 19.09)
-http://85.11.144.8/archive/86/20260919-20.mpg
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/hj1h57y.png" group-title="Eurosport 1",Eurosport 1 (22:00 - 20.09)
+http://85.11.144.8/archive/47/20260920-22.mpg
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/hj1h57y.png" group-title="Eurosport 1",Eurosport 1 (21:00 - 20.09)
+http://85.11.144.8/archive/47/20260920-21.mpg
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/hj1h57y.png" group-title="Eurosport 1",Eurosport 1 (20:00 - 20.09)
 http://85.11.144.8/archive/47/20260920-20.mpg
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/hj1h57y.png" group-title="Eurosport 1",Eurosport 1 (19:00 - 20.09)
@@ -3205,10 +3209,10 @@ http://85.11.144.8/archive/47/20260919-01.mpg
 http://85.11.144.8/archive/47/20260919-00.mpg
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/hj1h57y.png" group-title="Eurosport 1",Eurosport 1 (23:00 - 18.09)
 http://85.11.144.8/archive/47/20260918-23.mpg
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/hj1h57y.png" group-title="Eurosport 1",Eurosport 1 (22:00 - 18.09)
-http://85.11.144.8/archive/47/20260918-22.mpg
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/hj1h57y.png" group-title="Eurosport 1",Eurosport 1 (21:00 - 18.09)
-http://85.11.144.8/archive/47/20260918-21.mpg
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/qx6mrva.png" group-title="Eurosport 2",Eurosport 2 (22:00 - 20.09)
+http://85.11.144.8/archive/48/20260920-22.mpg
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/qx6mrva.png" group-title="Eurosport 2",Eurosport 2 (21:00 - 20.09)
+http://85.11.144.8/archive/48/20260920-21.mpg
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/qx6mrva.png" group-title="Eurosport 2",Eurosport 2 (20:00 - 20.09)
 http://85.11.144.8/archive/48/20260920-20.mpg
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/qx6mrva.png" group-title="Eurosport 2",Eurosport 2 (19:00 - 20.09)
@@ -3301,10 +3305,10 @@ http://85.11.144.8/archive/48/20260919-01.mpg
 http://85.11.144.8/archive/48/20260919-00.mpg
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/qx6mrva.png" group-title="Eurosport 2",Eurosport 2 (23:00 - 18.09)
 http://85.11.144.8/archive/48/20260918-23.mpg
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/qx6mrva.png" group-title="Eurosport 2",Eurosport 2 (22:00 - 18.09)
-http://85.11.144.8/archive/48/20260918-22.mpg
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/qx6mrva.png" group-title="Eurosport 2",Eurosport 2 (21:00 - 18.09)
-http://85.11.144.8/archive/48/20260918-21.mpg
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/aeofcfr.png" group-title="Diema Sport",Diema Sport (22:00 - 20.09)
+http://85.11.144.8/archive/485/20260920-22.mpg
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/aeofcfr.png" group-title="Diema Sport",Diema Sport (21:00 - 20.09)
+http://85.11.144.8/archive/485/20260920-21.mpg
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/aeofcfr.png" group-title="Diema Sport",Diema Sport (20:00 - 20.09)
 http://85.11.144.8/archive/485/20260920-20.mpg
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/aeofcfr.png" group-title="Diema Sport",Diema Sport (19:00 - 20.09)
@@ -3397,10 +3401,10 @@ http://85.11.144.8/archive/485/20260919-01.mpg
 http://85.11.144.8/archive/485/20260919-00.mpg
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/aeofcfr.png" group-title="Diema Sport",Diema Sport (23:00 - 18.09)
 http://85.11.144.8/archive/485/20260918-23.mpg
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/aeofcfr.png" group-title="Diema Sport",Diema Sport (22:00 - 18.09)
-http://85.11.144.8/archive/485/20260918-22.mpg
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/aeofcfr.png" group-title="Diema Sport",Diema Sport (21:00 - 18.09)
-http://85.11.144.8/archive/485/20260918-21.mpg
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/ad8uhas.png" group-title="Diema Sport 2",Diema Sport 2 (22:00 - 20.09)
+http://85.11.144.8/archive/592/20260920-22.mpg
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/ad8uhas.png" group-title="Diema Sport 2",Diema Sport 2 (21:00 - 20.09)
+http://85.11.144.8/archive/592/20260920-21.mpg
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/ad8uhas.png" group-title="Diema Sport 2",Diema Sport 2 (20:00 - 20.09)
 http://85.11.144.8/archive/592/20260920-20.mpg
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/ad8uhas.png" group-title="Diema Sport 2",Diema Sport 2 (19:00 - 20.09)
@@ -3493,10 +3497,10 @@ http://85.11.144.8/archive/592/20260919-01.mpg
 http://85.11.144.8/archive/592/20260919-00.mpg
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/ad8uhas.png" group-title="Diema Sport 2",Diema Sport 2 (23:00 - 18.09)
 http://85.11.144.8/archive/592/20260918-23.mpg
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/ad8uhas.png" group-title="Diema Sport 2",Diema Sport 2 (22:00 - 18.09)
-http://85.11.144.8/archive/592/20260918-22.mpg
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/ad8uhas.png" group-title="Diema Sport 2",Diema Sport 2 (21:00 - 18.09)
-http://85.11.144.8/archive/592/20260918-21.mpg
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/6s0zh2x.png" group-title="Diema Sport 3",Diema Sport 3 (22:00 - 20.09)
+http://85.11.144.8/archive/1380/20260920-22.mpg
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/6s0zh2x.png" group-title="Diema Sport 3",Diema Sport 3 (21:00 - 20.09)
+http://85.11.144.8/archive/1380/20260920-21.mpg
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/6s0zh2x.png" group-title="Diema Sport 3",Diema Sport 3 (20:00 - 20.09)
 http://85.11.144.8/archive/1380/20260920-20.mpg
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/6s0zh2x.png" group-title="Diema Sport 3",Diema Sport 3 (19:00 - 20.09)
@@ -3589,10 +3593,10 @@ http://85.11.144.8/archive/1380/20260919-01.mpg
 http://85.11.144.8/archive/1380/20260919-00.mpg
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/6s0zh2x.png" group-title="Diema Sport 3",Diema Sport 3 (23:00 - 18.09)
 http://85.11.144.8/archive/1380/20260918-23.mpg
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/6s0zh2x.png" group-title="Diema Sport 3",Diema Sport 3 (22:00 - 18.09)
-http://85.11.144.8/archive/1380/20260918-22.mpg
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/6s0zh2x.png" group-title="Diema Sport 3",Diema Sport 3 (21:00 - 18.09)
-http://85.11.144.8/archive/1380/20260918-21.mpg
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/6mz83ad.png" group-title="MAX Sport 1",MAX Sport 1 (22:00 - 20.09)
+http://85.11.144.8/archive/1049/20260920-22.mpg
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/6mz83ad.png" group-title="MAX Sport 1",MAX Sport 1 (21:00 - 20.09)
+http://85.11.144.8/archive/1049/20260920-21.mpg
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/6mz83ad.png" group-title="MAX Sport 1",MAX Sport 1 (20:00 - 20.09)
 http://85.11.144.8/archive/1049/20260920-20.mpg
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/6mz83ad.png" group-title="MAX Sport 1",MAX Sport 1 (19:00 - 20.09)
@@ -3685,10 +3689,10 @@ http://85.11.144.8/archive/1049/20260919-01.mpg
 http://85.11.144.8/archive/1049/20260919-00.mpg
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/6mz83ad.png" group-title="MAX Sport 1",MAX Sport 1 (23:00 - 18.09)
 http://85.11.144.8/archive/1049/20260918-23.mpg
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/6mz83ad.png" group-title="MAX Sport 1",MAX Sport 1 (22:00 - 18.09)
-http://85.11.144.8/archive/1049/20260918-22.mpg
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/6mz83ad.png" group-title="MAX Sport 1",MAX Sport 1 (21:00 - 18.09)
-http://85.11.144.8/archive/1049/20260918-21.mpg
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/18djvhy.png" group-title="MAX Sport 2",MAX Sport 2 (22:00 - 20.09)
+http://85.11.144.8/archive/1498/20260920-22.mpg
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/18djvhy.png" group-title="MAX Sport 2",MAX Sport 2 (21:00 - 20.09)
+http://85.11.144.8/archive/1498/20260920-21.mpg
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/18djvhy.png" group-title="MAX Sport 2",MAX Sport 2 (20:00 - 20.09)
 http://85.11.144.8/archive/1498/20260920-20.mpg
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/18djvhy.png" group-title="MAX Sport 2",MAX Sport 2 (19:00 - 20.09)
@@ -3781,10 +3785,10 @@ http://85.11.144.8/archive/1498/20260919-01.mpg
 http://85.11.144.8/archive/1498/20260919-00.mpg
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/18djvhy.png" group-title="MAX Sport 2",MAX Sport 2 (23:00 - 18.09)
 http://85.11.144.8/archive/1498/20260918-23.mpg
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/18djvhy.png" group-title="MAX Sport 2",MAX Sport 2 (22:00 - 18.09)
-http://85.11.144.8/archive/1498/20260918-22.mpg
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/18djvhy.png" group-title="MAX Sport 2",MAX Sport 2 (21:00 - 18.09)
-http://85.11.144.8/archive/1498/20260918-21.mpg
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/kayjpc2.png" group-title="MAX Sport 3",MAX Sport 3 (22:00 - 20.09)
+http://85.11.144.8/archive/1721/20260920-22.mpg
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/kayjpc2.png" group-title="MAX Sport 3",MAX Sport 3 (21:00 - 20.09)
+http://85.11.144.8/archive/1721/20260920-21.mpg
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/kayjpc2.png" group-title="MAX Sport 3",MAX Sport 3 (20:00 - 20.09)
 http://85.11.144.8/archive/1721/20260920-20.mpg
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/kayjpc2.png" group-title="MAX Sport 3",MAX Sport 3 (19:00 - 20.09)
@@ -3877,10 +3881,10 @@ http://85.11.144.8/archive/1721/20260919-01.mpg
 http://85.11.144.8/archive/1721/20260919-00.mpg
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/kayjpc2.png" group-title="MAX Sport 3",MAX Sport 3 (23:00 - 18.09)
 http://85.11.144.8/archive/1721/20260918-23.mpg
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/kayjpc2.png" group-title="MAX Sport 3",MAX Sport 3 (22:00 - 18.09)
-http://85.11.144.8/archive/1721/20260918-22.mpg
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/kayjpc2.png" group-title="MAX Sport 3",MAX Sport 3 (21:00 - 18.09)
-http://85.11.144.8/archive/1721/20260918-21.mpg
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/45c5pf1.png" group-title="MAX Sport 4",MAX Sport 4 (22:00 - 20.09)
+http://85.11.144.8/archive/1752/20260920-22.mpg
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/45c5pf1.png" group-title="MAX Sport 4",MAX Sport 4 (21:00 - 20.09)
+http://85.11.144.8/archive/1752/20260920-21.mpg
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/45c5pf1.png" group-title="MAX Sport 4",MAX Sport 4 (20:00 - 20.09)
 http://85.11.144.8/archive/1752/20260920-20.mpg
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/45c5pf1.png" group-title="MAX Sport 4",MAX Sport 4 (19:00 - 20.09)
@@ -3973,10 +3977,10 @@ http://85.11.144.8/archive/1752/20260919-01.mpg
 http://85.11.144.8/archive/1752/20260919-00.mpg
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/45c5pf1.png" group-title="MAX Sport 4",MAX Sport 4 (23:00 - 18.09)
 http://85.11.144.8/archive/1752/20260918-23.mpg
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/45c5pf1.png" group-title="MAX Sport 4",MAX Sport 4 (22:00 - 18.09)
-http://85.11.144.8/archive/1752/20260918-22.mpg
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/45c5pf1.png" group-title="MAX Sport 4",MAX Sport 4 (21:00 - 18.09)
-http://85.11.144.8/archive/1752/20260918-21.mpg
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/palwmce.png" group-title="RING",RING (22:00 - 20.09)
+http://85.11.144.8/archive/76/20260920-22.mpg
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/palwmce.png" group-title="RING",RING (21:00 - 20.09)
+http://85.11.144.8/archive/76/20260920-21.mpg
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/palwmce.png" group-title="RING",RING (20:00 - 20.09)
 http://85.11.144.8/archive/76/20260920-20.mpg
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/palwmce.png" group-title="RING",RING (19:00 - 20.09)
@@ -4069,10 +4073,10 @@ http://85.11.144.8/archive/76/20260919-01.mpg
 http://85.11.144.8/archive/76/20260919-00.mpg
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/palwmce.png" group-title="RING",RING (23:00 - 18.09)
 http://85.11.144.8/archive/76/20260918-23.mpg
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/palwmce.png" group-title="RING",RING (22:00 - 18.09)
-http://85.11.144.8/archive/76/20260918-22.mpg
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/palwmce.png" group-title="RING",RING (21:00 - 18.09)
-http://85.11.144.8/archive/76/20260918-21.mpg
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/jr6z84f.png" group-title="Nova Sport",Nova Sport (22:00 - 20.09)
+http://85.11.144.8/archive/10/20260920-22.mpg
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/jr6z84f.png" group-title="Nova Sport",Nova Sport (21:00 - 20.09)
+http://85.11.144.8/archive/10/20260920-21.mpg
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/jr6z84f.png" group-title="Nova Sport",Nova Sport (20:00 - 20.09)
 http://85.11.144.8/archive/10/20260920-20.mpg
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/jr6z84f.png" group-title="Nova Sport",Nova Sport (19:00 - 20.09)
@@ -4165,10 +4169,10 @@ http://85.11.144.8/archive/10/20260919-01.mpg
 http://85.11.144.8/archive/10/20260919-00.mpg
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/jr6z84f.png" group-title="Nova Sport",Nova Sport (23:00 - 18.09)
 http://85.11.144.8/archive/10/20260918-23.mpg
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/jr6z84f.png" group-title="Nova Sport",Nova Sport (22:00 - 18.09)
-http://85.11.144.8/archive/10/20260918-22.mpg
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/jr6z84f.png" group-title="Nova Sport",Nova Sport (21:00 - 18.09)
-http://85.11.144.8/archive/10/20260918-21.mpg
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/ovtv2we.png" group-title="Evrokom",Evrokom (22:00 - 20.09)
+http://85.11.144.8/archive/49/20260920-22.mpg
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/ovtv2we.png" group-title="Evrokom",Evrokom (21:00 - 20.09)
+http://85.11.144.8/archive/49/20260920-21.mpg
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/ovtv2we.png" group-title="Evrokom",Evrokom (20:00 - 20.09)
 http://85.11.144.8/archive/49/20260920-20.mpg
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/ovtv2we.png" group-title="Evrokom",Evrokom (19:00 - 20.09)
@@ -4261,10 +4265,10 @@ http://85.11.144.8/archive/49/20260919-01.mpg
 http://85.11.144.8/archive/49/20260919-00.mpg
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/ovtv2we.png" group-title="Evrokom",Evrokom (23:00 - 18.09)
 http://85.11.144.8/archive/49/20260918-23.mpg
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/ovtv2we.png" group-title="Evrokom",Evrokom (22:00 - 18.09)
-http://85.11.144.8/archive/49/20260918-22.mpg
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/ovtv2we.png" group-title="Evrokom",Evrokom (21:00 - 18.09)
-http://85.11.144.8/archive/49/20260918-21.mpg
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/4w9htsr.png" group-title="7/8 TV",7/8 TV (22:00 - 20.09)
+http://85.11.144.8/archive/197/20260920-22.mpg
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/4w9htsr.png" group-title="7/8 TV",7/8 TV (21:00 - 20.09)
+http://85.11.144.8/archive/197/20260920-21.mpg
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/4w9htsr.png" group-title="7/8 TV",7/8 TV (20:00 - 20.09)
 http://85.11.144.8/archive/197/20260920-20.mpg
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/4w9htsr.png" group-title="7/8 TV",7/8 TV (19:00 - 20.09)
@@ -4357,10 +4361,10 @@ http://85.11.144.8/archive/197/20260919-01.mpg
 http://85.11.144.8/archive/197/20260919-00.mpg
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/4w9htsr.png" group-title="7/8 TV",7/8 TV (23:00 - 18.09)
 http://85.11.144.8/archive/197/20260918-23.mpg
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/4w9htsr.png" group-title="7/8 TV",7/8 TV (22:00 - 18.09)
-http://85.11.144.8/archive/197/20260918-22.mpg
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/4w9htsr.png" group-title="7/8 TV",7/8 TV (21:00 - 18.09)
-http://85.11.144.8/archive/197/20260918-21.mpg
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/31ifmd8.png" group-title="Agro TV",Agro TV (22:00 - 20.09)
+http://85.11.144.8/archive/114/20260920-22.mpg
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/31ifmd8.png" group-title="Agro TV",Agro TV (21:00 - 20.09)
+http://85.11.144.8/archive/114/20260920-21.mpg
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/31ifmd8.png" group-title="Agro TV",Agro TV (20:00 - 20.09)
 http://85.11.144.8/archive/114/20260920-20.mpg
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/31ifmd8.png" group-title="Agro TV",Agro TV (19:00 - 20.09)
@@ -4431,10 +4435,10 @@ http://85.11.144.8/archive/114/20260919-12.mpg
 http://85.11.144.8/archive/114/20260919-11.mpg
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/31ifmd8.png" group-title="Agro TV",Agro TV (10:00 - 19.09)
 http://85.11.144.8/archive/114/20260919-10.mpg
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/31ifmd8.png" group-title="Agro TV",Agro TV (09:00 - 19.09)
-http://85.11.144.8/archive/114/20260919-09.mpg
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/31ifmd8.png" group-title="Agro TV",Agro TV (08:00 - 19.09)
-http://85.11.144.8/archive/114/20260919-08.mpg
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/bzp729r.png" group-title="Skat TV",Skat TV (22:00 - 20.09)
+http://85.11.144.8/archive/80/20260920-22.mpg
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/bzp729r.png" group-title="Skat TV",Skat TV (21:00 - 20.09)
+http://85.11.144.8/archive/80/20260920-21.mpg
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/bzp729r.png" group-title="Skat TV",Skat TV (20:00 - 20.09)
 http://85.11.144.8/archive/80/20260920-20.mpg
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/bzp729r.png" group-title="Skat TV",Skat TV (19:00 - 20.09)
@@ -4527,10 +4531,10 @@ http://85.11.144.8/archive/80/20260919-01.mpg
 http://85.11.144.8/archive/80/20260919-00.mpg
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/bzp729r.png" group-title="Skat TV",Skat TV (23:00 - 18.09)
 http://85.11.144.8/archive/80/20260918-23.mpg
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/bzp729r.png" group-title="Skat TV",Skat TV (22:00 - 18.09)
-http://85.11.144.8/archive/80/20260918-22.mpg
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/bzp729r.png" group-title="Skat TV",Skat TV (21:00 - 18.09)
-http://85.11.144.8/archive/80/20260918-21.mpg
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/6fxoukd.png" group-title="TVT",TVT (22:00 - 20.09)
+http://85.11.144.8/archive/92/20260920-22.mpg
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/6fxoukd.png" group-title="TVT",TVT (21:00 - 20.09)
+http://85.11.144.8/archive/92/20260920-21.mpg
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/6fxoukd.png" group-title="TVT",TVT (20:00 - 20.09)
 http://85.11.144.8/archive/92/20260920-20.mpg
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/6fxoukd.png" group-title="TVT",TVT (19:00 - 20.09)
@@ -4601,10 +4605,10 @@ http://85.11.144.8/archive/92/20260919-12.mpg
 http://85.11.144.8/archive/92/20260919-11.mpg
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/6fxoukd.png" group-title="TVT",TVT (10:00 - 19.09)
 http://85.11.144.8/archive/92/20260919-10.mpg
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/6fxoukd.png" group-title="TVT",TVT (09:00 - 19.09)
-http://85.11.144.8/archive/92/20260919-09.mpg
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/6fxoukd.png" group-title="TVT",TVT (08:00 - 19.09)
-http://85.11.144.8/archive/92/20260919-08.mpg
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/tsuodvd.png" group-title="Cartoon Network",Cartoon Network (22:00 - 20.09)
+http://85.11.144.8/archive/34/20260920-22.mpg
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/tsuodvd.png" group-title="Cartoon Network",Cartoon Network (21:00 - 20.09)
+http://85.11.144.8/archive/34/20260920-21.mpg
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/tsuodvd.png" group-title="Cartoon Network",Cartoon Network (20:00 - 20.09)
 http://85.11.144.8/archive/34/20260920-20.mpg
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/tsuodvd.png" group-title="Cartoon Network",Cartoon Network (19:00 - 20.09)
@@ -4697,10 +4701,10 @@ http://85.11.144.8/archive/34/20260919-01.mpg
 http://85.11.144.8/archive/34/20260919-00.mpg
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/tsuodvd.png" group-title="Cartoon Network",Cartoon Network (23:00 - 18.09)
 http://85.11.144.8/archive/34/20260918-23.mpg
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/tsuodvd.png" group-title="Cartoon Network",Cartoon Network (22:00 - 18.09)
-http://85.11.144.8/archive/34/20260918-22.mpg
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/tsuodvd.png" group-title="Cartoon Network",Cartoon Network (21:00 - 18.09)
-http://85.11.144.8/archive/34/20260918-21.mpg
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/1uphxzl.png" group-title="Disney Channel",Disney Channel (22:00 - 20.09)
+http://85.11.144.8/archive/1931/20260920-22.mpg
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/1uphxzl.png" group-title="Disney Channel",Disney Channel (21:00 - 20.09)
+http://85.11.144.8/archive/1931/20260920-21.mpg
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/1uphxzl.png" group-title="Disney Channel",Disney Channel (20:00 - 20.09)
 http://85.11.144.8/archive/1931/20260920-20.mpg
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/1uphxzl.png" group-title="Disney Channel",Disney Channel (19:00 - 20.09)
@@ -4793,10 +4797,10 @@ http://85.11.144.8/archive/1931/20260919-01.mpg
 http://85.11.144.8/archive/1931/20260919-00.mpg
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/1uphxzl.png" group-title="Disney Channel",Disney Channel (23:00 - 18.09)
 http://85.11.144.8/archive/1931/20260918-23.mpg
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/1uphxzl.png" group-title="Disney Channel",Disney Channel (22:00 - 18.09)
-http://85.11.144.8/archive/1931/20260918-22.mpg
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/1uphxzl.png" group-title="Disney Channel",Disney Channel (21:00 - 18.09)
-http://85.11.144.8/archive/1931/20260918-21.mpg
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/r7lznoh.png" group-title="Nick Jr",Nick Jr (22:00 - 20.09)
+http://85.11.144.8/archive/192/20260920-22.mpg
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/r7lznoh.png" group-title="Nick Jr",Nick Jr (21:00 - 20.09)
+http://85.11.144.8/archive/192/20260920-21.mpg
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/r7lznoh.png" group-title="Nick Jr",Nick Jr (20:00 - 20.09)
 http://85.11.144.8/archive/192/20260920-20.mpg
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/r7lznoh.png" group-title="Nick Jr",Nick Jr (19:00 - 20.09)
@@ -4889,10 +4893,10 @@ http://85.11.144.8/archive/192/20260919-01.mpg
 http://85.11.144.8/archive/192/20260919-00.mpg
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/r7lznoh.png" group-title="Nick Jr",Nick Jr (23:00 - 18.09)
 http://85.11.144.8/archive/192/20260918-23.mpg
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/r7lznoh.png" group-title="Nick Jr",Nick Jr (22:00 - 18.09)
-http://85.11.144.8/archive/192/20260918-22.mpg
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/r7lznoh.png" group-title="Nick Jr",Nick Jr (21:00 - 18.09)
-http://85.11.144.8/archive/192/20260918-21.mpg
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/9iw8age.png" group-title="Nickelodeon",Nickelodeon (22:00 - 20.09)
+http://85.11.144.8/archive/209/20260920-22.mpg
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/9iw8age.png" group-title="Nickelodeon",Nickelodeon (21:00 - 20.09)
+http://85.11.144.8/archive/209/20260920-21.mpg
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/9iw8age.png" group-title="Nickelodeon",Nickelodeon (20:00 - 20.09)
 http://85.11.144.8/archive/209/20260920-20.mpg
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/9iw8age.png" group-title="Nickelodeon",Nickelodeon (19:00 - 20.09)
@@ -4985,10 +4989,10 @@ http://85.11.144.8/archive/209/20260919-01.mpg
 http://85.11.144.8/archive/209/20260919-00.mpg
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/9iw8age.png" group-title="Nickelodeon",Nickelodeon (23:00 - 18.09)
 http://85.11.144.8/archive/209/20260918-23.mpg
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/9iw8age.png" group-title="Nickelodeon",Nickelodeon (22:00 - 18.09)
-http://85.11.144.8/archive/209/20260918-22.mpg
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/9iw8age.png" group-title="Nickelodeon",Nickelodeon (21:00 - 18.09)
-http://85.11.144.8/archive/209/20260918-21.mpg
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/8tvmxda.png" group-title="Cartoonito",Cartoonito (22:00 - 20.09)
+http://85.11.144.8/archive/29/20260920-22.mpg
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/8tvmxda.png" group-title="Cartoonito",Cartoonito (21:00 - 20.09)
+http://85.11.144.8/archive/29/20260920-21.mpg
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/8tvmxda.png" group-title="Cartoonito",Cartoonito (20:00 - 20.09)
 http://85.11.144.8/archive/29/20260920-20.mpg
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/8tvmxda.png" group-title="Cartoonito",Cartoonito (19:00 - 20.09)
@@ -5059,10 +5063,10 @@ http://85.11.144.8/archive/29/20260919-12.mpg
 http://85.11.144.8/archive/29/20260919-11.mpg
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/8tvmxda.png" group-title="Cartoonito",Cartoonito (10:00 - 19.09)
 http://85.11.144.8/archive/29/20260919-10.mpg
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/8tvmxda.png" group-title="Cartoonito",Cartoonito (09:00 - 19.09)
-http://85.11.144.8/archive/29/20260919-09.mpg
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/8tvmxda.png" group-title="Cartoonito",Cartoonito (08:00 - 19.09)
-http://85.11.144.8/archive/29/20260919-08.mpg
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/pwo6mmu.png" group-title="EKids",EKids (22:00 - 20.09)
+http://85.11.144.8/archive/46/20260920-22.mpg
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/pwo6mmu.png" group-title="EKids",EKids (21:00 - 20.09)
+http://85.11.144.8/archive/46/20260920-21.mpg
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/pwo6mmu.png" group-title="EKids",EKids (20:00 - 20.09)
 http://85.11.144.8/archive/46/20260920-20.mpg
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/pwo6mmu.png" group-title="EKids",EKids (19:00 - 20.09)
@@ -5133,7 +5137,3 @@ http://85.11.144.8/archive/46/20260919-12.mpg
 http://85.11.144.8/archive/46/20260919-11.mpg
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/pwo6mmu.png" group-title="EKids",EKids (10:00 - 19.09)
 http://85.11.144.8/archive/46/20260919-10.mpg
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/pwo6mmu.png" group-title="EKids",EKids (09:00 - 19.09)
-http://85.11.144.8/archive/46/20260919-09.mpg
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/pwo6mmu.png" group-title="EKids",EKids (08:00 - 19.09)
-http://85.11.144.8/archive/46/20260919-08.mpg
