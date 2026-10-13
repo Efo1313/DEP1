@@ -40,13 +40,17 @@ jobs:
           git config --global user.email "action@github.com"
           git config --global user.name "GitHub Action"
           
-          # Sadece seyir_sandigi dosyasını kontrol ediyoruz
+          # Sadece seyir_sandigi dosyasını kontrol edip commit'liyoruz
           ls -la seyir_sandigi.m3u
-          
-          # yayinlarim.m3u buradan çıkarıldı, sadece seyir_sandigi kaldı
           git add seyir_sandigi.m3u
-          
           git commit -m "Oto Guncelleme: $(date +'%Y-%m-%d %H:%M')" || echo "Degisiklik yok"
           
-          git pull --rebase origin main
+          # Uzaktaki değişiklikleri al, çakışma çıkarsa kendi ürettiğimiz güncel dosyayı koru
+          git pull origin main --rebase --autostash || true
+          git checkout --ours seyir_sandigi.m3u || true
+          git add seyir_sandigi.m3u
+          
+          # Rebase işlemini devam ettir ve tamamla (hata oluşursa güvenli şekilde geç)
+          git rebase --continue || echo "Rebase already finished or no rebase in progress."
+          
           git push origin main
